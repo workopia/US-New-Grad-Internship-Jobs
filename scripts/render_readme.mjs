@@ -37,6 +37,7 @@ const SERIES = [
   ['CA', 'Canada', 'https://github.com/workopia/Canada-New-Grad-Internship-Jobs'],
   ['ES', 'Spain', 'https://github.com/workopia/Spain-Graduate-Internship-Jobs'],
   ['NL', 'Netherlands', 'https://github.com/workopia/Netherlands-Graduate-Jobs'],
+  ['HK', 'Hong Kong', 'https://github.com/workopia/Hong-Kong-Graduate-Internship-Jobs'],
 ];
 
 const L10N = {
@@ -274,10 +275,10 @@ const L10N = {
 
 // Localized category display names by key (fallback: the name in listings.json).
 const CAT_NAME = {
-  fr: { grad: 'Jeunes diplômés & Alternance', tech: 'Tech', finance: 'Finance & Comptabilité', healthcare: 'Santé', trades: 'Métiers techniques & Alternance', sales: 'Vente & Retail', admin: 'Business & Admin' },
-  de: { grad: 'Absolventenprogramme & Ausbildung', tech: 'Technik & IT', finance: 'Finanzen & Buchhaltung', healthcare: 'Gesundheitswesen', trades: 'Handwerk & Ausbildung', sales: 'Vertrieb & Einzelhandel', admin: 'Verwaltung & Business' },
-  es: { grad: 'Programas para recién graduados y trainee', tech: 'Tech', finance: 'Finanzas y contabilidad', healthcare: 'Sanidad', trades: 'Oficios y aprendizajes', sales: 'Ventas y retail', admin: 'Administración y gestión' },
-  nl: { grad: "Starters- & traineeprogramma's", tech: 'Tech', finance: 'Financiën & Boekhouden', healthcare: 'Healthcare', trades: 'Ambachten & Leerwerkplekken', sales: 'Verkoop & Detailhandel', admin: 'Bedrijf & Administratie' },
+  fr: { grad: 'Jeunes diplômés & Alternance', tech: 'Tech', data: 'Data, IA & ML', finance: 'Finance & Comptabilité', healthcare: 'Santé', trades: 'Métiers techniques & Alternance', sales: 'Vente & Retail', admin: 'Business & Admin' },
+  de: { grad: 'Absolventenprogramme & Ausbildung', tech: 'Technik & IT', data: 'Daten, KI & ML', finance: 'Finanzen & Buchhaltung', healthcare: 'Gesundheitswesen', trades: 'Handwerk & Ausbildung', sales: 'Vertrieb & Einzelhandel', admin: 'Verwaltung & Business' },
+  es: { grad: 'Programas para recién graduados y trainee', tech: 'Tech', data: 'Datos, IA y ML', finance: 'Finanzas y contabilidad', healthcare: 'Sanidad', trades: 'Oficios y aprendizajes', sales: 'Ventas y retail', admin: 'Administración y gestión' },
+  nl: { grad: "Starters- & traineeprogramma's", tech: 'Tech', data: 'Data, AI & ML', finance: 'Financiën & Boekhouden', healthcare: 'Healthcare', trades: 'Ambachten & Leerwerkplekken', sales: 'Verkoop & Detailhandel', admin: 'Bedrijf & Administratie' },
 };
 
 const slugify = (s) => (s || '').toLowerCase().normalize('NFKD').replace(/[̀-ͯ]/g, '').replace(/[^\w\s-]/g, '').trim().replace(/[\s_]+/g, '-').replace(/-+/g, '-') || 'job';
