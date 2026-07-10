@@ -7,10 +7,11 @@
   "adjective": "US",
   "segment": "us",
   "site_slug": "united-states",
+  "lang": "en",
   "as_of": "2026-07-10",
   "window_days": 60,
   "total_site_jobs_str": "7.3M+",
-  "generated_at": "2026-07-10T04:53:20.201Z"
+  "generated_at": "2026-07-10T05:04:49.247Z"
  },
  "categories": [
   {
