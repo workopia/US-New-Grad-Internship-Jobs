@@ -33,6 +33,10 @@ const SERIES = [
   ['AU', 'Australia', 'https://github.com/workopia/Australia-Graduate-Jobs'],
   ['SG', 'Singapore', 'https://github.com/workopia/Singapore-Graduate-Internship-Jobs'],
   ['FR', 'France', 'https://github.com/workopia/France-Graduate-Apprenticeship-Jobs'],
+  ['DE', 'Germany', 'https://github.com/workopia/Germany-Graduate-Jobs'],
+  ['CA', 'Canada', 'https://github.com/workopia/Canada-New-Grad-Internship-Jobs'],
+  ['ES', 'Spain', 'https://github.com/workopia/Spain-Graduate-Internship-Jobs'],
+  ['NL', 'Netherlands', 'https://github.com/workopia/Netherlands-Graduate-Jobs'],
 ];
 
 const L10N = {
@@ -80,6 +84,7 @@ const L10N = {
     tierWord: { Intern: 'Internships', Graduate: 'Graduate', 'Entry-level': 'Entry-level' },
     browseAlt: 'Browse all {ADJ} jobs on Workopia',
     subscribeAlt: 'Subscribe for new-job alerts',
+    ageToday: 'today', ageDay: 'd', ageWeek: 'w', ageMonth: 'mo',
   },
   fr: {
     updatedDaily: 'Mis à jour quotidiennement',
@@ -125,12 +130,154 @@ const L10N = {
     tierWord: { Intern: 'Stages', Graduate: 'Jeunes diplômés', 'Entry-level': 'Débutant' },
     browseAlt: 'Parcourez tous les postes en France sur Workopia',
     subscribeAlt: 'Abonnez-vous aux alertes de nouveaux postes',
+    ageToday: "aujourd'hui", ageDay: ' j', ageWeek: ' sem', ageMonth: ' mois',
+  },
+  de: {
+    updatedDaily: 'Täglich aktualisiert',
+    intro: 'Verfolgen Sie die neuesten **Absolventenprogramme, Einstiegspositionen, Ausbildungen und Praktika** in Deutschland in Technik, Finanzen, Gesundheitswesen, Handwerk, Vertrieb & Einzelhandel und Verwaltung. {N} handverlesene Stellen unten — Teil von **{TOTAL} aktiven Stellenanzeigen direkt von Karriereseiten der Arbeitgeber, täglich aktualisiert, kein Scraping durch Dritte.**',
+    maintainedBy: 'Gepflegt von [**Workopia**]({URL}) — die zweitgrößte Jobdatenbank der Welt, 94 Länder, 2.517 Städte.',
+    reportIssue: '🙏 **Falsche oder geschlossene Stelle gefunden? [Melden Sie ein Problem](../../issues/new/choose) — siehe [Beitragsleitfaden](./CONTRIBUTING.md).** 🙏',
+    browseByCategory: 'Stöbern Sie in {N} Stellen nach Kategorie',
+    wantFullList: '🔎 Möchten Sie die komplette, immer aktuelle Liste?',
+    handPickedSlice: 'Diese Seite ist eine Auswahl. Suchen und filtern Sie alle {TOTAL} Live-Jobs nach Rolle, Stadt, Gehalt und Datum auf Workopia.',
+    tiredOfChecking: '🔔 Müde vom täglichen Durchsuchen?',
+    getAlerted: 'Lassen Sie sich benachrichtigen, wenn neue deutsche Absolventenstellen und Einstiegspositionen veröffentlicht werden.',
+    watchReleases: 'Oder <b>Watch → Custom → Releases</b> in diesem Repository für einen wöchentlichen E-Mail-Digest neuer Stellen.',
+    legend: 'Legende',
+    legendNew: 'In den letzten 2 Tagen veröffentlicht',
+    legendSalary: 'Gehalt (reell oder **WORKOPIA ESTIMATE**) auf jeder Stellenseite bei Workopia angezeigt',
+    legendVisaGB: 'Visa sponsorship available (UK Skilled Worker register)',
+    legendHot: 'Bemerkenswert / schnell wachsender Arbeitgeber',
+    legendClosed: 'Geschlossene Stellen wechseln zu [Inaktive Anzeigen](./README-Inactive.md)',
+    lookingElse: '**Suchen Sie etwas anderes?**',
+    closedOlder: 'Geschlossene/ältere Stellen → [Inaktive Anzeigen](./README-Inactive.md)',
+    otherCountries: 'Andere Länder',
+    fullLiveList: 'Die komplette aktuelle Liste → [alle deutschen Jobs auf Workopia]({URL})',
+    faqTitle: 'FAQs',
+    faq1q: 'Für welche Absolventenstellen und Praktika kann ich mich jetzt noch bewerben?',
+    faq1a: 'Viele strukturierte Absolventenprogramme und Sommerpraktika laufen nach Jahreszyklen — aber ein großer Teil der Arbeitgeber rekrutiert **fortlaufend**, und Absolventenjobs, Ausbildungen, Handwerk, Vertrieb und Einstiegspositionen werden das ganze Jahr über besetzt. Diese Liste zeigt, was **heute live** ist, täglich aktualisiert.',
+    faq2q: 'Was ist ein Assessment Centre und wie bereite ich mich vor?',
+    faq2a: 'Eine Mischung aus Gruppen- und Präsentationsübungen, In-Tray-Aufgaben und Interviews über ein bis zwei Tage — meist die letzte Runde. Siehe [Interview- & Assessment-Tipps auf Workopia]({URL}).',
+    faq3q: 'Wie erhalte ich Benachrichtigungen für neue Stellen?',
+    faq3a: 'Richten Sie auf Workopia einen Job-Alert nach Rolle + Stadt ein und wir benachrichtigen Sie, wenn neue deutsche Stellen veröffentlicht werden — [hier starten]({URL}).',
+    noteTiered: '💡 Keine "Absolventenstelle" hier gefunden? Schauen Sie sich **Berufseinstieg** unten an — auch ähnliche Rollen zählen (ein Software Engineer kann sich auf Backend / Full Stack / AI Engineer bewerben).',
+    noteEntry: '💡 Dies sind Einstiegspositionen, die das ganze Jahr über besetzt werden — bewerben Sie sich direkt; kein Absolventenprogramm-Stichtag.',
+    noteHealthcare: '🏥 Gesundheitswesen ist qualifikationsabhängig — neu qualifizierte Krankenpfleger, Apotheker, Pflege- und Fachkräfte bewerben sich direkt auf die Stelle.',
+    browseAllCat: '🔎 **[Alle aktuellen {NAME}-Jobs in Deutschland durchsuchen und filtern →]({URL})**',
+    allGradCat: '🎓 **[Alle deutschen Absolventenstellen & Einstiegspositionen im Bereich {NAME} →]({URL})**',
+    backToTop: '⬆️ Nach oben',
+    biggerPicture: '🌍 Das Gesamtbild sehen',
+    monitorAlt: 'Workopia — Live Global Hiring Monitor über 94 Länder',
+    exploreMonitor: '🌍 Erkunden Sie den Live Global Hiring Monitor →',
+    footer: '📅 Täglich aktualisiert · Daten © Workopia, direkt von Karriereseiten · Stellen können vor Aktualisierung dieser Liste geschlossen sein — bestätigen Sie auf der Jobseite. Kostenlos alle {TOTAL} Jobs auf [workopia.io]({URL}) durchsuchen.',
+    thCompany: 'Unternehmen', thRole: 'Stelle', thLocation: 'Standort', thSkills: 'Kernkompetenzen', thApply: 'Bewerbung', thAge: 'Online',
+    applyArrow: 'Bewerben →',
+    tierLabels: { Intern: 'Praktika', Graduate: 'Absolventen', 'Entry-level': 'Berufseinstieg', entryHealthcare: 'Berufsanfänger & Einstieg' },
+    tierWord: { Intern: 'Praktika', Graduate: 'Absolventen', 'Entry-level': 'Berufseinstieg' },
+    browseAlt: 'Alle Jobs in Deutschland auf Workopia',
+    subscribeAlt: 'Job-Alerts abonnieren',
+    ageToday: 'heute', ageDay: ' T', ageWeek: ' Wo', ageMonth: ' Mon',
+  },
+  es: {
+    updatedDaily: 'Actualizado diariamente',
+    intro: 'Explora los últimos **programas para recién graduados, puestos de entrada, aprendizajes y prácticas** en España en Tech, Finanzas, Sanidad, Oficios, Ventas & Retail y Administración & gestión. {N} puestos seleccionados a continuación — parte de **{TOTAL} anuncios de empleo activos extraídos directamente de las webs de carreras de empleadores, actualizados diariamente, sin scraping de terceros.**',
+    maintainedBy: 'Mantenido por [**Workopia**]({URL}) — la 2ª mayor base de datos de empleo del mundo, 94 países, 2.517 ciudades.',
+    reportIssue: '🙏 **¿Encontraste un puesto cerrado o incorrecto? [Abre una incidencia](../../issues/new/choose) — consulta la [guía de contribución](./CONTRIBUTING.md).** 🙏',
+    browseByCategory: 'Explora {N} puestos por categoría',
+    wantFullList: '🔎 ¿Quieres la lista completa y siempre fresca?',
+    handPickedSlice: 'Esta página es una selección hecha a mano. Busca y filtra todos los {TOTAL} empleos activos por puesto, ciudad, salario y fecha en Workopia.',
+    tiredOfChecking: '🔔 ¿Cansado de revisar cada día?',
+    getAlerted: 'Recibe alertas cuando salgan nuevos puestos para recién graduados y de entrada en España.',
+    watchReleases: 'O <b>Watch → Custom → Releases</b> en este repositorio para un resumen semanal por email de nuevos puestos.',
+    legend: 'Leyenda',
+    legendNew: 'Publicado en los últimos 2 días',
+    legendSalary: 'Salario (real o **WORKOPIA ESTIMATE**) mostrado en la página de Workopia de cada puesto',
+    legendVisaGB: 'Visa sponsorship available (UK Skilled Worker register)',
+    legendHot: 'Empleador destacado / de alto crecimiento',
+    legendClosed: 'Los puestos cerrados se trasladan a [Anuncios inactivos](./README-Inactive.md)',
+    lookingElse: '**¿Buscas algo más?**',
+    closedOlder: 'Puestos cerrados/antiguos → [Anuncios inactivos](./README-Inactive.md)',
+    otherCountries: 'Otros países',
+    fullLiveList: 'La lista completa activa → [todos los empleos en España en Workopia]({URL})',
+    faqTitle: 'Preguntas frecuentes',
+    faq1q: '¿Qué puestos para recién graduados y prácticas puedo solicitar ahora mismo?',
+    faq1a: 'Muchos programas estructurados para recién graduados y prácticas de verano se ajustan a ciclos anuales — pero una gran parte de empleadores recluta en **base continuada**, y los empleos para recién graduados, aprendizajes, oficios, ventas y puestos de entrada se ofrecen todo el año. Esta lista muestra lo que está **activo hoy**, actualizada diariamente.',
+    faq2q: '¿Qué es un centro de evaluación y cómo me preparo?',
+    faq2a: 'Una mezcla de medio día a dos días de ejercicios grupales, presentaciones, tareas y entrevistas — generalmente la fase final. Consulta [consejos de entrevista y evaluación en Workopia]({URL}).',
+    faq3q: '¿Cómo recibo alertas de nuevos puestos?',
+    faq3a: 'Configura una alerta de empleo en Workopia por puesto + ciudad y te enviaremos un email cuando salgan nuevos puestos en España — [comienza aquí]({URL}).',
+    noteTiered: '💡 ¿No encuentras un puesto para recién graduados aquí? Consulta **Junior / Sin experiencia** abajo — también cuentan puestos similares (un Ingeniero de Software puede optar a Backend / Full Stack / Ingeniero de IA).',
+    noteEntry: '💡 Estos son puestos junior que contratan todo el año — solicita directamente; sin fecha límite de programa.',
+    noteHealthcare: '🏥 Sanidad requiere cualificaciones — enfermeros recién cualificados, farmacéuticos, cuidadores y personal sanitario de apoyo solicitan directamente el puesto.',
+    browseAllCat: '🔎 **[Explora y filtra todos los empleos de {NAME} activos en España en Workopia →]({URL})**',
+    allGradCat: '🎓 **[Todos los puestos para recién graduados y de entrada en {NAME} en España →]({URL})**',
+    backToTop: '⬆️ Volver arriba',
+    biggerPicture: '🌍 Ver el panorama general',
+    monitorAlt: 'Workopia — monitor de contratación global en 94 países',
+    exploreMonitor: '🌍 Explora el monitor de contratación global →',
+    footer: '📅 Actualizado diariamente · Datos © Workopia, extraídos de las webs de carreras de empleadores · Los puestos pueden cerrarse antes de que se actualice esta lista — confirma en la página del puesto. Explora {TOTAL} empleos gratis en [workopia.io]({URL}).',
+    thCompany: 'Empresa', thRole: 'Puesto', thLocation: 'Ubicación', thSkills: 'Competencias clave', thApply: 'Solicitar', thAge: 'Fecha',
+    applyArrow: 'Solicitar →',
+    tierLabels: { Intern: 'Prácticas y becas', Graduate: 'Recién graduados', 'Entry-level': 'Junior / Sin experiencia', entryHealthcare: 'Recién cualificados y de entrada' },
+    tierWord: { Intern: 'Prácticas', Graduate: 'Recién graduados', 'Entry-level': 'Junior' },
+    browseAlt: 'Todos los empleos en España en Workopia',
+    subscribeAlt: 'Suscríbete a alertas de nuevos empleos',
+    ageToday: 'hoy', ageDay: ' d', ageWeek: ' sem', ageMonth: ' mes',
+  },
+  nl: {
+    updatedDaily: 'Dagelijks bijgewerkt',
+    intro: "Volg de nieuwste **starters- & traineeprogramma's, junior-functies en stages** in Nederland voor Tech, Financiën, Healthcare, Ambachten, Verkoop & Detailhandel en Bedrijf & Administratie. {N} handgeselecteerde functies hieronder — onderdeel van **{TOTAL} actieve vacatures rechtstreeks van werkgeverswebsites, dagelijks vernieuwd, geen externe scraping.**",
+    maintainedBy: 'Ondersteund door [**Workopia**]({URL}) — de op één na grootste jobdatabase ter wereld, 94 landen, 2.517 steden.',
+    reportIssue: '🙏 **Zag je een foutieve of gesloten functie? [Maak een issue aan](../../issues/new/choose) — zie de [contributieguide](./CONTRIBUTING.md).** 🙏',
+    browseByCategory: 'Blader door {N} functies per categorie',
+    wantFullList: '🔎 Wil je de volledige, altijd-actuele lijst?',
+    handPickedSlice: 'Deze pagina toont een selectie. Zoek & filter alle {TOTAL} live vacatures op rol, plaats, salaris & datum op Workopia.',
+    tiredOfChecking: '🔔 Beu van iedere dag checken?',
+    getAlerted: 'Ontvang een melding als er nieuwe startersbanen in Nederland live gaan.',
+    watchReleases: 'Of <b>Watch → Custom → Releases</b> in deze repo voor een wekelijks e-maildigest met nieuwe functies.',
+    legend: 'Legenda',
+    legendNew: 'Geplaatst in de afgelopen 2 dagen',
+    legendSalary: 'Salaris (echt of **WORKOPIA ESTIMATE**) getoond op elke functie op Workopia',
+    legendVisaGB: 'Visa sponsorship available (UK Skilled Worker register)',
+    legendHot: 'Opmerkelijk / snelgroeiende werkgever',
+    legendClosed: 'Gesloten functies gaan naar [Inactieve listings](./README-Inactive.md)',
+    lookingElse: '**Op zoek naar iets anders?**',
+    closedOlder: 'Gesloten/oudere functies → [Inactieve listings](./README-Inactive.md)',
+    otherCountries: 'Andere landen',
+    fullLiveList: 'De volledige live lijst → [alle Nederlandse banen op Workopia]({URL})',
+    faqTitle: 'Veelgestelde vragen',
+    faq1q: 'Op welke startersbanen & stages kan ik nu nog solliciteren?',
+    faq1a: "Veel gestructureerde starters- & traineeprogramma's en zomerstages volgen een jaarlijkse cyclus — maar veel werkgevers werven **voortdurend**, en startersfuncties, traineeships, ambachten, verkoop en junior-functies draaien het hele jaar. Deze lijst toont wat **vandaag live is**, dagelijks vernieuwd.",
+    faq2q: 'Wat is een assessment centre en hoe bereid ik me erop voor?',
+    faq2a: 'Een halve tot twee dagen vol groepsoefeningen, presentaties, in-tray taken en interviews — meestal de laatste fase. Zie [interview & assessment tips op Workopia]({URL}).',
+    faq3q: 'Hoe krijg ik meldingen voor nieuwe functies?',
+    faq3a: 'Zet een jobalert op Workopia in op rol + plaats en wij sturen je een e-mail als nieuwe Nederlandse functies live gaan — [begin hier]({URL}).',
+    noteTiered: '💡 Geen "starters" functie gevonden? Kijk onder **Junior** — aangrenzende functies tellen ook (een Software Engineer kan solliciteren naar Backend / Full Stack / AI Engineer).',
+    noteEntry: '💡 Dit zijn junior-functies die het hele jaar door worden ingevuld — solliciteer rechtstreeks; geen deadline.',
+    noteHealthcare: '🏥 Healthcare vereist gekwalificeerde beroepskrachten — pas aangestelde verpleegkundigen, apothekers, verzorg- en geallieerde zorgmedewerkers solliciteren rechtstreeks.',
+    browseAllCat: '🔎 **[Browse & filter alle live {NAME} banen in Nederland op Workopia →]({URL})**',
+    allGradCat: '🎓 **[Alle Nederlandse starters- & junior-{NAME} functies →]({URL})**',
+    backToTop: '⬆️ Terug naar boven',
+    biggerPicture: '🌍 Zie het grotere plaatje',
+    monitorAlt: 'Workopia — live hiring monitor voor 94 landen',
+    exploreMonitor: '🌍 Verken de live hiring monitor →',
+    footer: '📅 Dagelijks bijgewerkt · Data © Workopia, afkomstig van werkgeverswebsites · Functies kunnen sluiten voor deze lijst vernieuwt — bevestig op de jobpagina. Browse {TOTAL} banen gratis op [workopia.io]({URL}).',
+    thCompany: 'Bedrijf', thRole: 'Functie', thLocation: 'Locatie', thSkills: 'Vaardigheden', thApply: 'Solliciteren', thAge: 'Online',
+    applyArrow: 'Solliciteren →',
+    tierLabels: { Intern: 'Stages', Graduate: 'Starters & afgestudeerden', 'Entry-level': 'Junior', entryHealthcare: 'Pas gekwalificeerd & junior' },
+    tierWord: { Intern: 'Stages', Graduate: 'Starters', 'Entry-level': 'Junior' },
+    browseAlt: 'Alle banen in Nederland op Workopia',
+    subscribeAlt: 'Abonneer je op jobalerts',
+    ageToday: 'vandaag', ageDay: ' d', ageWeek: ' wk', ageMonth: ' mnd',
   },
 };
 
 // Localized category display names by key (fallback: the name in listings.json).
 const CAT_NAME = {
   fr: { grad: 'Jeunes diplômés & Alternance', tech: 'Tech', finance: 'Finance & Comptabilité', healthcare: 'Santé', trades: 'Métiers techniques & Alternance', sales: 'Vente & Retail', admin: 'Business & Admin' },
+  de: { grad: 'Absolventenprogramme & Ausbildung', tech: 'Technik & IT', finance: 'Finanzen & Buchhaltung', healthcare: 'Gesundheitswesen', trades: 'Handwerk & Ausbildung', sales: 'Vertrieb & Einzelhandel', admin: 'Verwaltung & Business' },
+  es: { grad: 'Programas para recién graduados y trainee', tech: 'Tech', finance: 'Finanzas y contabilidad', healthcare: 'Sanidad', trades: 'Oficios y aprendizajes', sales: 'Ventas y retail', admin: 'Administración y gestión' },
+  nl: { grad: "Starters- & traineeprogramma's", tech: 'Tech', finance: 'Financiën & Boekhouden', healthcare: 'Healthcare', trades: 'Ambachten & Leerwerkplekken', sales: 'Verkoop & Detailhandel', admin: 'Bedrijf & Administratie' },
 };
 
 const slugify = (s) => (s || '').toLowerCase().normalize('NFKD').replace(/[̀-ͯ]/g, '').replace(/[^\w\s-]/g, '').trim().replace(/[\s_]+/g, '-').replace(/-+/g, '-') || 'job';
@@ -143,7 +290,7 @@ export function renderReadme(data, now = Date.now()) {
   const lang = meta.lang && L10N[meta.lang] ? meta.lang : 'en';
   const t = L10N[lang];
   const catName = (d) => (CAT_NAME[lang] && CAT_NAME[lang][d.key]) || d.name;
-  const age = (d) => { if (!d) return ''; const days = Math.floor((now - new Date(d).getTime()) / 864e5); if (Number.isNaN(days)) return ''; if (days <= 0) return lang === 'fr' ? "aujourd'hui" : 'today'; if (days < 14) return days + (lang === 'fr' ? ' j' : 'd'); if (days < 60) return Math.round(days / 7) + (lang === 'fr' ? ' sem' : 'w'); return Math.round(days / 30) + (lang === 'fr' ? ' mois' : 'mo'); };
+  const age = (d) => { if (!d) return ''; const days = Math.floor((now - new Date(d).getTime()) / 864e5); if (Number.isNaN(days)) return ''; if (days <= 0) return t.ageToday; if (days < 14) return days + t.ageDay; if (days < 60) return Math.round(days / 7) + t.ageWeek; return Math.round(days / 30) + t.ageMonth; };
 
   const U = 'utm_source=github&utm_medium=repo&utm_campaign=' + meta.repo.toLowerCase();
   const BJ = `${W}/browsejobs/${meta.segment}?${U}`;
@@ -193,7 +340,12 @@ export function renderReadme(data, now = Date.now()) {
       ? [[d.key === 'healthcare' ? t.tierLabels.entryHealthcare : t.tierLabels['Entry-level'], 'Entry-level']]
       : [[t.tierLabels.Intern, 'Intern'], [t.tierLabels.Graduate, 'Graduate'], [t.tierLabels['Entry-level'], 'Entry-level']];
     for (const [lbl, key] of order) { const r = tt[key]; if (r.length) o += `\n### ${lbl} (${r.length})\n\n${table(r)}\n`; }
-    o += `\n${fill(t.browseAllCat, { ADJ: meta.adjective, NAME: catName(d), URL: `${W}/browsejobs/positions/${meta.segment}/${d.l4slug}?${U}` })} · ${fill(t.allGradCat, { ADJ: meta.adjective, NAME: catName(d), URL: `${W}/graduates/${meta.site_slug || meta.segment}/${d.key}?${U}` })}\n\n<sub>[${t.backToTop}](#${slugify(meta.title)})</sub>\n`;
+    // site_live:false = this country's /graduates pages are not deployed yet — render only the
+    // browse-L4 link (already live) and skip the graduates deep link until the switch flips.
+    const gradLink = meta.site_live === false
+      ? ''
+      : ` · ${fill(t.allGradCat, { ADJ: meta.adjective, NAME: catName(d), URL: `${W}/graduates/${meta.site_slug || meta.segment}/${d.key}?${U}` })}`;
+    o += `\n${fill(t.browseAllCat, { ADJ: meta.adjective, NAME: catName(d), URL: `${W}/browsejobs/positions/${meta.segment}/${d.l4slug}?${U}` })}${gradLink}\n\n<sub>[${t.backToTop}](#${slugify(meta.title)})</sub>\n`;
     return o;
   }
 
