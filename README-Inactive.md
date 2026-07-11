@@ -224,4 +224,5 @@
 <tr><td>ZEN-NOH GRAIN</td><td>Safety Trainee</td><td>Convent</td><td>2026-07-10</td></tr>
 <tr><td>Zhiusa</td><td>Safety Trainee</td><td>Convent</td><td>2026-07-10</td></tr>
 <tr><td>City of Tucson Inc</td><td>Administrative Assistant</td><td>Tucson</td><td>2026-07-10</td></tr>
+<tr><td>Micron</td><td>Registered Apprenticeship Program - Equipment Technician</td><td>Boise</td><td>2026-07-11</td></tr>
 </table>

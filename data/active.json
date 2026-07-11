@@ -1,5 +1,5 @@
 {
- "asOf": "2026-07-10",
+ "asOf": "2026-07-11",
  "count": 801,
  "jobs": {
   "9422": {
@@ -956,6 +956,12 @@
    "role": "Hvac Truck Based Mechanic Pre-apprentice",
    "location": "United States"
   },
+  "7bbd3bb9c704ae252939b1d803721b48": {
+   "id": "7bbd3bb9c704ae252939b1d803721b48",
+   "company": "Jabilbenefitsguide",
+   "role": "Apprentice",
+   "location": "United States"
+  },
   "0e4db5c4d93a5172eba8f678aebeeff5": {
    "id": "0e4db5c4d93a5172eba8f678aebeeff5",
    "company": "Valspar",
@@ -984,12 +990,6 @@
    "id": "8abddd042052bd33fb7be0e5bdf3839b",
    "company": "Micron",
    "role": "Registered Apprenticeship, Facilities Water Service Technician",
-   "location": "Boise"
-  },
-  "37633a67eeeb507ccc3095b1a1219f44": {
-   "id": "37633a67eeeb507ccc3095b1a1219f44",
-   "company": "Micron",
-   "role": "Registered Apprenticeship Program - Equipment Technician",
    "location": "Boise"
   },
   "21c4169450db1df0e644d0617720a32b": {
