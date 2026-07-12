@@ -749,4 +749,5 @@
 <tr><td>Tecovas</td><td>Assistant Designer, Women's Footwear</td><td>Austin</td><td>2026-07-12</td></tr>
 <tr><td>Outpostspace</td><td>Executive Assistant</td><td>Playa Vista</td><td>2026-07-12</td></tr>
 <tr><td>EMCOR Group Inc.</td><td>Controls Service Coordinator</td><td>New York</td><td>2026-07-12</td></tr>
+<tr><td>jobdayuib.cat</td><td>Supply Chain Planning Analyst</td><td>United States</td><td>2026-07-12</td></tr>
 </table>

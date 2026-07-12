@@ -17,8 +17,9 @@
  *                  sponsorship, hot, date_posted, url, category, tier, active }]
  *                (array order inside each category+tier is the table row order)
  *
- * `skills` arrives as a final display string ('—' when unknown). No salary on GitHub —
- * salary + WORKOPIA ESTIMATE are main-site-only, on each role's Workopia page.
+ * `skills` arrives as a final display string ('—' when unknown). `salary_display` is a
+ * teaser RANGE only (disclosed, or `*` = WORKOPIA ESTIMATE from the curated benchmark
+ * registry) — median, methodology and role requirements stay main-site-only.
  * Time-relative cells (Age, 🆕) are computed at render time.
  * All human-facing copy lives in L10N (en/fr); category display names in CAT_NAME.
  */
@@ -54,7 +55,7 @@ const L10N = {
     watchReleases: 'Or <b>Watch → Custom → Releases</b> on this repo for a weekly email digest of new roles.',
     legend: 'Legend',
     legendNew: 'Posted in the last 2 days',
-    legendSalary: "Salary (real or **WORKOPIA ESTIMATE**) shown on every role's Workopia page",
+    legendSalary: "Salary as disclosed by the employer; `*` = **WORKOPIA ESTIMATE** range — full breakdown, methodology & role requirements on each role's Workopia page",
     legendVisaGB: 'Visa sponsorship available (UK Skilled Worker register)',
     legendHot: 'Notable / high-growth employer',
     legendClosed: 'Closed roles move to [Inactive Listings](./README-Inactive.md)',
@@ -79,8 +80,12 @@ const L10N = {
     monitorAlt: 'Workopia — live global hiring monitor across 94 countries',
     exploreMonitor: '🌍 Explore the live global hiring monitor →',
     footer: '📅 Updated daily · Data © Workopia, sourced from employer career pages · Roles may close before this list refreshes — confirm on the job page. Browse {TOTAL} jobs free at [workopia.io]({URL}).',
-    thCompany: 'Company', thRole: 'Role', thLocation: 'Location', thSkills: 'Key skills', thApply: 'Apply', thAge: 'Age',
+    thCompany: 'Company', thRole: 'Role', thLocation: 'Location', thSalary: 'Salary', thSkills: 'Key skills', thApply: 'Apply', thAge: 'Age',
     applyArrow: 'Apply →',
+    seeEst: 'See est. →',
+    salaryCtaTitle: '📊 What does this role actually pay?',
+    salaryCtaBody: 'The ranges above are a preview. Full salary estimates, methodology & role requirements — by company, city & category — on Workopia.',
+    salaryCtaLink: 'Compare {ADJ} graduate salaries →',
     tierLabels: { Intern: 'Internships', Graduate: 'Graduate', 'Entry-level': 'Entry-level', entryHealthcare: 'Newly-qualified & entry-level' },
     tierWord: { Intern: 'Internships', Graduate: 'Graduate', 'Entry-level': 'Entry-level' },
     browseAlt: 'Browse all {ADJ} jobs on Workopia',
@@ -100,7 +105,7 @@ const L10N = {
     watchReleases: 'Ou <b>Watch → Custom → Releases</b> sur ce repo pour un récap hebdomadaire des nouveaux postes par email.',
     legend: 'Légende',
     legendNew: 'Posté il y a moins de 2 jours',
-    legendSalary: "Salaire (réel ou **WORKOPIA ESTIMATE**) affiché sur la page Workopia de chaque offre",
+    legendSalary: "Salaire tel que publié par l'employeur ; `*` = fourchette **WORKOPIA ESTIMATE** — détail complet, méthodologie & prérequis sur la page Workopia de chaque offre",
     legendVisaGB: 'Visa sponsorship available (UK Skilled Worker register)',
     legendHot: 'Employeur notable / en forte croissance',
     legendClosed: 'Les offres fermées sont archivées dans [Listings inactifs](./README-Inactive.md)',
@@ -125,7 +130,11 @@ const L10N = {
     monitorAlt: 'Workopia — observatoire global du recrutement, 94 pays',
     exploreMonitor: "🌍 Découvrez l'observatoire global du recrutement →",
     footer: "📅 Mis à jour quotidiennement · Données © Workopia, provenant des pages carrière des employeurs · Les offres peuvent fermer avant le prochain rafraîchissement — confirmez sur la page de l'offre. Parcourez {TOTAL} postes gratuitement sur [workopia.io]({URL}).",
-    thCompany: 'Entreprise', thRole: 'Poste', thLocation: 'Localisation', thSkills: 'Compétences clés', thApply: 'Postuler', thAge: 'Ancienneté',
+    thCompany: 'Entreprise', thRole: 'Poste', thLocation: 'Localisation', thSalary: 'Salaire', thSkills: 'Compétences clés', thApply: 'Postuler', thAge: 'Ancienneté',
+    seeEst: 'Voir est. →',
+    salaryCtaTitle: '📊 Combien paie réellement ce poste ?',
+    salaryCtaBody: 'Les fourchettes ci-dessus sont un aperçu. Estimations complètes, méthodologie & prérequis — par entreprise, ville & catégorie — sur Workopia.',
+    salaryCtaLink: 'Comparer les salaires jeunes diplômés →',
     applyArrow: 'Postuler →',
     tierLabels: { Intern: 'Stages', Graduate: 'Jeunes diplômés', 'Entry-level': 'Débutant', entryHealthcare: 'Fraîchement diplômé & débutant' },
     tierWord: { Intern: 'Stages', Graduate: 'Jeunes diplômés', 'Entry-level': 'Débutant' },
@@ -146,7 +155,7 @@ const L10N = {
     watchReleases: 'Oder <b>Watch → Custom → Releases</b> in diesem Repository für einen wöchentlichen E-Mail-Digest neuer Stellen.',
     legend: 'Legende',
     legendNew: 'In den letzten 2 Tagen veröffentlicht',
-    legendSalary: 'Gehalt (reell oder **WORKOPIA ESTIMATE**) auf jeder Stellenseite bei Workopia angezeigt',
+    legendSalary: 'Gehalt wie vom Arbeitgeber angegeben; `*` = **WORKOPIA ESTIMATE**-Spanne — vollständige Aufschlüsselung, Methodik & Anforderungen auf der Workopia-Seite jeder Stelle',
     legendVisaGB: 'Visa sponsorship available (UK Skilled Worker register)',
     legendHot: 'Bemerkenswert / schnell wachsender Arbeitgeber',
     legendClosed: 'Geschlossene Stellen wechseln zu [Inaktive Anzeigen](./README-Inactive.md)',
@@ -171,7 +180,11 @@ const L10N = {
     monitorAlt: 'Workopia — Live Global Hiring Monitor über 94 Länder',
     exploreMonitor: '🌍 Erkunden Sie den Live Global Hiring Monitor →',
     footer: '📅 Täglich aktualisiert · Daten © Workopia, direkt von Karriereseiten · Stellen können vor Aktualisierung dieser Liste geschlossen sein — bestätigen Sie auf der Jobseite. Kostenlos alle {TOTAL} Jobs auf [workopia.io]({URL}) durchsuchen.',
-    thCompany: 'Unternehmen', thRole: 'Stelle', thLocation: 'Standort', thSkills: 'Kernkompetenzen', thApply: 'Bewerbung', thAge: 'Online',
+    thCompany: 'Unternehmen', thRole: 'Stelle', thLocation: 'Standort', thSalary: 'Gehalt', thSkills: 'Kernkompetenzen', thApply: 'Bewerbung', thAge: 'Online',
+    seeEst: 'Schätzung →',
+    salaryCtaTitle: '📊 Was zahlt diese Stelle wirklich?',
+    salaryCtaBody: 'Die Spannen oben sind eine Vorschau. Vollständige Gehaltsschätzungen, Methodik & Anforderungen — nach Unternehmen, Stadt & Kategorie — auf Workopia.',
+    salaryCtaLink: 'Einstiegsgehälter vergleichen →',
     applyArrow: 'Bewerben →',
     tierLabels: { Intern: 'Praktika', Graduate: 'Absolventen', 'Entry-level': 'Berufseinstieg', entryHealthcare: 'Berufsanfänger & Einstieg' },
     tierWord: { Intern: 'Praktika', Graduate: 'Absolventen', 'Entry-level': 'Berufseinstieg' },
@@ -192,7 +205,7 @@ const L10N = {
     watchReleases: 'O <b>Watch → Custom → Releases</b> en este repositorio para un resumen semanal por email de nuevos puestos.',
     legend: 'Leyenda',
     legendNew: 'Publicado en los últimos 2 días',
-    legendSalary: 'Salario (real o **WORKOPIA ESTIMATE**) mostrado en la página de Workopia de cada puesto',
+    legendSalary: 'Salario tal como lo publica el empleador; `*` = rango **WORKOPIA ESTIMATE** — desglose completo, metodología y requisitos en la página de Workopia de cada puesto',
     legendVisaGB: 'Visa sponsorship available (UK Skilled Worker register)',
     legendHot: 'Empleador destacado / de alto crecimiento',
     legendClosed: 'Los puestos cerrados se trasladan a [Anuncios inactivos](./README-Inactive.md)',
@@ -217,7 +230,11 @@ const L10N = {
     monitorAlt: 'Workopia — monitor de contratación global en 94 países',
     exploreMonitor: '🌍 Explora el monitor de contratación global →',
     footer: '📅 Actualizado diariamente · Datos © Workopia, extraídos de las webs de carreras de empleadores · Los puestos pueden cerrarse antes de que se actualice esta lista — confirma en la página del puesto. Explora {TOTAL} empleos gratis en [workopia.io]({URL}).',
-    thCompany: 'Empresa', thRole: 'Puesto', thLocation: 'Ubicación', thSkills: 'Competencias clave', thApply: 'Solicitar', thAge: 'Fecha',
+    thCompany: 'Empresa', thRole: 'Puesto', thLocation: 'Ubicación', thSalary: 'Salario', thSkills: 'Competencias clave', thApply: 'Solicitar', thAge: 'Fecha',
+    seeEst: 'Ver est. →',
+    salaryCtaTitle: '📊 ¿Cuánto paga realmente este puesto?',
+    salaryCtaBody: 'Los rangos de arriba son una vista previa. Estimaciones completas, metodología y requisitos — por empresa, ciudad y categoría — en Workopia.',
+    salaryCtaLink: 'Comparar salarios de recién graduados →',
     applyArrow: 'Solicitar →',
     tierLabels: { Intern: 'Prácticas y becas', Graduate: 'Recién graduados', 'Entry-level': 'Junior / Sin experiencia', entryHealthcare: 'Recién cualificados y de entrada' },
     tierWord: { Intern: 'Prácticas', Graduate: 'Recién graduados', 'Entry-level': 'Junior' },
@@ -238,7 +255,7 @@ const L10N = {
     watchReleases: 'Of <b>Watch → Custom → Releases</b> in deze repo voor een wekelijks e-maildigest met nieuwe functies.',
     legend: 'Legenda',
     legendNew: 'Geplaatst in de afgelopen 2 dagen',
-    legendSalary: 'Salaris (echt of **WORKOPIA ESTIMATE**) getoond op elke functie op Workopia',
+    legendSalary: 'Salaris zoals opgegeven door de werkgever; `*` = **WORKOPIA ESTIMATE**-bandbreedte — volledige uitsplitsing, methodologie & functie-eisen op de Workopia-pagina van elke functie',
     legendVisaGB: 'Visa sponsorship available (UK Skilled Worker register)',
     legendHot: 'Opmerkelijk / snelgroeiende werkgever',
     legendClosed: 'Gesloten functies gaan naar [Inactieve listings](./README-Inactive.md)',
@@ -263,7 +280,11 @@ const L10N = {
     monitorAlt: 'Workopia — live hiring monitor voor 94 landen',
     exploreMonitor: '🌍 Verken de live hiring monitor →',
     footer: '📅 Dagelijks bijgewerkt · Data © Workopia, afkomstig van werkgeverswebsites · Functies kunnen sluiten voor deze lijst vernieuwt — bevestig op de jobpagina. Browse {TOTAL} banen gratis op [workopia.io]({URL}).',
-    thCompany: 'Bedrijf', thRole: 'Functie', thLocation: 'Locatie', thSkills: 'Vaardigheden', thApply: 'Solliciteren', thAge: 'Online',
+    thCompany: 'Bedrijf', thRole: 'Functie', thLocation: 'Locatie', thSalary: 'Salaris', thSkills: 'Vaardigheden', thApply: 'Solliciteren', thAge: 'Online',
+    seeEst: 'Zie schatting →',
+    salaryCtaTitle: '📊 Wat betaalt deze functie echt?',
+    salaryCtaBody: 'De bandbreedtes hierboven zijn een preview. Volledige salarisschattingen, methodologie & functie-eisen — per bedrijf, stad & categorie — op Workopia.',
+    salaryCtaLink: 'Vergelijk startsalarissen →',
     applyArrow: 'Solliciteren →',
     tierLabels: { Intern: 'Stages', Graduate: 'Starters & afgestudeerden', 'Entry-level': 'Junior', entryHealthcare: 'Pas gekwalificeerd & junior' },
     tierWord: { Intern: 'Stages', Graduate: 'Starters', 'Entry-level': 'Junior' },
@@ -309,14 +330,18 @@ export function renderReadme(data, now = Date.now()) {
   const flags = (r) => { let f = ''; if (r.date_posted && (now - new Date(r.date_posted).getTime()) <= 2 * 864e5) f += ' 🆕'; if (r.sponsorship) f += ' 🛂'; if (r.hot) f += ' 🔥'; return f; };
   // width attrs (GitHub's sanitizer keeps them) pin identical column geometry across every tier
   // table in the README — without them each table auto-sizes to its own content and nothing aligns.
-  const TH = `<thead><tr><th width="18%">${t.thCompany}</th><th width="30%">${t.thRole}</th><th width="13%">${t.thLocation}</th><th width="25%">${t.thSkills}</th><th width="8%">${t.thApply}</th><th width="6%">${t.thAge}</th></tr></thead>`;
+  const TH = `<thead><tr><th width="17%">${t.thCompany}</th><th width="26%">${t.thRole}</th><th width="11%">${t.thLocation}</th><th width="13%">${t.thSalary}</th><th width="19%">${t.thSkills}</th><th width="8%">${t.thApply}</th><th width="6%">${t.thAge}</th></tr></thead>`;
   function table(rows) {
     let last = '', b = '';
     for (const r of rows) {
       const nm = r.company_name;
       const co = nm === last ? '↳' : (r.company_hi_slug ? `<strong><a href="${W}/hi/companies/${r.company_hi_slug}?${U}">${nm}</a></strong>` : `<strong>${nm}</strong>`);
       if (nm !== last) last = nm;
-      b += `<tr><td>${co}</td><td>${role(r.title)}${flags(r)}</td><td>${r.location}</td><td>${r.skills || '—'}</td><td><a href="${r.url}?${U}">${t.applyArrow}</a></td><td>${age(r.date_posted)}</td></tr>\n`;
+      // Range only — the teaser. Median, methodology and requirements live on the job page.
+      const salCell = r.salary_display
+        ? `<a href="${r.url}?${U}">${r.salary_display}</a>`
+        : `<a href="${r.url}?${U}"><sub>${t.seeEst}</sub></a>`;
+      b += `<tr><td>${co}</td><td>${role(r.title)}${flags(r)}</td><td>${r.location}</td><td>${salCell}</td><td>${r.skills || '—'}</td><td><a href="${r.url}?${U}">${t.applyArrow}</a></td><td>${age(r.date_posted)}</td></tr>\n`;
     }
     return `<table>\n${TH}\n<tbody>\n${b}</tbody>\n</table>`;
   }
@@ -372,6 +397,14 @@ ${browse}
   <h3>${t.wantFullList}</h3>
   <a href="${BJG}"><img src="./static/btn-browse.svg" alt="${fill(t.browseAlt, { ADJ: meta.adjective })}" width="460"></a>
   <p><sub><i>${fill(t.handPickedSlice, { TOTAL: meta.total_site_jobs_str })}</i></sub></p>
+</div>
+
+---
+
+<div align="center">
+  <h3>${t.salaryCtaTitle}</h3>
+  <p><b><a href="${meta.site_live === false ? BJ : `${W}/graduates/${meta.site_slug || meta.segment}?${U}`}">${fill(t.salaryCtaLink, { ADJ: meta.adjective })}</a></b></p>
+  <p><sub><i>${t.salaryCtaBody}</i></sub></p>
 </div>
 
 ---
