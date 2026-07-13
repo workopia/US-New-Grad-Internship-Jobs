@@ -340,7 +340,7 @@ export function renderReadme(data, now = Date.now()) {
       // Range only — the teaser. Median, methodology and requirements live on the job page.
       const salCell = r.salary_display
         ? `<a href="${r.url}?${U}">${r.salary_display}</a>`
-        : `<a href="${r.url}?${U}"><sub>${t.seeEst}</sub></a>`;
+        : `<a href="${r.url}?${U}">${t.seeEst}</a>`;
       b += `<tr><td>${co}</td><td>${role(r.title)}${flags(r)}</td><td>${r.location}</td><td>${salCell}</td><td>${r.skills || '—'}</td><td><a href="${r.url}?${U}">${t.applyArrow}</a></td><td>${age(r.date_posted)}</td></tr>\n`;
     }
     return `<table>\n${TH}\n<tbody>\n${b}</tbody>\n</table>`;
