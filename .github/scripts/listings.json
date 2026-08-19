@@ -12,8 +12,8 @@
   "as_of": "2026-08-19",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 248925,
-  "generated_at": "2026-08-19T01:15:34.237Z"
+  "country_live_total": 248575,
+  "generated_at": "2026-08-19T09:48:20.577Z"
  },
  "categories": [
   {
@@ -1401,23 +1401,6 @@
    "tier": "Intern"
   },
   {
-   "salary_display": null,
-   "id": "c82ab02d49770d108c115ccc319487f7",
-   "source": "Workopia",
-   "company_name": "Schneider Electric",
-   "company_hi_slug": "schneider-electric",
-   "title": "Environmental Health And Safety Intern",
-   "location": "Columbia",
-   "skills": "Microsoft Office Suite, data analytics",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-08-16T14:00:00.000Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/c82ab02d49770d108c115ccc319487f7",
-   "category": "grad",
-   "tier": "Intern"
-  },
-  {
    "salary_display": "$22/hr",
    "id": "a6c1e09dda8aa5e30381473c9a7ea774",
    "source": "Workopia",
@@ -1431,6 +1414,23 @@
    "date_posted": "2026-08-16T14:00:00.000Z",
    "active": true,
    "url": "https://workopia.io/jobs/a6c1e09dda8aa5e30381473c9a7ea774",
+   "category": "grad",
+   "tier": "Intern"
+  },
+  {
+   "salary_display": "$23.1/hr",
+   "id": "bc871bf2afecea3dcd5e25483e62d8ed",
+   "source": "Workopia",
+   "company_name": "WEC Business Services LLC",
+   "company_hi_slug": "wec-business-services-llc",
+   "title": "Intern - Process Management & Integration",
+   "location": "Chicago",
+   "skills": "computer programs and , business process analy",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-08-16T10:29:06.934Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/bc871bf2afecea3dcd5e25483e62d8ed",
    "category": "grad",
    "tier": "Intern"
   },

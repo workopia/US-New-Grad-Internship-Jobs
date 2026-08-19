@@ -15928,4 +15928,5 @@
 <tr><td>Airport Butler</td><td>Airline Operations Coordinator (trc)</td><td>New York</td><td>2026-08-19</td></tr>
 <tr><td>Alliance Ground International (AGI)</td><td>Airline Operations Coordinator (trc)</td><td>New York</td><td>2026-08-19</td></tr>
 <tr><td>HealthSouth Corporation</td><td>Wound Program Coordinator</td><td>Back To Top</td><td>2026-08-19</td></tr>
+<tr><td>Schneider Electric</td><td>Environmental Health And Safety Intern</td><td>Columbia</td><td>2026-08-19</td></tr>
 </table>
