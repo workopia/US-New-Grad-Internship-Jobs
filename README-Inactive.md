@@ -19818,4 +19818,166 @@
 <tr><td>Advanced Micro Devices</td><td>Executive Assistant</td><td>MA</td><td>2026-08-28</td></tr>
 <tr><td>U.S. Bank</td><td>Administrative Assistant Marketing</td><td>Bloomington</td><td>2026-08-28</td></tr>
 <tr><td>Five Below</td><td>Part Time Assistant</td><td>Menomonie</td><td>2026-08-28</td></tr>
+<tr><td>repsol</td><td>Geoscientist Intern</td><td>Houston</td><td>2026-08-28</td></tr>
+<tr><td>repsol</td><td>Geologist Sedimentologist intern</td><td>Houston</td><td>2026-08-28</td></tr>
+<tr><td>NRG Energy</td><td>Dod Skillbridge Internship - Patrol To Power</td><td>Houston</td><td>2026-08-28</td></tr>
+<tr><td>WEC Energy Group</td><td>Intern - Process Management & Integration</td><td>Chicago</td><td>2026-08-28</td></tr>
+<tr><td>WEC Energy Group</td><td>Intern - Safety (chicago, Il)</td><td>Chicago</td><td>2026-08-28</td></tr>
+<tr><td>WEC Energy Group</td><td>Intern - Power Generation Civil Engineering</td><td>Milwaukee</td><td>2026-08-28</td></tr>
+<tr><td>WEC Energy Group</td><td>Intern - Audit Services</td><td>Milwaukee</td><td>2026-08-28</td></tr>
+<tr><td>WEC Energy Group</td><td>Intern - Safety And Industrial Hygiene (milwaukee, Wi)</td><td>Milwaukee</td><td>2026-08-28</td></tr>
+<tr><td>WEC Energy Group</td><td>Intern - Renewables Data Analytics</td><td>Milwaukee</td><td>2026-08-28</td></tr>
+<tr><td>WEC Energy Group</td><td>Intern - Renewables Engineering</td><td>Milwaukee</td><td>2026-08-28</td></tr>
+<tr><td>WEC Energy Group</td><td>Intern - Electric Distribution Engineering</td><td>Milwaukee</td><td>2026-08-28</td></tr>
+<tr><td>WEC Energy Group</td><td>Intern - Power Generation Electrical Engineering</td><td>Milwaukee</td><td>2026-08-28</td></tr>
+<tr><td>WEC Energy Group</td><td>Intern - Power Generation Mechanical Engineering</td><td>Milwaukee</td><td>2026-08-28</td></tr>
+<tr><td>WEC Energy Group</td><td>Intern - Financial Risk</td><td>Milwaukee</td><td>2026-08-28</td></tr>
+<tr><td>WEC Energy Group</td><td>Intern - Hr Benefits</td><td>Milwaukee</td><td>2026-08-28</td></tr>
+<tr><td>WEC Energy Group</td><td>Intern - Power Generation Engineering</td><td>Milwaukee</td><td>2026-08-28</td></tr>
+<tr><td>WEC Energy Group</td><td>Intern - Power Generation Engineering - Lng Division</td><td>Milwaukee</td><td>2026-08-28</td></tr>
+<tr><td>Pilgrim's</td><td>Jbs Usa Careers - 2026 Fall Safety Internship</td><td>Nashville</td><td>2026-08-28</td></tr>
+<tr><td>Signify</td><td>Ehs (environment, Health, & Safety) Intern</td><td>Dallas</td><td>2026-08-28</td></tr>
+<tr><td>Polaris</td><td>Finance Internship - Summer 2027</td><td>Akron</td><td>2026-08-28</td></tr>
+<tr><td>Polaris</td><td>Hr Internship - Summer 2027</td><td>Akron</td><td>2026-08-28</td></tr>
+<tr><td>Whirlpool Corporation</td><td>Manufacturing Operations Ldp Intern</td><td>Columbus</td><td>2026-08-28</td></tr>
+<tr><td>Whirlpool Corporation</td><td>Manufacturing Controls Engineering Ldp Intern</td><td>Toledo</td><td>2026-08-28</td></tr>
+<tr><td>Inter-American Development Bank</td><td>Idb. Ai - Driven Workflow Automation Support Intern</td><td>Washington D C</td><td>2026-08-28</td></tr>
+<tr><td>Inter-American Development Bank</td><td>Idb. Artificial Intelligence For Public Budgeting Intern</td><td>Washington D C</td><td>2026-08-28</td></tr>
+<tr><td>Inter-American Development Bank</td><td>Idb. Office Of Ethics Prevention Internship</td><td>Washington D C</td><td>2026-08-28</td></tr>
+<tr><td>Inter-American Development Bank</td><td>Idb. Intern To Support Sovereign Guaranteed Operations</td><td>Washington D C</td><td>2026-08-28</td></tr>
+<tr><td>Inter-American Development Bank</td><td>Idb. Intern To Support Corporate Legal Affairs</td><td>Washington D C</td><td>2026-08-28</td></tr>
+<tr><td>Inter-American Development Bank</td><td>Idb. Intern To Support The Structured Partnerships Team</td><td>Washington D C</td><td>2026-08-28</td></tr>
+<tr><td>Inter-American Development Bank</td><td>Idb Invest. Ai-ready Information, Semantic Knowledge & Taxonomy Internship</td><td>Washington D C</td><td>2026-08-28</td></tr>
+<tr><td>Inter-American Development Bank</td><td>Idb. Infrastructure And Energy Intern</td><td>Washington D C</td><td>2026-08-28</td></tr>
+<tr><td>Inter-American Development Bank</td><td>Idb. Esg Capacity Building And Knowledge Intern</td><td>Washington D C</td><td>2026-08-28</td></tr>
+<tr><td>Inter-American Development Bank</td><td>Idb. Accounting And Financial Reporting Intern</td><td>Washington D C</td><td>2026-08-28</td></tr>
+<tr><td>Inter-American Development Bank</td><td>Idb. Macroeconomics And Reforms In The Caribbean Region Intern</td><td>Washington D C</td><td>2026-08-28</td></tr>
+<tr><td>CVS Health</td><td>Store Manager In Training- 8871</td><td>Ca</td><td>2026-08-28</td></tr>
+<tr><td>Red Bull New York</td><td>Sales Trainee</td><td>Aston Township</td><td>2026-08-28</td></tr>
+<tr><td>The Davey Tree Expert Company</td><td>Field And Arborist Sales Trainee</td><td>Elmsford</td><td>2026-08-28</td></tr>
+<tr><td>DSV Panalpina AS</td><td>Trainee, Freight Forwarding Lalendorf 2026</td><td>Lalendorf</td><td>2026-08-28</td></tr>
+<tr><td>Boydgroup</td><td>Collision Manager In Training</td><td>136031</td><td>2026-08-28</td></tr>
+<tr><td>Shaw Communications</td><td>Residential Sales Trainee - Georgia</td><td>Georgia</td><td>2026-08-28</td></tr>
+<tr><td>heidelbergmaterials.co.uk</td><td>Aggregates Management Trainee</td><td>Eagle Lake</td><td>2026-08-28</td></tr>
+<tr><td>Capital One</td><td>Process Management Associate – Operational Readiness & Production Support</td><td>Riverwoods +1</td><td>2026-08-28</td></tr>
+<tr><td>Cintas Canada</td><td>Management Trainee</td><td>Atlanta</td><td>2026-08-28</td></tr>
+<tr><td>Greiner AG</td><td>It Apprentice</td><td>Charlotte</td><td>2026-08-28</td></tr>
+<tr><td>dpi.nc.gov</td><td>Applications Systems Analyst Ii</td><td>Wake County</td><td>2026-08-28</td></tr>
+<tr><td>Cisco</td><td>Software Engineer Ii (full Time) - United States</td><td>San Jose</td><td>2026-08-28</td></tr>
+<tr><td>Cisco</td><td>Software Engineer I (full Time) - United States</td><td>San Jose</td><td>2026-08-28</td></tr>
+<tr><td>Advanced Micro Devices</td><td>Ml/ai Engineer</td><td>United States</td><td>2026-08-28</td></tr>
+<tr><td>Guidehouse Inc</td><td>Data Scientist</td><td>Us</td><td>2026-08-28</td></tr>
+<tr><td>Benefis Health System</td><td>Trauma Data Analyst (full Time) - Onsite</td><td>New York</td><td>2026-08-28</td></tr>
+<tr><td>spokane.wsu.edu</td><td>Reporting Analyst</td><td>Pullman</td><td>2026-08-28</td></tr>
+<tr><td>workday.wsu.edu</td><td>Reporting Analyst</td><td>Pullman</td><td>2026-08-28</td></tr>
+<tr><td>Clarityinnovates</td><td>Data Scientist</td><td>Macdill Afb</td><td>2026-08-28</td></tr>
+<tr><td>Jjsnackfoods</td><td>Business Analyst, Jde Financials/distribution</td><td>Nashville</td><td>2026-08-28</td></tr>
+<tr><td>221</td><td>Legal Operations Analyst I</td><td>San Diego</td><td>2026-08-28</td></tr>
+<tr><td>Axos Business Center</td><td>Legal Operations Analyst I</td><td>San Diego</td><td>2026-08-28</td></tr>
+<tr><td>Bellroadtoyota</td><td>Business Financial Analyst</td><td>Rio Piedras</td><td>2026-08-28</td></tr>
+<tr><td>Bemis</td><td>Maintenance Technician (2nd Shift)</td><td>Pittsburgh</td><td>2026-08-28</td></tr>
+<tr><td>Tenova S.p.A</td><td>Service Engineer - Co-op / Internship</td><td>Pittsburgh</td><td>2026-08-28</td></tr>
+<tr><td>NTT Global Data Centers Americas</td><td>1684 - Facility Technician</td><td>Portland</td><td>2026-08-28</td></tr>
+<tr><td>University of Arkansas at Little Rock</td><td>Skilled Tradesman-stw-hvac</td><td>Little Rock</td><td>2026-08-28</td></tr>
+<tr><td>St. Regis Hotels & Resorts</td><td>Hvac Technician</td><td>Annapolis Junction</td><td>2026-08-28</td></tr>
+<tr><td>Hyperion Materials & Technologies</td><td>Maintenance Associate</td><td>Columbus</td><td>2026-08-28</td></tr>
+<tr><td>Hyperion Materials & Technologies</td><td>Cnc Repair Technician</td><td>Pittsburgh</td><td>2026-08-28</td></tr>
+<tr><td>Blue Origin</td><td>Casting Technician Ii - C Shift</td><td>Dallas</td><td>2026-08-28</td></tr>
+<tr><td>Blue Origin</td><td>Associate - Technician - C Shift</td><td>Huntsville</td><td>2026-08-28</td></tr>
+<tr><td>Trane Technologies</td><td>Hvac Technician</td><td>Phoenix</td><td>2026-08-28</td></tr>
+<tr><td>Bridgestone Retail Operations</td><td>Sales And Service Technician</td><td>Los Angeles</td><td>2026-08-28</td></tr>
+<tr><td>Advanced Containment Systems, Inc.</td><td>Maintenance Technician/millwright</td><td>Houston</td><td>2026-08-28</td></tr>
+<tr><td>Agiliti</td><td>Hospital Service Technician</td><td>Houston</td><td>2026-08-28</td></tr>
+<tr><td>Agiliti Medical Group</td><td>Hospital Service Technician</td><td>Philadelphia</td><td>2026-08-28</td></tr>
+<tr><td>Astound</td><td>Broadband Technician I, Ii Or Iii</td><td>Port Angeles</td><td>2026-08-28</td></tr>
+<tr><td>a O Smith Foundation Inc</td><td>Industrial Multi Craft Maintenance Technician</td><td>Columbus</td><td>2026-08-28</td></tr>
+<tr><td>Ohiohealthrewards</td><td>Biomedical Engineering Tech I</td><td>Doctors Hospital</td><td>2026-08-28</td></tr>
+<tr><td>dormakaba International Holding AG</td><td>Field Service Technician</td><td>Tampa</td><td>2026-08-28</td></tr>
+<tr><td>Capital Regional District</td><td>Building Maintenance Attendant - Housing Facilities And Maintenance</td><td>Bloomington</td><td>2026-08-28</td></tr>
+<tr><td>Nestle SA</td><td>Maintenance Technician</td><td>Buffalo</td><td>2026-08-28</td></tr>
+<tr><td>TE Connectivity</td><td>Technician Iii</td><td>New York</td><td>2026-08-28</td></tr>
+<tr><td>TE Connectivity</td><td>Mfg & Process Technician Iii 1</td><td>St Louis</td><td>2026-08-28</td></tr>
+<tr><td>TE Connectivity</td><td>Mfg & Process Technician Iii</td><td>St Louis</td><td>2026-08-28</td></tr>
+<tr><td>TE Connectivity</td><td>Manufacturing Engineering Technician Iv</td><td>Bloomington</td><td>2026-08-28</td></tr>
+<tr><td>American Airlines Group</td><td>Plant Maintenance Mechanic - Ground Service Equipment</td><td>Phoenix</td><td>2026-08-28</td></tr>
+<tr><td>Nutrien Ltd</td><td>Seasonal Field Service Technician I</td><td>OH</td><td>2026-08-28</td></tr>
+<tr><td>Nucor</td><td>Maintenance Tech I - 2nd Shift</td><td>St Louis</td><td>2026-08-28</td></tr>
+<tr><td>Nucor</td><td>Maintenance Technician</td><td>Charlotte</td><td>2026-08-28</td></tr>
+<tr><td>Nucor</td><td>Coatings Complex Mechanical Technician</td><td>Indianapolis</td><td>2026-08-28</td></tr>
+<tr><td>Nucor</td><td>Maintenance Mechanic 1</td><td>St Louis</td><td>2026-08-28</td></tr>
+<tr><td>Nucor Towers & Structures</td><td>Maintenance Technician - Nucor Towers & Structures</td><td>Ogden</td><td>2026-08-28</td></tr>
+<tr><td>Nucor Steel Memphis, Inc.</td><td>Nsmem Crane Maintenance Technician</td><td>Memphis</td><td>2026-08-28</td></tr>
+<tr><td>Danfoss AS</td><td>Maintenance Technician I / 3rd Shift</td><td>Greenville</td><td>2026-08-28</td></tr>
+<tr><td>Halliburton</td><td>Electronic Technician (i-iii) Maintenance</td><td>Alvarado</td><td>2026-08-28</td></tr>
+<tr><td>Halliburton</td><td>Maintenance Mechanic Assoc</td><td>Austin</td><td>2026-08-28</td></tr>
+<tr><td>B. Braun Melsungen AG</td><td>Maintenance Technician - Manufacturing</td><td>Los Angeles</td><td>2026-08-28</td></tr>
+<tr><td>B. Braun Melsungen AG</td><td>Maintenance Technician - Manufacturing M</td><td>Los Angeles</td><td>2026-08-28</td></tr>
+<tr><td>B. Braun Melsungen AG</td><td>Production Technician (wed/thurs-sat 5:30pm-5:30am)</td><td>Los Angeles</td><td>2026-08-28</td></tr>
+<tr><td>B. Braun Melsungen AG</td><td>Field Service Technician I (fremont / Santa Clara, Ca)</td><td>San Jose</td><td>2026-08-28</td></tr>
+<tr><td>B. Braun Melsungen AG</td><td>Production Technician- Duplex Filling & Mixing (sun-wed 6:00pm-6:30am)</td><td>Los Angeles</td><td>2026-08-28</td></tr>
+<tr><td>Kerzner International Resorts</td><td>Ski Tuner</td><td>Big Sky</td><td>2026-08-28</td></tr>
+<tr><td>The Hershey Company</td><td>Maintenance Technician - 2nd Shift - Goodyear, Az</td><td>Peoria</td><td>2026-08-28</td></tr>
+<tr><td>Metro</td><td>Lrv Technician (external Posting)</td><td>Houston</td><td>2026-08-28</td></tr>
+<tr><td>Metro</td><td>Ac & Heat Mechanic A</td><td>Houston</td><td>2026-08-28</td></tr>
+<tr><td>Fiserv</td><td>Warehouse Associate</td><td>Houston</td><td>2026-08-28</td></tr>
+<tr><td>Beyond Yoga</td><td>Beyond Yoga Sales Stylist- Santa Monica</td><td>Los Angeles</td><td>2026-08-28</td></tr>
+<tr><td>Levis Media</td><td>Sales Associate, Levi's Outlet, Pleasant Prairie</td><td>Waukegan</td><td>2026-08-28</td></tr>
+<tr><td>Baxter</td><td>Sales Associate - Care Solutions - Indianapolis, In / Peoria, Il</td><td>Indianapolis</td><td>2026-08-28</td></tr>
+<tr><td>Baxconnect</td><td>Sales Associate - Care Solutions - New England</td><td>New England</td><td>2026-08-28</td></tr>
+<tr><td>Nestle SA</td><td>Consultor De Boutique Jr. / Nespresso Florianópolis/sc</td><td>FlorianóPolis</td><td>2026-08-28</td></tr>
+<tr><td>Sonepar Group</td><td>Warehouse Associate - Receiving</td><td>Phoenix</td><td>2026-08-28</td></tr>
+<tr><td>Summit Electric Supply</td><td>Warehouse Associate</td><td>Houston</td><td>2026-08-28</td></tr>
+<tr><td>Crawford Electric Supply</td><td>Will Call Associate - Houston, Tx</td><td>Houston</td><td>2026-08-28</td></tr>
+<tr><td>Sonepar Group</td><td>Warehouse Associate-picking</td><td>Phoenix</td><td>2026-08-28</td></tr>
+<tr><td>Echo Electric</td><td>Outside Sales Associate</td><td>St Louis</td><td>2026-08-28</td></tr>
+<tr><td>Echo Electric</td><td>Counter Sales Associate - Council Bluffs Ia</td><td>Omaha</td><td>2026-08-28</td></tr>
+<tr><td>Crawford Electric Supply</td><td>Conduit Associate - Irving</td><td>Dallas</td><td>2026-08-28</td></tr>
+<tr><td>OneSource Distributors</td><td>Warehouse Associate</td><td>Los Angeles</td><td>2026-08-28</td></tr>
+<tr><td>OneSource Distributors</td><td>Warehouse Associate - 9:00 Am - 5:30 Pm</td><td>Los Angeles</td><td>2026-08-28</td></tr>
+<tr><td>Codale Electric</td><td>Delivery Driver / Warehouse Associate</td><td>Reno</td><td>2026-08-28</td></tr>
+<tr><td>Viking Electric</td><td>Counter Sales Associate - Oak Creek</td><td>Milwaukee</td><td>2026-08-28</td></tr>
+<tr><td>Echo Electric</td><td>Warehouse Associate</td><td>Columbus</td><td>2026-08-28</td></tr>
+<tr><td>The Hershey Company</td><td>Hershey's Part-time Territory Sales Associate (southeast Portland, Oregon),</td><td>Portland</td><td>2026-08-28</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Verkoopmedewerker Telecom & Mobiel (ongelimiteerde Bonus) Hoorn</td><td>Hoorn</td><td>2026-08-28</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Kundenberater Verkauf (m/w/d)</td><td>Heidelberg</td><td>2026-08-28</td></tr>
+<tr><td>MediamarktSaturn - Webshop Foundation</td><td>Verkoopmedewerker Witgoed & Televisies Hoorn</td><td>Hoorn</td><td>2026-08-28</td></tr>
+<tr><td>Montageinternational</td><td>Spa Group Sales Coordinator</td><td>United States</td><td>2026-08-28</td></tr>
+<tr><td>Life Fitness / Hammer Strength</td><td>Shipping Associate - 2nd Shift</td><td>Bloomington</td><td>2026-08-28</td></tr>
+<tr><td>Life Fitness / Hammer Strength</td><td>Shipping Associate - Weekend Shift</td><td>Bloomington</td><td>2026-08-28</td></tr>
+<tr><td>MERS Goodwill</td><td>Retail Processor</td><td>OFallon</td><td>2026-08-28</td></tr>
+<tr><td>MERS Goodwill</td><td>E-commerce Shipping Associate</td><td>Kansas City</td><td>2026-08-28</td></tr>
+<tr><td>Deseret Book Company</td><td>Seasonal Church Distribution Sales Associate</td><td>Salt Lake City</td><td>2026-08-28</td></tr>
+<tr><td>Timberland</td><td>Timberland: Sales Associate - Cherry Hill Mall</td><td>Philadelphia</td><td>2026-08-28</td></tr>
+<tr><td>xpel.in.th</td><td>Warehouse Associate I</td><td>Charlotte</td><td>2026-08-28</td></tr>
+<tr><td>Careers Marriott</td><td>Sales Executive Licensed (sign On Bonus *potential)</td><td>Princeville</td><td>2026-08-28</td></tr>
+<tr><td>AutoNation</td><td>Autonation Usa Austin Sales Associate Hiring Event 9/3</td><td>Austin</td><td>2026-08-28</td></tr>
+<tr><td>AutoNation</td><td>Parts Sales Associate - Autonation Ford Westlake</td><td>Cleveland</td><td>2026-08-28</td></tr>
+<tr><td>AutoNation</td><td>Sales Associate - Autonation Ford Burleson</td><td>Dallas</td><td>2026-08-28</td></tr>
+<tr><td>AutoNation</td><td>Sales Associate - An Toyota Tempe</td><td>Phoenix</td><td>2026-08-28</td></tr>
+<tr><td>AutoNation</td><td>Car Sales Associate - Chevrolet Greenacres</td><td>Port St Lucie</td><td>2026-08-28</td></tr>
+<tr><td>AutoNation</td><td>Parts Shipping/receiving Associate - Autonation Chrysler Dodge Jeep Ram North Richland Hills</td><td>Dallas</td><td>2026-08-28</td></tr>
+<tr><td>AutoNation</td><td>Parts Warehouse Associate</td><td>Denver</td><td>2026-08-28</td></tr>
+<tr><td>AutoNation Ford Fort Worth</td><td>Sales Associate - Autonation Ford Fort Worth</td><td>Dallas</td><td>2026-08-28</td></tr>
+<tr><td>AutoNation</td><td>Parts Sales Associate - Western Region Only</td><td>Las Vegas</td><td>2026-08-28</td></tr>
+<tr><td>AutoNation</td><td>Sales Associate - Ford Margate</td><td>Miami</td><td>2026-08-28</td></tr>
+<tr><td>AutoNation</td><td>Vehicle Acquisition Specialist - Ford Margate</td><td>Miami</td><td>2026-08-28</td></tr>
+<tr><td>AutoNation</td><td>Sales Associate Ecommerce- Autonation Usa San Antonio</td><td>San Antonio</td><td>2026-08-28</td></tr>
+<tr><td>AutoNation Honda Of Clearwater</td><td>Autonation Honda Of Clearwater - Sales Associate</td><td>Tampa</td><td>2026-08-28</td></tr>
+<tr><td>AutoNation</td><td>Sales Retail Associate - Autonation Ford Gulf Freeway</td><td>United States</td><td>2026-08-28</td></tr>
+<tr><td>LEGO® Brand Retail</td><td>Sales Associate (brick Specialist)- Providence, Ri</td><td>Providence</td><td>2026-08-28</td></tr>
+<tr><td>Florida Department of Corrections</td><td>Administrative Assistant Ii - 64082643 1</td><td>Tallahassee</td><td>2026-08-28</td></tr>
+<tr><td>Florida Department of Transportation</td><td>Local Program Coordinator - 55008575</td><td>Ft Lauderdale</td><td>2026-08-28</td></tr>
+<tr><td>Florida Department of Transportation</td><td>Administrative Assistant I - 55012371</td><td>Deltona</td><td>2026-08-28</td></tr>
+<tr><td>Florida Department of Corrections</td><td>Dos - Administrative Assistant I - 45945079</td><td>Tallahassee</td><td>2026-08-28</td></tr>
+<tr><td>Florida Department of Corrections</td><td>Djj Operations Coordinator - 80082868</td><td>Ft Lauderdale</td><td>2026-08-28</td></tr>
+<tr><td>Florida Department of Corrections</td><td>Administrative Assistant Ii - 80081456 1</td><td>Tallahassee</td><td>2026-08-28</td></tr>
+<tr><td>State Attorney's Office, 16th Circuit</td><td>State Attorney's Office, 16th Circuit- Legal Assistant Ii - 21011730</td><td>Key West</td><td>2026-08-28</td></tr>
+<tr><td>Florida Department of Corrections</td><td>Administrative Assistant I - 55011634</td><td>Deltona</td><td>2026-08-28</td></tr>
+<tr><td>Florida Department of Corrections</td><td>Administrative Assistant Ii - 60003208</td><td>Tallahassee</td><td>2026-08-28</td></tr>
+<tr><td>Florida Department of Corrections</td><td>Administrative Assistant I - 72001278 1 1</td><td>Tampa</td><td>2026-08-28</td></tr>
+<tr><td>Florida Department of Corrections</td><td>Administrative Assistant I - 43000353</td><td>Tallahassee</td><td>2026-08-28</td></tr>
+<tr><td>Florida Department of Health</td><td>Ops Administrative Secretary - 64810264 1</td><td>Tallahassee</td><td>2026-08-28</td></tr>
+<tr><td>Schaeffler</td><td>Ehs Coordinator</td><td>United States</td><td>2026-08-28</td></tr>
+<tr><td>Schaeffler</td><td>Co-op - Purchasing - Fall 2026</td><td>United States</td><td>2026-08-28</td></tr>
+<tr><td>Sanford Health</td><td>Administrative Assistant</td><td>Sioux Falls</td><td>2026-08-28</td></tr>
 </table>
