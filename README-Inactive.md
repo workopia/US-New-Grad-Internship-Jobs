@@ -21118,4 +21118,129 @@
 <tr><td>historicsites.nc.gov</td><td>District Attorney Legal Assistant</td><td>Orange County</td><td>2026-08-30</td></tr>
 <tr><td>State of North Carolina</td><td>Public Defender Legal Assistant</td><td>Johnston County</td><td>2026-08-30</td></tr>
 <tr><td>State of North Carolina</td><td>District Attorney Legal Assistant</td><td>Orange County</td><td>2026-08-30</td></tr>
+<tr><td>Amgen UK</td><td>Undergrad Intern - Operations – West Greenwich, Ri (summer 2027)</td><td>Providence</td><td>2026-08-31</td></tr>
+<tr><td>Amgen Australia Pty Ltd</td><td>Undergrad Intern - Operations – West Greenwich, Ri (summer 2027)</td><td>Providence</td><td>2026-08-31</td></tr>
+<tr><td>Amgen UK</td><td>Undergrad Intern - Operations – Holly Springs, Nc (summer 2027)</td><td>Raleigh</td><td>2026-08-31</td></tr>
+<tr><td>Amgen Australia Pty Ltd</td><td>Undergrad Intern - Operations – Holly Springs, Nc (summer 2027)</td><td>Raleigh</td><td>2026-08-31</td></tr>
+<tr><td>Vicc</td><td>Pharmacy Intern - Medical Center East</td><td>Nashville</td><td>2026-08-31</td></tr>
+<tr><td>Vanderbilt University Medical Center</td><td>Pharmacy Intern - Medical Center East</td><td>Nashville</td><td>2026-08-31</td></tr>
+<tr><td>Maricopa County Library District</td><td>Mdi Intern</td><td>Phoenix</td><td>2026-08-31</td></tr>
+<tr><td>Stlukesphlebotomy</td><td>Nursing Intern</td><td>Kansas City</td><td>2026-08-31</td></tr>
+<tr><td>Nouria</td><td>General Manager In Training</td><td>Lewiston</td><td>2026-08-31</td></tr>
+<tr><td>Schaeffler</td><td>Accelerated Leadership Program - Manufacturing Leadership</td><td>Cheraw</td><td>2026-08-31</td></tr>
+<tr><td>Gordon Food Service</td><td>Intermediate Software Engineer</td><td>Grand Rapids</td><td>2026-08-31</td></tr>
+<tr><td>RTX (Raytheon)</td><td>Software Engineer Ii (onsite)</td><td>Huntsville</td><td>2026-08-31</td></tr>
+<tr><td>blog.jjc.edu</td><td>Technical Analyst I, Evening</td><td>Main Campus</td><td>2026-08-31</td></tr>
+<tr><td>IMPACT</td><td>Full Stack Java Engineer</td><td>Seattle</td><td>2026-08-31</td></tr>
+<tr><td>assetworks.co.uk</td><td>Technical Support Engineer – Cloud & Hosting (uk)</td><td>New York</td><td>2026-08-31</td></tr>
+<tr><td>Goassetworks</td><td>Technical Support Engineer – Cloud & Hosting (uk)</td><td>New York</td><td>2026-08-31</td></tr>
+<tr><td>Leonardo DRS</td><td>Software Engineer</td><td>Dallas</td><td>2026-08-31</td></tr>
+<tr><td>Agfa HealthCare</td><td>Customer Support Analyst, Tier I</td><td>Home Based</td><td>2026-08-31</td></tr>
+<tr><td>Bloomingdale's</td><td>Marketplace Seller Support Specialist</td><td>New York</td><td>2026-08-31</td></tr>
+<tr><td>Cox Automotive Inc.</td><td>Entry Level Software Engineer (draper, Ut)</td><td>Salt Lake City</td><td>2026-08-31</td></tr>
+<tr><td>Omegahires</td><td>Agentic Ai Engineer</td><td>Charlotte</td><td>2026-08-31</td></tr>
+<tr><td>Jump Trading</td><td>Campus Quantitative Trader (intern)</td><td>Chicago</td><td>2026-08-31</td></tr>
+<tr><td>Brighton Jones</td><td>Analyst (houston- August 2027 Start)</td><td>Houston</td><td>2026-08-31</td></tr>
+<tr><td>Nomura International PLC</td><td>Fund Financing Analyst/associate</td><td>New York</td><td>2026-08-31</td></tr>
+<tr><td>Nomura International PLC</td><td>New Business Group Risk Associate</td><td>New York</td><td>2026-08-31</td></tr>
+<tr><td>Nomura International PLC</td><td>Credit Risk Analyst/associate</td><td>New York</td><td>2026-08-31</td></tr>
+<tr><td>Nomura International PLC</td><td>Business Analyst - Equities</td><td>New York</td><td>2026-08-31</td></tr>
+<tr><td>Nomura International PLC</td><td>Ops-rc / Reg Reporting</td><td>Mumbai</td><td>2026-08-31</td></tr>
+<tr><td>Nomura International PLC</td><td>Business Management Analyst</td><td>Philadelphia</td><td>2026-08-31</td></tr>
+<tr><td>BILH (Beth Israel Lahey Health)</td><td>Nursing Assistant 32 Hours / Evenings 5 West (179002)</td><td>Lahey Clinic</td><td>2026-08-31</td></tr>
+<tr><td>BILH (Beth Israel Lahey Health)</td><td>Nursing Assistant 7 Central Ortho Neurosurgery Trauma 16 Hour Nights</td><td>Lahey Clinic</td><td>2026-08-31</td></tr>
+<tr><td>BILH (Beth Israel Lahey Health)</td><td>Nursing Assistant, 6 West, 32 Hours Day Shift</td><td>Lahey Clinic</td><td>2026-08-31</td></tr>
+<tr><td>BILH (Beth Israel Lahey Health)</td><td>Nursing Assistant (emergency Dept) - 24hr Evenings</td><td>Lahey Clinic</td><td>2026-08-31</td></tr>
+<tr><td>BILH (Beth Israel Lahey Health)</td><td>Registered Nurse (rn) Pacu 24 Hours Days</td><td>Greensboro</td><td>2026-08-31</td></tr>
+<tr><td>BILH (Beth Israel Lahey Health)</td><td>Nursing Assistant, Neurology Unit, 24 Hour Night Shift</td><td>Lahey Clinic</td><td>2026-08-31</td></tr>
+<tr><td>BILH (Beth Israel Lahey Health)</td><td>Clinical Pharmacist Ii - Overnight 7 On And 7 Off</td><td>Lahey Clinic</td><td>2026-08-31</td></tr>
+<tr><td>BILH (Beth Israel Lahey Health)</td><td>Physician Hospitalist, Hospital At Home</td><td>Lahey Clinic</td><td>2026-08-31</td></tr>
+<tr><td>BILH (Beth Israel Lahey Health)</td><td>Nursing Assistant, Per Diem- Nursing Float Pool</td><td>Lahey Clinic</td><td>2026-08-31</td></tr>
+<tr><td>BILH (Beth Israel Lahey Health)</td><td>Phlebotomist 40-hr Day- 8:00 Am - 4:30pm</td><td>Lahey Clinic</td><td>2026-08-31</td></tr>
+<tr><td>BILH (Beth Israel Lahey Health)</td><td>Emergency Department Nursing Assistant - 36 Hours/full-time (nights)</td><td>Lahey Clinic</td><td>2026-08-31</td></tr>
+<tr><td>BILH (Beth Israel Lahey Health)</td><td>Nursing Assistant- 24 Hr Nights- 6 West</td><td>Lahey Clinic</td><td>2026-08-31</td></tr>
+<tr><td>BILH (Beth Israel Lahey Health)</td><td>Medical Assistant Full Time Lahey Beverly Cardiology</td><td>Boston</td><td>2026-08-31</td></tr>
+<tr><td>BILH (Beth Israel Lahey Health)</td><td>Medical Assistant 1, General Surgery, Burligton</td><td>Greensboro</td><td>2026-08-31</td></tr>
+<tr><td>BILH (Beth Israel Lahey Health)</td><td>Nursing Assistant 7 East Acute Surgical Specialties 32/hr Day Shift</td><td>Lahey Clinic</td><td>2026-08-31</td></tr>
+<tr><td>BILH (Beth Israel Lahey Health)</td><td>Nursing Assistant- Cardiology Unit, 24 Hour Nights</td><td>Lahey Clinic</td><td>2026-08-31</td></tr>
+<tr><td>BILH (Beth Israel Lahey Health)</td><td>Neurosciences Critical Care Unit Nursing Assistant 36 Hr Nights</td><td>Lahey Clinic</td><td>2026-08-31</td></tr>
+<tr><td>BILH (Beth Israel Lahey Health)</td><td>Nursing Assistant, 6 Central, 24 Hours, Nights</td><td>Lahey Clinic</td><td>2026-08-31</td></tr>
+<tr><td>BILH (Beth Israel Lahey Health)</td><td>Neurosciences Critical Care Unit Nursing Assistant Days/24 Hrs Wk</td><td>Lahey Clinic</td><td>2026-08-31</td></tr>
+<tr><td>BILH (Beth Israel Lahey Health)</td><td>Nursing Assistant, 6 Central, 24 Hours, Days</td><td>Lahey Clinic</td><td>2026-08-31</td></tr>
+<tr><td>BILH (Beth Israel Lahey Health)</td><td>Nursing Assistant 24 Hours Day Shift 7-330pm, Every Other Weekend, Rotating Holiday 7 West</td><td>Lahey Clinic</td><td>2026-08-31</td></tr>
+<tr><td>BILH (Beth Israel Lahey Health)</td><td>Medical Assistant - Medical Specialties- 40 Hour Day Shift</td><td>Nashua</td><td>2026-08-31</td></tr>
+<tr><td>BILH (Beth Israel Lahey Health)</td><td>Medical Assistant- Medical Specialties - 40 Hours, Day Shift</td><td>Nashua</td><td>2026-08-31</td></tr>
+<tr><td>BILH (Beth Israel Lahey Health)</td><td>Endoscopy Technician/nursing Assisant</td><td>Lahey Clinic</td><td>2026-08-31</td></tr>
+<tr><td>BILH (Beth Israel Lahey Health)</td><td>Nursing Assistant (6 Southeast) - 32 Hour/night/evening</td><td>Lahey Clinic</td><td>2026-08-31</td></tr>
+<tr><td>BILH (Beth Israel Lahey Health)</td><td>Medical Assistant - Londonderry, Lahey (per Diem)</td><td>Nashua</td><td>2026-08-31</td></tr>
+<tr><td>BILH (Beth Israel Lahey Health)</td><td>Phlebotomist - 32hrs Night Shift</td><td>Lahey Clinic</td><td>2026-08-31</td></tr>
+<tr><td>Zrsmanagement</td><td>Maintenance Technician - South Austin</td><td>Austin</td><td>2026-08-31</td></tr>
+<tr><td>Zrsmanagement</td><td>Maintenance Technician - Epa Certified</td><td>Houston</td><td>2026-08-31</td></tr>
+<tr><td>All Phase Electric</td><td>All Phase Electric - Residential Generator Technician</td><td>Upper Darby</td><td>2026-08-31</td></tr>
+<tr><td>Ace Hardware</td><td>Hvac Maintenance Technician</td><td>Charlotte</td><td>2026-08-31</td></tr>
+<tr><td>O'Reilly Automotive</td><td>Maintenance Technician Ii</td><td>St Louis</td><td>2026-08-31</td></tr>
+<tr><td>O'Reilly Automotive</td><td>Maintenance Technician I</td><td>Greensboro</td><td>2026-08-31</td></tr>
+<tr><td>EDF Renewables</td><td>Renewable Energy Technician 1- 2 [on-site]</td><td>Windthorst</td><td>2026-08-31</td></tr>
+<tr><td>Medtronic Diabetes</td><td>Facilities Maintenance Technician Ii (3rd Shift)</td><td>Jacksonville</td><td>2026-08-31</td></tr>
+<tr><td>Honeywell Aerospace</td><td>Experienced Manufacturing Technician</td><td>Bloomington</td><td>2026-08-31</td></tr>
+<tr><td>Multiquip</td><td>Service Technician Ii- Power Equipment</td><td>Los Angeles</td><td>2026-08-31</td></tr>
+<tr><td>Trek Bikes</td><td>Service Technician/assembler</td><td>Boston</td><td>2026-08-31</td></tr>
+<tr><td>Trek Bicycle</td><td>Service Technician/assembler</td><td>Boston</td><td>2026-08-31</td></tr>
+<tr><td>Enerflex Ltd</td><td>Maintenance Helper</td><td>Houston</td><td>2026-08-31</td></tr>
+<tr><td>hiremomentum.online</td><td>Hvac Mechanic-electrical</td><td>Us</td><td>2026-08-31</td></tr>
+<tr><td>Abbott Diabetes Care</td><td>Calibration Maintenance Technician (night Shift 6:30p - 7:00a, Alternating Weekends (2a Crew))</td><td>Dayton</td><td>2026-08-31</td></tr>
+<tr><td>B. F. Saul Company Hospitality Group</td><td>Part Time General Maintenance ~towneplace Suites Gaithersburg~ (copy)</td><td>Washington D C</td><td>2026-08-31</td></tr>
+<tr><td>Tyson Foods</td><td>Facilities Maintenance Technician (1st Shift) - Claremont, Nc</td><td>Los Angeles</td><td>2026-08-31</td></tr>
+<tr><td>Tyson Foods</td><td>Maintenance Electrical Technician 7 - D Shift</td><td>Toledo</td><td>2026-08-31</td></tr>
+<tr><td>Tyson Foods</td><td>Refrigeration Maintenance 1st Shift Cincinnati Oh</td><td>Cincinnati</td><td>2026-08-31</td></tr>
+<tr><td>Tyson Foods</td><td>Refrigeration Maintenance 1st Shift- Seguin Tx.</td><td>San Antonio</td><td>2026-08-31</td></tr>
+<tr><td>Hydromat Inc</td><td>Machine Build Technician</td><td>St Louis</td><td>2026-08-31</td></tr>
+<tr><td>Cox Automotive Corporate Services LLC</td><td>Maintenance Technician I (manheim)</td><td>Port St Lucie</td><td>2026-08-31</td></tr>
+<tr><td>Shield AI</td><td>Technician Ii, Production (r5665)</td><td>Dallas</td><td>2026-08-31</td></tr>
+<tr><td>SSM Health</td><td>Maintenance Technician</td><td>St Louis</td><td>2026-08-31</td></tr>
+<tr><td>PeopleLift</td><td>Fiber Optic Technician (osp/isp)</td><td>Dulles</td><td>2026-08-31</td></tr>
+<tr><td>LensCrafters</td><td>Sales Associate Lenscrafters</td><td>Indianapolis</td><td>2026-08-31</td></tr>
+<tr><td>Sunglass Hut</td><td>$15/hr Pt Sales Associate (6-18hrs/wk)</td><td>Houston</td><td>2026-08-31</td></tr>
+<tr><td>LensCrafters</td><td>Part-time Sales Associate</td><td>Chicago</td><td>2026-08-31</td></tr>
+<tr><td>For Eyes</td><td>Sales Associate</td><td>Philadelphia</td><td>2026-08-31</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>$15 Hourly + Commission - Sales Associate 4153</td><td>Tulsa</td><td>2026-08-31</td></tr>
+<tr><td>Eye Boutique</td><td>Eyecare Sales Associate, Eye Boutique</td><td>Chicago</td><td>2026-08-31</td></tr>
+<tr><td>Dollar Tree</td><td>Customer Service</td><td>New York</td><td>2026-08-31</td></tr>
+<tr><td>Dollar Tree</td><td>Customer Service Associate I</td><td>Vernal</td><td>2026-08-31</td></tr>
+<tr><td>Dollar Tree</td><td>Customer Service Associate Ii</td><td>Intl Falls</td><td>2026-08-31</td></tr>
+<tr><td>Dollar Tree</td><td>Customer Service Associate L</td><td>W Lafayette</td><td>2026-08-31</td></tr>
+<tr><td>Dollar Tree</td><td>Customer Service Ii</td><td>Pollok</td><td>2026-08-31</td></tr>
+<tr><td>Dollar Tree</td><td>Customer Service I</td><td>Little Rock</td><td>2026-08-31</td></tr>
+<tr><td>Dollar Tree</td><td>Customer Service Ll</td><td>Lithonia</td><td>2026-08-31</td></tr>
+<tr><td>Master Halco</td><td>Yard Associate - Denver</td><td>Denver</td><td>2026-08-31</td></tr>
+<tr><td>GXO Logistics, Inc.</td><td>Data Center Logistics Associate Ii - 1st Shift</td><td>Dallas</td><td>2026-08-31</td></tr>
+<tr><td>NIAGARA BOTTLING LLC</td><td>Warehouse Associate- Day Shift</td><td>Atlanta</td><td>2026-08-31</td></tr>
+<tr><td>Encore Global</td><td>Warehouse Associate – Coppell</td><td>Dallas</td><td>2026-08-31</td></tr>
+<tr><td>The Timken Company</td><td>Des-case Shipping Associate</td><td>Nashville</td><td>2026-08-31</td></tr>
+<tr><td>AAA (Automobile Club)</td><td>Customer Service Representative Insurance</td><td>Ohio</td><td>2026-08-31</td></tr>
+<tr><td>Walmart</td><td>General Merchandise Team Associate</td><td>Pecos</td><td>2026-08-31</td></tr>
+<tr><td>Walmart</td><td>Fashion Team Associate</td><td>Ashdown</td><td>2026-08-31</td></tr>
+<tr><td>Walmart</td><td>Pharmacy Sales Associate</td><td>Moulton</td><td>2026-08-31</td></tr>
+<tr><td>Nordstrom</td><td>Retail Sales - Men's Apparel - Westchester</td><td>New York</td><td>2026-08-31</td></tr>
+<tr><td>Nordstrom</td><td>Retail Cashier & Sales Floor Support - Union Square Rack</td><td>New York</td><td>2026-08-31</td></tr>
+<tr><td>Nordstrom</td><td>Beauty Sales - Beauty Rituals - Streets At Southpoint</td><td>Raleigh</td><td>2026-08-31</td></tr>
+<tr><td>Nordstrom</td><td>Beauty Sales - Maison Francis Kurkdjian - International Plaza</td><td>Tampa</td><td>2026-08-31</td></tr>
+<tr><td>Nordstrom</td><td>Sales- 1600 Commons Rack</td><td>Miami</td><td>2026-08-31</td></tr>
+<tr><td>Nordstrom</td><td>Retail Sales - Designer Shoes - Downtown Seattle</td><td>Seattle</td><td>2026-08-31</td></tr>
+<tr><td>Nordstrom</td><td>Retail Sales - Jewelry - Downtown Seattle</td><td>Seattle</td><td>2026-08-31</td></tr>
+<tr><td>Nordstrom</td><td>Seasonal & Regular Retail Sales Or Stock - The Village At Allen Rack</td><td>Dallas</td><td>2026-08-31</td></tr>
+<tr><td>Nordstrom</td><td>Retail Sales Floor Support - Crossroads At Eatontown Rack</td><td>New York</td><td>2026-08-31</td></tr>
+<tr><td>Nordstrom</td><td>Beauty Sales - Women's Fragrance - Southpark</td><td>Charlotte</td><td>2026-08-31</td></tr>
+<tr><td>Nordstrom</td><td>Beauty Sales - La Mer - Westfarms</td><td>Hartford</td><td>2026-08-31</td></tr>
+<tr><td>Nordstrom</td><td>New Store Opening - Sales, Customer Service Or Stock - Brunswick Square Rack</td><td>New York</td><td>2026-08-31</td></tr>
+<tr><td>Nordstrom</td><td>Fao Schwarz Toy Specialist - Bellevue Square</td><td>Seattle</td><td>2026-08-31</td></tr>
+<tr><td>Sun Communities Inc</td><td>Activities Coordinator - Part Time</td><td>Naples</td><td>2026-08-31</td></tr>
+<tr><td>Dana-Farber Cancer Institute</td><td>Clinical Scheduling Specialist I - Pediatric Cancer Genetic Risk Program</td><td>Boston</td><td>2026-08-31</td></tr>
+<tr><td>fairlife, LLC</td><td>Training Specialist</td><td>St Louis</td><td>2026-08-31</td></tr>
+<tr><td>American Electric Power Company, Inc.</td><td>Energy Efficiency & Consumer Program Coordinator</td><td>Bluefield</td><td>2026-08-31</td></tr>
+<tr><td>Aeprecuit</td><td>Energy Efficiency & Consumer Program Coordinator</td><td>Bluefield</td><td>2026-08-31</td></tr>
+<tr><td>Charles R. Drew University of Medicine and Science</td><td>Program Coordinator Ii - Community Engagement</td><td>Los Angeles</td><td>2026-08-31</td></tr>
+<tr><td>Beth Israel Lahey Health</td><td>Administrative Assistant, Neurology</td><td>Greensboro</td><td>2026-08-31</td></tr>
+<tr><td>Atlanticrecords Us</td><td>Frontline Admin Assistant - Temp</td><td>Miami</td><td>2026-08-31</td></tr>
+<tr><td>Warnermusicanz</td><td>Frontline Admin Assistant - Temp</td><td>Miami</td><td>2026-08-31</td></tr>
 </table>
