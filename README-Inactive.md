@@ -28139,4 +28139,11 @@
 <tr><td>Ivy Tech Community College</td><td>Federal Work-study - Recruitment And Event Coordinator</td><td>Columbus</td><td>2026-09-15</td></tr>
 <tr><td>Ivy Tech Community College</td><td>Administrative Assistant For Academic Affairs</td><td>Santa Clarita</td><td>2026-09-15</td></tr>
 <tr><td>DaVita Inc.</td><td>Administrative Assistant (pct)</td><td>Atlanta</td><td>2026-09-15</td></tr>
+<tr><td>Deluxe</td><td>Software Engineer - Intern</td><td>Bloomington</td><td>2026-09-15</td></tr>
+<tr><td>CIBC US</td><td>2027 Summer Intern - Internal Audit</td><td>New York</td><td>2026-09-15</td></tr>
+<tr><td>Bankstcharles</td><td>2027 Quantitative Analytics Analyst Graduate Program New York</td><td>New York</td><td>2026-09-15</td></tr>
+<tr><td>Tokio Marine HCC</td><td>Internal Audit Intern - Summer 2027</td><td>Houston</td><td>2026-09-15</td></tr>
+<tr><td>Western Digital</td><td>Summer 2027 Intern - Financial Analyst - Undergraduate & Mba</td><td>San Jose</td><td>2026-09-15</td></tr>
+<tr><td>Wellstar</td><td>Nursing Assistant (care Partner) - Med/surg - Days</td><td>United States</td><td>2026-09-15</td></tr>
+<tr><td>TJX Companies</td><td>Sales Associate</td><td>Washington D C</td><td>2026-09-15</td></tr>
 </table>

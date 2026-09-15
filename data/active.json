@@ -1,6 +1,6 @@
 {
  "asOf": "2026-09-15",
- "count": 1009,
+ "count": 1012,
  "jobs": {
   "285563d0775ad6e17540bd5a9191d548": {
    "id": "285563d0775ad6e17540bd5a9191d548",
@@ -1046,12 +1046,6 @@
    "role": "Software Engineering Co-op (summer/fall 2027)",
    "location": "Cedar Rapids"
   },
-  "d3ad2ffe0188c6af9f77f22ec0914a55": {
-   "id": "d3ad2ffe0188c6af9f77f22ec0914a55",
-   "company": "Deluxe",
-   "role": "Software Engineer - Intern",
-   "location": "Bloomington"
-  },
   "02b8d32b81ceef28c2f96f50e69318b1": {
    "id": "02b8d32b81ceef28c2f96f50e69318b1",
    "company": "Kensho",
@@ -1061,6 +1055,12 @@
   "753d995f81459edcf8bb3c7a57672850": {
    "id": "753d995f81459edcf8bb3c7a57672850",
    "company": "DIMENSIONAL",
+   "role": "Internship In Technology - Software Engineer",
+   "location": "Austin"
+  },
+  "e7d8d0b88cea2b23c626a0d5e85491d1": {
+   "id": "e7d8d0b88cea2b23c626a0d5e85491d1",
+   "company": "Dimensional Fund Advisors LP",
    "role": "Internship In Technology - Software Engineer",
    "location": "Austin"
   },
@@ -1315,6 +1315,12 @@
    "company": "Perpay",
    "role": "Software Engineer, New Grad",
    "location": "Philadelphia"
+  },
+  "de4b98ce7689c350ad78ded813f5bb62": {
+   "id": "de4b98ce7689c350ad78ded813f5bb62",
+   "company": "Atlassian",
+   "role": "Software Engineer, 2027 Graduate U.S.",
+   "location": "Seattle"
   },
   "73fa5d51ac0f078302f9f257161f162f": {
    "id": "73fa5d51ac0f078302f9f257161f162f",
@@ -2084,9 +2090,21 @@
    "role": "Junior It Engineer – Information Technology Intern (summer 2027)",
    "location": "Indianapolis"
   },
+  "bd0d32e9cbc15f9734258532a4b1f45a": {
+   "id": "bd0d32e9cbc15f9734258532a4b1f45a",
+   "company": "Acxiom",
+   "role": "Intern - Data Scientist",
+   "location": "Little Rock"
+  },
   "82b5b0cc2b916f3e1c73cd7b985a2aa1": {
    "id": "82b5b0cc2b916f3e1c73cd7b985a2aa1",
    "company": "Gartner UK",
+   "role": "Data Analyst Internship (2028 Graduates)",
+   "location": "Dallas"
+  },
+  "c37bb8532a38bb044c0273aebab82a2a": {
+   "id": "c37bb8532a38bb044c0273aebab82a2a",
+   "company": "Gartner Inc",
    "role": "Data Analyst Internship (2028 Graduates)",
    "location": "Dallas"
   },
@@ -3122,9 +3140,21 @@
    "role": "Sales Business Analyst Intern",
    "location": "Austin"
   },
+  "3bf61a26b36bdaa42503deac6e8918cd": {
+   "id": "3bf61a26b36bdaa42503deac6e8918cd",
+   "company": "Tokyo Electron (TEL)",
+   "role": "Sales Business Analyst Intern",
+   "location": "Austin"
+  },
   "fe9c323e9637c689406b3feb424dbd8b": {
    "id": "fe9c323e9637c689406b3feb424dbd8b",
    "company": "Oshkosh Corp.",
+   "role": "Finance Intern (summer 2027)",
+   "location": "Dodge Center"
+  },
+  "8ef6f378d59246b29409aa836a8d8982": {
+   "id": "8ef6f378d59246b29409aa836a8d8982",
+   "company": "Oshkosh Corporation",
    "role": "Finance Intern (summer 2027)",
    "location": "Dodge Center"
   },
@@ -3134,9 +3164,21 @@
    "role": "Jr. Financial Analyst (co-op)",
    "location": "Denver"
   },
+  "f4aa06c841b7c329cd7d9ac084d86a86": {
+   "id": "f4aa06c841b7c329cd7d9ac084d86a86",
+   "company": "Magna",
+   "role": "Jr. Financial Analyst (co-op)",
+   "location": "Denver"
+  },
   "0cc54382b29cded8f85ea0367d3f8b99": {
    "id": "0cc54382b29cded8f85ea0367d3f8b99",
    "company": "Nelnet Bank",
+   "role": "Internal Audit Intern",
+   "location": "Lincoln"
+  },
+  "f9b8f987e4b0e630997b6bc766e68c4d": {
+   "id": "f9b8f987e4b0e630997b6bc766e68c4d",
+   "company": "Nelnet",
    "role": "Internal Audit Intern",
    "location": "Lincoln"
   },
@@ -3307,30 +3349,6 @@
    "company": "CIBC",
    "role": "2027 Summer Intern - Internal Audit",
    "location": "New York"
-  },
-  "4d2287b0ea45e555d7a8e47b9279e3b6": {
-   "id": "4d2287b0ea45e555d7a8e47b9279e3b6",
-   "company": "CIBC US",
-   "role": "2027 Summer Intern - Internal Audit",
-   "location": "New York"
-  },
-  "97ecef338fc3c4ccbdb473af4f2e3218": {
-   "id": "97ecef338fc3c4ccbdb473af4f2e3218",
-   "company": "Bankstcharles",
-   "role": "2027 Quantitative Analytics Analyst Graduate Program New York",
-   "location": "New York"
-  },
-  "06c044c5ae9be522003afaa5dd060b1c": {
-   "id": "06c044c5ae9be522003afaa5dd060b1c",
-   "company": "Tokio Marine HCC",
-   "role": "Internal Audit Intern - Summer 2027",
-   "location": "Houston"
-  },
-  "2b6fb7d803269f39955426bae345e9af": {
-   "id": "2b6fb7d803269f39955426bae345e9af",
-   "company": "Western Digital",
-   "role": "Summer 2027 Intern - Financial Analyst - Undergraduate & Mba",
-   "location": "San Jose"
   },
   "4f5b72902d31a13cddd09a41876fb291": {
    "id": "4f5b72902d31a13cddd09a41876fb291",
@@ -4352,12 +4370,6 @@
    "role": "Pharmacist - Informaticist, Blom Admin Campus",
    "location": "Blom Administrative Campus"
   },
-  "f9bfbde29e6c52d49971677ef1a571cd": {
-   "id": "f9bfbde29e6c52d49971677ef1a571cd",
-   "company": "Wellstar",
-   "role": "Nursing Assistant (care Partner) - Med/surg - Days",
-   "location": "United States"
-  },
   "a900a554a4d8bb0610591ac0d3b88d9c": {
    "id": "a900a554a4d8bb0610591ac0d3b88d9c",
    "company": "Cleveland Clinic Health System",
@@ -4614,6 +4626,12 @@
    "id": "c9823af5c95e748d66ccc55ff1f712b9",
    "company": "UC Health",
    "role": "Registered Nurse (rn-cn1), Neuroscience Acute Care, Night Shift, Ona",
+   "location": "Cincinnati"
+  },
+  "3907d3202bcc730f1968255a6e245c4d": {
+   "id": "3907d3202bcc730f1968255a6e245c4d",
+   "company": "UC Health",
+   "role": "Registered Nurse (rn-cn1), Gastrointestinal- 8 East, Full Time, Nights, Ona",
    "location": "Cincinnati"
   },
   "b81e7c6b6b3a2da258e505f4ad004f5e": {
@@ -5534,12 +5552,6 @@
    "role": "Retail Warehouse Associate",
    "location": "Indianapolis"
   },
-  "8e9e4d71c42be9ef6dfa6e1e6bd70d47": {
-   "id": "8e9e4d71c42be9ef6dfa6e1e6bd70d47",
-   "company": "TJX Companies",
-   "role": "Sales Associate",
-   "location": "Washington D C"
-  },
   "e18b57e2ce4da2a40d69a25ecbfd732c": {
    "id": "e18b57e2ce4da2a40d69a25ecbfd732c",
    "company": "TJX Companies",
@@ -5575,6 +5587,12 @@
    "company": "Evansville Goodwill Industries Inc",
    "role": "Sales Associate - Washington",
    "location": "Washington D C"
+  },
+  "241a6cab5164285aeb5d72d5ef5f1910": {
+   "id": "241a6cab5164285aeb5d72d5ef5f1910",
+   "company": "Evansville Goodwill Industries Inc",
+   "role": "Sales Associate - Henderson",
+   "location": "Las Vegas"
   },
   "0bb3b3ef5b54166d4b4529bbda817a8a": {
    "id": "0bb3b3ef5b54166d4b4529bbda817a8a",
