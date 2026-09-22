@@ -12,8 +12,8 @@
   "as_of": "2026-09-22",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 357998,
-  "generated_at": "2026-09-22T06:56:23.338Z"
+  "country_live_total": 356954,
+  "generated_at": "2026-09-22T10:25:06.922Z"
  },
  "categories": [
   {
@@ -122,6 +122,23 @@
    "date_posted": "2026-09-21T16:35:02.795Z",
    "active": true,
    "url": "https://workopia.io/jobs/5c68ccc6d6c283fe7758bdb24800f631",
+   "category": "grad",
+   "tier": "Intern"
+  },
+  {
+   "salary_display": null,
+   "id": "targetjobs:f7d5797d-af5f-4b71-8b4f-660c71bff0e9",
+   "source": "Workopia",
+   "company_name": "Enterprise Mobility",
+   "company_hi_slug": "enterprise-mobility",
+   "title": "One Year Management Placement / Internship - Boston",
+   "location": "Boston",
+   "skills": "customer service and s, financial control and ",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-09-21T15:55:05.000Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/targetjobs:f7d5797d-af5f-4b71-8b4f-660c71bff0e9",
    "category": "grad",
    "tier": "Intern"
   },
@@ -1414,23 +1431,6 @@
    "date_posted": "2026-09-21T04:38:42.423Z",
    "active": true,
    "url": "https://workopia.io/jobs/d406b11b7e73d6d82c2ca9c324aecc58",
-   "category": "grad",
-   "tier": "Intern"
-  },
-  {
-   "salary_display": null,
-   "id": "5ce09845541b7d3f5d8773033d608559",
-   "source": "Workopia",
-   "company_name": "Lincoln Electric",
-   "company_hi_slug": "lincoln-electric",
-   "title": "Human Resources Summer 2027 Internship (euclid, Oh)",
-   "location": "Cleveland",
-   "skills": "HR Operations projects, Talent Acquisition pro",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-21T04:38:42.423Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/5ce09845541b7d3f5d8773033d608559",
    "category": "grad",
    "tier": "Intern"
   },
@@ -13165,23 +13165,6 @@
    "tier": "Entry-level"
   },
   {
-   "salary_display": null,
-   "id": "e71c23fd3fed639de6fcf098d309292b",
-   "source": "Workopia",
-   "company_name": "Banner Medical Group",
-   "company_hi_slug": "banner-medical-group",
-   "title": "Registered Nurse New Graduate Medical Pcu",
-   "location": "Phoenix",
-   "skills": "collaborative learning, transition from new gr",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-21T08:22:30.013Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/e71c23fd3fed639de6fcf098d309292b",
-   "category": "healthcare",
-   "tier": "Entry-level"
-  },
-  {
    "salary_display": "$18/hr",
    "id": "5f679baeafa1b8baccf946599e91b6ee",
    "source": "Workopia",
@@ -13909,6 +13892,23 @@
    "date_posted": "2026-09-20T22:40:02.173Z",
    "active": true,
    "url": "https://workopia.io/jobs/a5415d4c8c870c7b3fc088ad26607063",
+   "category": "healthcare",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": null,
+   "id": "fb746faa6b657282e6e13611df4e092c",
+   "source": "Workopia",
+   "company_name": "Lexington Health Inc",
+   "company_hi_slug": "lexington-health",
+   "title": "Rn - Observation Unit Prn",
+   "location": "Columbia",
+   "skills": "nursing process, patient and family sup",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-09-20T22:40:02.173Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/fb746faa6b657282e6e13611df4e092c",
    "category": "healthcare",
    "tier": "Entry-level"
   },
