@@ -31294,4 +31294,5 @@
 <tr><td>ACRT, Inc.</td><td>Administrative Assistant / Manchester, Nh</td><td>Manchester</td><td>2026-09-22</td></tr>
 <tr><td>Lincoln Electric</td><td>Human Resources Summer 2027 Internship (euclid, Oh)</td><td>Cleveland</td><td>2026-09-22</td></tr>
 <tr><td>Banner Medical Group</td><td>Registered Nurse New Graduate Medical Pcu</td><td>Phoenix</td><td>2026-09-22</td></tr>
+<tr><td>Mars Australia</td><td>Summer 2027 Mars Snacking Ds2 Packaging Co-op Internship</td><td>Chicago</td><td>2026-09-22</td></tr>
 </table>

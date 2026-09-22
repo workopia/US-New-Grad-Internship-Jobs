@@ -12,8 +12,8 @@
   "as_of": "2026-09-22",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 356954,
-  "generated_at": "2026-09-22T10:25:06.922Z"
+  "country_live_total": 356367,
+  "generated_at": "2026-09-22T13:15:03.559Z"
  },
  "categories": [
   {
@@ -993,23 +993,6 @@
    "tier": "Intern"
   },
   {
-   "salary_display": null,
-   "id": "3388c761003e024906802d2ddea56b2d",
-   "source": "Workopia",
-   "company_name": "Mars Australia",
-   "company_hi_slug": "mars-australia",
-   "title": "Summer 2027 Mars Snacking Ds2 Packaging Co-op Internship",
-   "location": "Chicago",
-   "skills": "packaging innovation p, packaging specificatio",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-21T06:41:41.519Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/3388c761003e024906802d2ddea56b2d",
-   "category": "grad",
-   "tier": "Intern"
-  },
-  {
    "salary_display": "$25/hr",
    "id": "4bff537e6e45c3a10e92110942fcf40b",
    "source": "Workopia",
@@ -1431,6 +1414,23 @@
    "date_posted": "2026-09-21T04:38:42.423Z",
    "active": true,
    "url": "https://workopia.io/jobs/d406b11b7e73d6d82c2ca9c324aecc58",
+   "category": "grad",
+   "tier": "Intern"
+  },
+  {
+   "salary_display": null,
+   "id": "5ce09845541b7d3f5d8773033d608559",
+   "source": "Workopia",
+   "company_name": "Lincoln Electric",
+   "company_hi_slug": "lincoln-electric",
+   "title": "Human Resources Summer 2027 Internship (euclid, Oh)",
+   "location": "Cleveland",
+   "skills": "HR Operations projects, Talent Acquisition pro",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-09-21T04:38:42.423Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/5ce09845541b7d3f5d8773033d608559",
    "category": "grad",
    "tier": "Intern"
   },

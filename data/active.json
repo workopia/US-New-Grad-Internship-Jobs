@@ -338,12 +338,6 @@
    "role": "2027 Summer Internship - Business Technology",
    "location": "St Louis"
   },
-  "3388c761003e024906802d2ddea56b2d": {
-   "id": "3388c761003e024906802d2ddea56b2d",
-   "company": "Mars Australia",
-   "role": "Summer 2027 Mars Snacking Ds2 Packaging Co-op Internship",
-   "location": "Chicago"
-  },
   "4bff537e6e45c3a10e92110942fcf40b": {
    "id": "4bff537e6e45c3a10e92110942fcf40b",
    "company": "Southern Glazer's Wine and Spirits LLC",
@@ -492,6 +486,12 @@
    "id": "d406b11b7e73d6d82c2ca9c324aecc58",
    "company": "Lincoln Electric",
    "role": "Product Management Summer 2027 Internship (euclid, Oh)",
+   "location": "Cleveland"
+  },
+  "5ce09845541b7d3f5d8773033d608559": {
+   "id": "5ce09845541b7d3f5d8773033d608559",
+   "company": "Lincoln Electric",
+   "role": "Human Resources Summer 2027 Internship (euclid, Oh)",
    "location": "Cleveland"
   },
   "7e4f14a319440fbcbd467dc99ce5a181": {
