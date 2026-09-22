@@ -12,8 +12,8 @@
   "as_of": "2026-09-22",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 359041,
-  "generated_at": "2026-09-22T01:06:33.579Z"
+  "country_live_total": 357998,
+  "generated_at": "2026-09-22T06:56:23.338Z"
  },
  "categories": [
   {
@@ -4780,23 +4780,6 @@
    "date_posted": "2026-07-28T12:52:03.166Z",
    "active": true,
    "url": "https://workopia.io/jobs/57a5621fb97be30e3b84dd525a97639e",
-   "category": "tech",
-   "tier": "Graduate"
-  },
-  {
-   "salary_display": "$73,100–117,000",
-   "id": "8ce63c1b8f4384228f7a03e789e152b4",
-   "source": "Workopia",
-   "company_name": "Teradyne",
-   "company_hi_slug": "teradyne",
-   "title": "Software Engineer, New College Graduate, (teradyne, North Reading, Ma)",
-   "location": "Lowell",
-   "skills": "React, Redux",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-07-24T04:26:32.794Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/8ce63c1b8f4384228f7a03e789e152b4",
    "category": "tech",
    "tier": "Graduate"
   },
@@ -13522,23 +13505,6 @@
    "tier": "Entry-level"
   },
   {
-   "salary_display": null,
-   "id": "7c33b89636ff262833846b545150ba7f",
-   "source": "Workopia",
-   "company_name": "Atrium Health Pineville - Emergency Department: Steele Creek",
-   "company_hi_slug": null,
-   "title": "Registered Nurse (rn) - Emergency Department",
-   "location": "Charlotte",
-   "skills": "Emergency department p, Weekend night shift sc",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-21T04:29:06.175Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/7c33b89636ff262833846b545150ba7f",
-   "category": "healthcare",
-   "tier": "Entry-level"
-  },
-  {
    "salary_display": "$60,200–100,400",
    "id": "d4d01594b7bdee37e49327e9aa88d4d7",
    "source": "Workopia",
@@ -13926,6 +13892,23 @@
    "date_posted": "2026-09-20T22:40:02.173Z",
    "active": true,
    "url": "https://workopia.io/jobs/af4a48ef4a4f476b2a3c3ef65d61e376",
+   "category": "healthcare",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": null,
+   "id": "a5415d4c8c870c7b3fc088ad26607063",
+   "source": "Workopia",
+   "company_name": "Lexington Health Inc",
+   "company_hi_slug": "lexington-health",
+   "title": "Rn - Interventional Radiology (ir)",
+   "location": "Columbia",
+   "skills": "patient care and suppo, clinical work quality",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-09-20T22:40:02.173Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/a5415d4c8c870c7b3fc088ad26607063",
    "category": "healthcare",
    "tier": "Entry-level"
   },
@@ -17450,6 +17433,23 @@
   },
   {
    "salary_display": null,
+   "id": "780ee58acc03f1fa2b9555be759be5f4",
+   "source": "Workopia",
+   "company_name": "PCL Constructors Inc",
+   "company_hi_slug": "pcl-constructors-inc",
+   "title": "Marketing/proposal Student",
+   "location": "Los Angeles",
+   "skills": "Adobe Creative Suite p, Create visually compel",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-09-20T18:14:08.285Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/780ee58acc03f1fa2b9555be759be5f4",
+   "category": "admin",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": null,
    "id": "85945d867eab6f1fb60e6decfbcbc2f8",
    "source": "Workopia",
    "company_name": "Umicore",
@@ -17989,23 +17989,6 @@
    "date_posted": "2026-09-19T13:36:25.083Z",
    "active": true,
    "url": "https://workopia.io/jobs/254fb3e9dae78f4dc2c541dad812b039",
-   "category": "admin",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": null,
-   "id": "bb5446d438dfbf25f28afe7be73f35fd",
-   "source": "Workopia",
-   "company_name": "ACRT, Inc.",
-   "company_hi_slug": "acrt-inc",
-   "title": "Administrative Assistant / Manchester, Nh",
-   "location": "Manchester",
-   "skills": "managing day-to-day of, supporting project man",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-19T13:34:30.714Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/bb5446d438dfbf25f28afe7be73f35fd",
    "category": "admin",
    "tier": "Entry-level"
   }

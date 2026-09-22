@@ -31289,4 +31289,7 @@
 <tr><td>Center for Global Health Equity at Brown University</td><td>Referral Specialist</td><td>Providence</td><td>2026-09-22</td></tr>
 <tr><td>May Institute</td><td>Administrative Assistant</td><td>Brockton</td><td>2026-09-22</td></tr>
 <tr><td>May Institute</td><td>Assistant Residential Program Coordinator</td><td>Boston</td><td>2026-09-22</td></tr>
+<tr><td>Teradyne</td><td>Software Engineer, New College Graduate, (teradyne, North Reading, Ma)</td><td>Lowell</td><td>2026-09-22</td></tr>
+<tr><td>Atrium Health Pineville - Emergency Department: Steele Creek</td><td>Registered Nurse (rn) - Emergency Department</td><td>Charlotte</td><td>2026-09-22</td></tr>
+<tr><td>ACRT, Inc.</td><td>Administrative Assistant / Manchester, Nh</td><td>Manchester</td><td>2026-09-22</td></tr>
 </table>

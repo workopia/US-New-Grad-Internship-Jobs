@@ -1,6 +1,6 @@
 {
  "asOf": "2026-09-22",
- "count": 1055,
+ "count": 1054,
  "jobs": {
   "4520311": {
    "id": "4520311",
@@ -1675,12 +1675,6 @@
    "company": "Cacijobapplication",
    "role": "Cloud Software And Support Engineer - Early Career",
    "location": "Baltimore"
-  },
-  "8ce63c1b8f4384228f7a03e789e152b4": {
-   "id": "8ce63c1b8f4384228f7a03e789e152b4",
-   "company": "Teradyne",
-   "role": "Software Engineer, New College Graduate, (teradyne, North Reading, Ma)",
-   "location": "Lowell"
   },
   "301e60c91d82bf4448dae8ff1eea8de4": {
    "id": "301e60c91d82bf4448dae8ff1eea8de4",
@@ -4754,12 +4748,6 @@
    "role": "Registered Nurse - Brain Injury Unit Spaulding",
    "location": "Boston"
   },
-  "7c33b89636ff262833846b545150ba7f": {
-   "id": "7c33b89636ff262833846b545150ba7f",
-   "company": "Atrium Health Pineville - Emergency Department: Steele Creek",
-   "role": "Registered Nurse (rn) - Emergency Department",
-   "location": "Charlotte"
-  },
   "d4d01594b7bdee37e49327e9aa88d4d7": {
    "id": "d4d01594b7bdee37e49327e9aa88d4d7",
    "company": "Pfizer Inc.",
@@ -4890,6 +4878,12 @@
    "id": "af4a48ef4a4f476b2a3c3ef65d61e376",
    "company": "Lexington Health Inc",
    "role": "Rn (flex) - Northeast Surgery",
+   "location": "Columbia"
+  },
+  "a5415d4c8c870c7b3fc088ad26607063": {
+   "id": "a5415d4c8c870c7b3fc088ad26607063",
+   "company": "Lexington Health Inc",
+   "role": "Rn - Interventional Radiology (ir)",
    "location": "Columbia"
   },
   "ceef26bae695a3aa4647d57caedf3d96": {
@@ -6134,6 +6128,12 @@
    "role": "68000601 - Administrative Assistant I - Ses",
    "location": "Tallahassee"
   },
+  "780ee58acc03f1fa2b9555be759be5f4": {
+   "id": "780ee58acc03f1fa2b9555be759be5f4",
+   "company": "PCL Constructors Inc",
+   "role": "Marketing/proposal Student",
+   "location": "Los Angeles"
+  },
   "85945d867eab6f1fb60e6decfbcbc2f8": {
    "id": "85945d867eab6f1fb60e6decfbcbc2f8",
    "company": "Umicore",
@@ -6325,12 +6325,6 @@
    "company": "University of San Francisco",
    "role": "Assistant To The Vp Of Division For Mission And Ignatian Imagination",
    "location": "Usf Hilltop Campus"
-  },
-  "bb5446d438dfbf25f28afe7be73f35fd": {
-   "id": "bb5446d438dfbf25f28afe7be73f35fd",
-   "company": "ACRT, Inc.",
-   "role": "Administrative Assistant / Manchester, Nh",
-   "location": "Manchester"
   }
  }
 }
