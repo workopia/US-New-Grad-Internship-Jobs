@@ -32547,4 +32547,7 @@
 <tr><td>Wells Fargo & Company</td><td>Branch Operations Coordinator Clairemont Town Center</td><td>San Diego</td><td>2026-09-24</td></tr>
 <tr><td>davita.de</td><td>Administrative Assistant (pct)</td><td>Houston</td><td>2026-09-24</td></tr>
 <tr><td>Mass. Eye And Ear</td><td>Practice Assistant Ii</td><td>Boston</td><td>2026-09-24</td></tr>
+<tr><td>Sanford Health</td><td>Patient Care Tech - Dickinson Family Medicine Clinic</td><td>Houston</td><td>2026-09-24</td></tr>
+<tr><td>Sanford Health</td><td>Rn - Robbinsdale - Pt - Evenings</td><td>Bloomington</td><td>2026-09-24</td></tr>
+<tr><td>Saint Francis Healthcare</td><td>Registered Nurse I Geriatric Psych</td><td>Tulsa</td><td>2026-09-24</td></tr>
 </table>

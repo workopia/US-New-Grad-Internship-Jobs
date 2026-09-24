@@ -3986,12 +3986,6 @@
    "role": "Resident Assistant, Medication Aide - Part Time - Days",
    "location": "Pipestone Ridge View"
   },
-  "6954a274ecfec8fcb3c6ef688f1883b5": {
-   "id": "6954a274ecfec8fcb3c6ef688f1883b5",
-   "company": "Sanford Health",
-   "role": "Patient Care Tech - Dickinson Family Medicine Clinic",
-   "location": "Houston"
-  },
   "bd734db2e7dd40adb2e9b4e877f1b82a": {
    "id": "bd734db2e7dd40adb2e9b4e877f1b82a",
    "company": "Sanford Health",
@@ -4009,12 +4003,6 @@
    "company": "Sanfordcareers",
    "role": "Nursing Assistant Trainee - Part Time Days - Luverne Ltc",
    "location": "Luverne"
-  },
-  "2ab673a5328f3ba8d86a76d0ccd38718": {
-   "id": "2ab673a5328f3ba8d86a76d0ccd38718",
-   "company": "Sanford Health",
-   "role": "Rn - Robbinsdale - Pt - Evenings",
-   "location": "Bloomington"
   },
   "ca9263643939d87f1bdc241690509d74": {
    "id": "ca9263643939d87f1bdc241690509d74",
@@ -4124,12 +4112,6 @@
    "role": "Registered Nurse I - Surgery",
    "location": "Tulsa"
   },
-  "7965e6dc33283abf4d69b276c980d87c": {
-   "id": "7965e6dc33283abf4d69b276c980d87c",
-   "company": "Saint Francis Healthcare",
-   "role": "Registered Nurse I Geriatric Psych",
-   "location": "Tulsa"
-  },
   "7bea48914e2b3bb5667534cbc4b59a88": {
    "id": "7bea48914e2b3bb5667534cbc4b59a88",
    "company": "Saint Francis Healthcare",
@@ -4147,6 +4129,24 @@
    "company": "Saint Francis Healthcare",
    "role": "Medical Assistant - Urgent Care - Broken Arrow Kenosha",
    "location": "Tulsa"
+  },
+  "0e20eeecad26e64fd2cd8a227026142e": {
+   "id": "0e20eeecad26e64fd2cd8a227026142e",
+   "company": "Saint Francis Healthcare",
+   "role": "Medical Assistant - Family Medicine - Sand Springs",
+   "location": "Tulsa"
+  },
+  "574f20aecde773b26144b84a982b0cd0": {
+   "id": "574f20aecde773b26144b84a982b0cd0",
+   "company": "Saint Francis Healthcare",
+   "role": "Phlebotomist I",
+   "location": "Tulsa"
+  },
+  "ded06a41416bf7866418c61094bf6e56": {
+   "id": "ded06a41416bf7866418c61094bf6e56",
+   "company": "Sturdy Health",
+   "role": "Maternity Services Rn 36hrs Days (7a-7p)",
+   "location": "Providence"
   },
   "b44db3d04bdbbe729fbe40ff36b37062": {
    "id": "b44db3d04bdbbe729fbe40ff36b37062",
