@@ -1,6 +1,6 @@
 {
  "asOf": "2026-09-24",
- "count": 1070,
+ "count": 931,
  "jobs": {
   "941fe18253fdb70b4c14e102575a3d62": {
    "id": "941fe18253fdb70b4c14e102575a3d62",
@@ -266,12 +266,6 @@
    "role": "Food & Events Intern",
    "location": "Dallas"
   },
-  "4940f310c38a4921b7cf6848b42c0235": {
-   "id": "4940f310c38a4921b7cf6848b42c0235",
-   "company": "Guidehouse Inc",
-   "role": "Intern - Life Sciences Advisory, Health Segment - Campus 2027",
-   "location": "New York"
-  },
   "af631c416c2f83802dca307cd7b168be": {
    "id": "af631c416c2f83802dca307cd7b168be",
    "company": "HITT Contracting Inc.",
@@ -482,6 +476,12 @@
    "role": "Financial Analysis Co-op Intern",
    "location": "Des Moines"
   },
+  "307e92d5096081176cd0ed9bc7253eb2": {
+   "id": "307e92d5096081176cd0ed9bc7253eb2",
+   "company": "PCL Constructors Inc",
+   "role": "Virtual Construction Intern",
+   "location": "Denver"
+  },
   "aae6f9a23fe5f957828ad0610cc85ae5": {
    "id": "aae6f9a23fe5f957828ad0610cc85ae5",
    "company": "Encore Global",
@@ -547,6 +547,12 @@
    "company": "Schaeffler",
    "role": "Industrial Maintenance Tech Apprentice",
    "location": "Armada"
+  },
+  "4b46faeaa9bc1d22a60bda489ddc2e2e": {
+   "id": "4b46faeaa9bc1d22a60bda489ddc2e2e",
+   "company": "CMC",
+   "role": "Core Rotation Development Program - Management Trainee",
+   "location": "Durant"
   },
   "26ab8dc4cffe1de0a93de83ccd207082": {
    "id": "26ab8dc4cffe1de0a93de83ccd207082",
@@ -619,6 +625,12 @@
    "company": "Lennar",
    "role": "Hb - Construction Manager Trainee",
    "location": "Atlanta"
+  },
+  "1d988606efca03dcc314c418b3b03951": {
+   "id": "1d988606efca03dcc314c418b3b03951",
+   "company": "Studs",
+   "role": "Apprentice Piercer",
+   "location": "TX"
   },
   "abc50289aab28fa514c3d1deb00ae27c": {
    "id": "abc50289aab28fa514c3d1deb00ae27c",
@@ -950,59 +962,11 @@
    "role": "Automation Engineer Apprentice",
    "location": "Client Site"
   },
-  "dd5ade64a5ceec11f1caa909a1014a0c": {
-   "id": "dd5ade64a5ceec11f1caa909a1014a0c",
-   "company": "Glass America",
-   "role": "Auto Glass Technician Trainee (charlotte)",
-   "location": "Charlotte"
-  },
-  "c5a65e4c38beb06ae1ffde61cf35e359": {
-   "id": "c5a65e4c38beb06ae1ffde61cf35e359",
-   "company": "Advocate Aurora Health",
-   "role": "Pharmacy Tech Youth Apprentice",
-   "location": "United States"
-  },
   "5ec9471c1f3d23b67ef368739c7d5a3c": {
    "id": "5ec9471c1f3d23b67ef368739c7d5a3c",
    "company": "CenterWell",
    "role": "Pharmacy Technician Extern – Unpaid",
    "location": "Miami"
-  },
-  "0de857e5aa39acb0e9f21839ce376d8b": {
-   "id": "0de857e5aa39acb0e9f21839ce376d8b",
-   "company": "Chipotle",
-   "role": "Apoprentice",
-   "location": "United States"
-  },
-  "a3d7fdb98086bf4893e7f35766f75504": {
-   "id": "a3d7fdb98086bf4893e7f35766f75504",
-   "company": "Maryland Environmental Service",
-   "role": "Operator-in-training - Operator",
-   "location": "Upper Marlboro"
-  },
-  "bdb69174a27ac45f11bc0fa3277213df": {
-   "id": "bdb69174a27ac45f11bc0fa3277213df",
-   "company": "Archer Daniels Midland Company",
-   "role": "Sweeper In Training - Chattanooga, Tn",
-   "location": "Chattanooga"
-  },
-  "02bf9891ee0eded21e2b5f6fc9710f03": {
-   "id": "02bf9891ee0eded21e2b5f6fc9710f03",
-   "company": "Chipotle Mexican Grill",
-   "role": "Apoprentice",
-   "location": "United States"
-  },
-  "6dd64e516f58c4cf7a3babff5f95983e": {
-   "id": "6dd64e516f58c4cf7a3babff5f95983e",
-   "company": "Schindler Elevator Ltd",
-   "role": "Apprentissage D'employé-e De Commerce Cfc Pour 2027",
-   "location": "Le Mont"
-  },
-  "ed199dd45077b68ec9c5d725b27cb185": {
-   "id": "ed199dd45077b68ec9c5d725b27cb185",
-   "company": "Schindler Elevator Ltd",
-   "role": "Apprentissage De Polymécanicien-ne Cfc / Monteur-euse D'ascenseurs Pour 2027",
-   "location": "Le Mont"
   },
   "5054cd6fa0cf77b1512a874c22090347": {
    "id": "5054cd6fa0cf77b1512a874c22090347",
@@ -1130,33 +1094,9 @@
    "role": "Summer 2027 Intern:: Software Engineer Ii",
    "location": "Rogers"
   },
-  "d55b41f23b3bf2dd3e189e0395492a39": {
-   "id": "d55b41f23b3bf2dd3e189e0395492a39",
-   "company": "pr.careers",
-   "role": "Software Engineering Co-op (summer/ Fall 2027)",
-   "location": "Cedar Rapids"
-  },
-  "14e7bf33d8219865255386b1e1ded731": {
-   "id": "14e7bf33d8219865255386b1e1ded731",
-   "company": "Real Time Executives Inc",
-   "role": "Software Engineering Co-op (summer/ Fall 2027)",
-   "location": "Cedar Rapids"
-  },
   "06234415d40c497cb6a502f6b3860c04": {
    "id": "06234415d40c497cb6a502f6b3860c04",
    "company": "Kensho Technologies",
-   "role": "Software Engineer - Summer Intern 2027",
-   "location": "Boston"
-  },
-  "cb280803b5d2c5f954d46b44b7b9325d": {
-   "id": "cb280803b5d2c5f954d46b44b7b9325d",
-   "company": "Raytheon Australia",
-   "role": "Software Engineering Co-op (summer/fall 2027)",
-   "location": "Cedar Rapids"
-  },
-  "02b8d32b81ceef28c2f96f50e69318b1": {
-   "id": "02b8d32b81ceef28c2f96f50e69318b1",
-   "company": "Kensho",
    "role": "Software Engineer - Summer Intern 2027",
    "location": "Boston"
   },
@@ -1171,36 +1111,6 @@
    "company": "Dimensional Fund Advisors LP",
    "role": "Internship In Technology - Software Engineer",
    "location": "Austin"
-  },
-  "6a7a1bf06446e5d0bf801dbb783bb352": {
-   "id": "6a7a1bf06446e5d0bf801dbb783bb352",
-   "company": "W. W. Grainger",
-   "role": "Gtg Intern - Software Engineer",
-   "location": "Chicago"
-  },
-  "c15203c55232763a90745165d1beda94": {
-   "id": "c15203c55232763a90745165d1beda94",
-   "company": "Adobe Media and Data Science Research (MDSR) Laboratory",
-   "role": "2027 Intern - Software Engineer",
-   "location": "San Jose"
-  },
-  "a76d8f2021cf16fa90649084bd14b3c0": {
-   "id": "a76d8f2021cf16fa90649084bd14b3c0",
-   "company": "Koninklijke Philips",
-   "role": "Co-op - Software Development Engineer - Cambridge, Ma - Jan-aug 2027",
-   "location": "Boston"
-  },
-  "2cf99a0641f6973f8b18eff7c7f1315f": {
-   "id": "2cf99a0641f6973f8b18eff7c7f1315f",
-   "company": "AMETEK Inc",
-   "role": "Stagiaire, Soutien Ti",
-   "location": "Levis"
-  },
-  "fed8a0047b55adf7a8162a79889f3826": {
-   "id": "fed8a0047b55adf7a8162a79889f3826",
-   "company": "NiSource Inc",
-   "role": "Intern It - Software Engineer",
-   "location": "Chicago"
   },
   "d383509b09bf5b12b8c634d06bfbe016": {
    "id": "d383509b09bf5b12b8c634d06bfbe016",
@@ -1226,120 +1136,6 @@
    "role": "Software Engineer - Qa Analyst Intern",
    "location": "Birmingham"
   },
-  "60cf9197e31925c985c9bd526228ac56": {
-   "id": "60cf9197e31925c985c9bd526228ac56",
-   "company": "C3iot",
-   "role": "Software Engineer - Intern (summer 2027)",
-   "location": "San Jose"
-  },
-  "830b98ece8104171420d19fdd873ca9b": {
-   "id": "830b98ece8104171420d19fdd873ca9b",
-   "company": "C3 AI",
-   "role": "Software Engineer - Intern (summer 2027)",
-   "location": "San Jose"
-  },
-  "cbfb84b3e00f11e5250814479e366bfb": {
-   "id": "cbfb84b3e00f11e5250814479e366bfb",
-   "company": "MOTOROLA SOLUTIONS",
-   "role": "Mission Critical Networks Software Engineer - 2027 Co-op",
-   "location": "Chicago"
-  },
-  "7cf533fbe5d5bd949113d340e4461d77": {
-   "id": "7cf533fbe5d5bd949113d340e4461d77",
-   "company": "Salesforce Service Cloud",
-   "role": "Summer 2027 Intern - Software Engineer",
-   "location": "Pittsburgh"
-  },
-  "f970dbcd097c16806d12c8eee0292f21": {
-   "id": "f970dbcd097c16806d12c8eee0292f21",
-   "company": "Salesforce",
-   "role": "Summer 2027 Intern - Software Engineer",
-   "location": "Pittsburgh"
-  },
-  "900fceb09092a1dc5437e7dbb125aab4": {
-   "id": "900fceb09092a1dc5437e7dbb125aab4",
-   "company": "Virtu Financial",
-   "role": "2027 Internship - Software Engineer",
-   "location": "Austin"
-  },
-  "64335f8f7ef678bf829dfa9960b9f9d6": {
-   "id": "64335f8f7ef678bf829dfa9960b9f9d6",
-   "company": "Leidos UK",
-   "role": "Software Developer Co-op",
-   "location": "Washington D C"
-  },
-  "95408b3a27b12d4d9bb4ebf15b67da03": {
-   "id": "95408b3a27b12d4d9bb4ebf15b67da03",
-   "company": "1&1 AG",
-   "role": "Werkstudent (w/m/d) It-support",
-   "location": "Montabaur"
-  },
-  "dd4b403dd7019038f4f10889d39bbab9": {
-   "id": "dd4b403dd7019038f4f10889d39bbab9",
-   "company": "DMA Inc",
-   "role": "It Support Intern - Spring 2027",
-   "location": "Indianapolis"
-  },
-  "3c9987ecf57d013fa94837adb1e89318": {
-   "id": "3c9987ecf57d013fa94837adb1e89318",
-   "company": "DMA Inc",
-   "role": "It Support Intern - Summer 2027",
-   "location": "Indianapolis"
-  },
-  "f6c135018bf04ed0e3633dbb5443bf33": {
-   "id": "f6c135018bf04ed0e3633dbb5443bf33",
-   "company": "Infinera Corporation",
-   "role": "Deepfield Software Engineer Co-op",
-   "location": "Ann Arbor"
-  },
-  "a988b60fe93378133ff00bd0f4abd765": {
-   "id": "a988b60fe93378133ff00bd0f4abd765",
-   "company": "talentpluto",
-   "role": "Full Stack Engineering Intern",
-   "location": "New York"
-  },
-  "d5451d90c60dd10f3d0610d517edf93a": {
-   "id": "d5451d90c60dd10f3d0610d517edf93a",
-   "company": "Honeywell Aerospace Technologies",
-   "role": "Information Security Intern [2027 Intern Program]",
-   "location": "New York"
-  },
-  "faff04bfebf44871f383d00fbb3d77b0": {
-   "id": "faff04bfebf44871f383d00fbb3d77b0",
-   "company": "1&1 Internet Inc",
-   "role": "Werkstudent (w/m/d) - It-support",
-   "location": "Montabaur"
-  },
-  "bd6f3380b8824b5a9dfea46bfe313d36": {
-   "id": "bd6f3380b8824b5a9dfea46bfe313d36",
-   "company": "Virtu Financial",
-   "role": "2027 Internship - Frontend Engineer (ui)",
-   "location": "New York"
-  },
-  "4c1cf15b76cc9a59bef1c8bff837907a": {
-   "id": "4c1cf15b76cc9a59bef1c8bff837907a",
-   "company": "SAP Concur",
-   "role": "Sap Ixp Intern - Full-stack Software Engineer",
-   "location": "San Jose"
-  },
-  "2e1c5780ae4073584d38d650dd07d0ff": {
-   "id": "2e1c5780ae4073584d38d650dd07d0ff",
-   "company": "Kimley-Horn",
-   "role": "Software Developer Intern",
-   "location": "Raleigh"
-  },
-  "02bdd64fc4edf87bac41bebf6a8c3ca1": {
-   "id": "02bdd64fc4edf87bac41bebf6a8c3ca1",
-   "company": "Lippincott",
-   "role": "Lippincott - Design Intern",
-   "location": "New York"
-  },
-  "3a3d99d1782f6db9ee1ad1e832d7d076": {
-   "id": "3a3d99d1782f6db9ee1ad1e832d7d076",
-   "company": "Marsh & McLennan Companies Inc",
-   "role": "Lippincott - Design Intern",
-   "location": "New York"
-  },
   "073701ee6d9dfa36c3c28674e4f6417d": {
    "id": "073701ee6d9dfa36c3c28674e4f6417d",
    "company": "Johnson & Johnson MedTech",
@@ -1351,18 +1147,6 @@
    "company": "Johnson & Johnson",
    "role": "Software Engineer Coop",
    "location": "Cincinnati"
-  },
-  "acf33be90491ad46f0e4b2d0bdf2e0db": {
-   "id": "acf33be90491ad46f0e4b2d0bdf2e0db",
-   "company": "Trillium",
-   "role": "It Support Intern - Summer 2027",
-   "location": "New York"
-  },
-  "41d1e4fe3c0f4496dd043cd402c19f84": {
-   "id": "41d1e4fe3c0f4496dd043cd402c19f84",
-   "company": "AlixPartners",
-   "role": "It Help Desk Intern",
-   "location": "Chicago"
   },
   "a4c929854c16cbe470500b56212638e5": {
    "id": "a4c929854c16cbe470500b56212638e5",
@@ -1436,30 +1220,6 @@
    "role": "Platform Full-stack Engineer, New Grad 2027",
    "location": "San Jose"
   },
-  "b9f97c0e818c0b58139970e29c2e290e": {
-   "id": "b9f97c0e818c0b58139970e29c2e290e",
-   "company": "Roblox",
-   "role": "[2027] Software Engineer, Early Career",
-   "location": "San Jose"
-  },
-  "ae726169e7080a527d471abab858dee6": {
-   "id": "ae726169e7080a527d471abab858dee6",
-   "company": "gmstcatharines.ca",
-   "role": "Ml Systems Engineer, Data Labeling Engineering - Early Career",
-   "location": "San Jose"
-  },
-  "31a3e1c9c892539fdd4dfb39383eccc7": {
-   "id": "31a3e1c9c892539fdd4dfb39383eccc7",
-   "company": "gmscatharines.ca",
-   "role": "Oftware Engineer, Av Launch – Early Career",
-   "location": "San Jose"
-  },
-  "a12133d332671c3ff8a540bf57569f52": {
-   "id": "a12133d332671c3ff8a540bf57569f52",
-   "company": "General Motors",
-   "role": "Software Engineer, Av Frameworks – Early Career",
-   "location": "San Jose"
-  },
   "60d45df94783c72f36e7578fa116b8ab": {
    "id": "60d45df94783c72f36e7578fa116b8ab",
    "company": "Hewlett Packard Enterprise",
@@ -1490,179 +1250,11 @@
    "role": "Software Engineer, 2027 Graduate U.S.",
    "location": "Seattle"
   },
-  "73fa5d51ac0f078302f9f257161f162f": {
-   "id": "73fa5d51ac0f078302f9f257161f162f",
-   "company": "Dominodatalab",
-   "role": "Software Engineer - New Grad, 2027",
-   "location": "New York"
-  },
-  "7b24268ffdb13be9a2c19f2d80f1ef65": {
-   "id": "7b24268ffdb13be9a2c19f2d80f1ef65",
-   "company": "Instabase",
-   "role": "Software Engineer - Early Careers",
-   "location": "Concord"
-  },
-  "dccdadfb81b45a3c69db33e2501209df": {
-   "id": "dccdadfb81b45a3c69db33e2501209df",
-   "company": "Blue Origin",
-   "role": "Software Development Engineer I - Early Career (2026 Starts)",
-   "location": "Seattle"
-  },
-  "d325b829c03efa89c681d22a09771856": {
-   "id": "d325b829c03efa89c681d22a09771856",
-   "company": "Blue Origin",
-   "role": "Avionics / Embedded Software Engineer I - Early Career (2026 Starts)",
-   "location": "Seattle"
-  },
-  "8decb9338d10e2535495ffcd3f5ad0a1": {
-   "id": "8decb9338d10e2535495ffcd3f5ad0a1",
-   "company": "Fireworks AI",
-   "role": "Member Of Technical Staff, New Grad (bs/ms)",
-   "location": "San Jose"
-  },
-  "f8f52787bf656ae59a1cca21b1b83c0e": {
-   "id": "f8f52787bf656ae59a1cca21b1b83c0e",
-   "company": "gmoshawa.ca",
-   "role": "Software Engineer, Autonomous Vehicles Software Systems - Early Career",
-   "location": "San Jose"
-  },
-  "d9d4df474d7c1f3129cc5f4c5ad3d451": {
-   "id": "d9d4df474d7c1f3129cc5f4c5ad3d451",
-   "company": "SpaceX",
-   "role": "New Graduate Engineer, Software (starship)",
-   "location": "Los Angeles"
-  },
-  "782a88e43e1b9ffaa542f486d8e37d58": {
-   "id": "782a88e43e1b9ffaa542f486d8e37d58",
-   "company": "Trueanomalyinc",
-   "role": "Software Engineer I, Elixir (new Grad)",
-   "location": "Denver"
-  },
-  "c4618a43d75e4ba7cc7b4a281dbe0350": {
-   "id": "c4618a43d75e4ba7cc7b4a281dbe0350",
-   "company": "Kustomer",
-   "role": "Software Engineer, Full Stack (early Career)",
-   "location": "United States"
-  },
-  "cdf9518cd62ebf85b1b93aed03068069": {
-   "id": "cdf9518cd62ebf85b1b93aed03068069",
-   "company": "Cacijobapplication",
-   "role": "Software Engineer - Early Career - Cloud",
-   "location": "Baltimore"
-  },
   "315e655d28bb38f4551ef97559f3d5fc": {
    "id": "315e655d28bb38f4551ef97559f3d5fc",
    "company": "CACI",
    "role": "Early Career Nasa Space Reactor – 1 Freedom Flight Software Development Engineer",
    "location": "Houston"
-  },
-  "2cbfb6a3598c8a69d65e1ebf4a0e05f2": {
-   "id": "2cbfb6a3598c8a69d65e1ebf4a0e05f2",
-   "company": "Varsity Brands",
-   "role": "Software Engineer - Early Career",
-   "location": "Dallas"
-  },
-  "fa20e8353c08d02ef9d57bc74c9db746": {
-   "id": "fa20e8353c08d02ef9d57bc74c9db746",
-   "company": "PayPal",
-   "role": "Software Engineer - Recent Graduate",
-   "location": "San Jose"
-  },
-  "fa42893c06cd38e3135fd76f1033e606": {
-   "id": "fa42893c06cd38e3135fd76f1033e606",
-   "company": "Scale AI",
-   "role": "Software Engineer - New Grad",
-   "location": "Concord"
-  },
-  "5b791786007ccda59449c4fb6aa408b7": {
-   "id": "5b791786007ccda59449c4fb6aa408b7",
-   "company": "ANDURIL INDUSTRIES",
-   "role": "2027 Early Career Flight Software Engineer",
-   "location": "Los Angeles"
-  },
-  "a2924bedb2d7d651de5c7047875f8b6a": {
-   "id": "a2924bedb2d7d651de5c7047875f8b6a",
-   "company": "AMETEK Inc",
-   "role": "Trainee, It Support",
-   "location": "Levis"
-  },
-  "293553dc0b455dc21806fb2a9f9ff586": {
-   "id": "293553dc0b455dc21806fb2a9f9ff586",
-   "company": "Stripe",
-   "role": "Software Engineer, New Grad",
-   "location": "Concord"
-  },
-  "abae969d80dc83f9fe570108dd029cfa": {
-   "id": "abae969d80dc83f9fe570108dd029cfa",
-   "company": "Katalyst Space Technologies LLC",
-   "role": "Recent Graduate - Software Engineer I",
-   "location": "Denver"
-  },
-  "c2930210573237096fb14f380210ace5": {
-   "id": "c2930210573237096fb14f380210ace5",
-   "company": "Generalmatter",
-   "role": "Software Engineer, New Grad",
-   "location": "Los Angeles"
-  },
-  "d4e2ba1914984b759019537093e59428": {
-   "id": "d4e2ba1914984b759019537093e59428",
-   "company": "HPE",
-   "role": "Software Engineer Graduate",
-   "location": "Houston"
-  },
-  "4e52beca2a3756e4cdf3bc8053b31375": {
-   "id": "4e52beca2a3756e4cdf3bc8053b31375",
-   "company": "Logistics Specialist Jobs In Norfolk",
-   "role": "Early Career Nasa Space Reactor – 1 Freedom Flight Software Development Engineer",
-   "location": "Houston"
-  },
-  "3dff2deff2e674050852420fb4a5f6aa": {
-   "id": "3dff2deff2e674050852420fb4a5f6aa",
-   "company": "Abridge",
-   "role": "Software Engineer, Early Career",
-   "location": "Concord"
-  },
-  "123a635759aca3ac773632d31e5d06c5": {
-   "id": "123a635759aca3ac773632d31e5d06c5",
-   "company": "Eve",
-   "role": "Software Engineer (new Grad), Data Products",
-   "location": "Concord"
-  },
-  "f4139219936e67e2a494ff1b214aa2bd": {
-   "id": "f4139219936e67e2a494ff1b214aa2bd",
-   "company": "Trueanomalyinc",
-   "role": "Software Engineer I, Spacecraft Simulation (new Grad)",
-   "location": "Denver"
-  },
-  "1ab6438569f577ec2bbab3a837770278": {
-   "id": "1ab6438569f577ec2bbab3a837770278",
-   "company": "ANDURIL INDUSTRIES",
-   "role": "2027 Early Career Software Engineer",
-   "location": "Atlanta"
-  },
-  "f3021e2c7cf58af02fb9878ce8be0ce0": {
-   "id": "f3021e2c7cf58af02fb9878ce8be0ce0",
-   "company": "National University",
-   "role": "Campus Support Specialist",
-   "location": "Fresno Center"
-  },
-  "153327dec469f2b68b0fd05c7089902f": {
-   "id": "153327dec469f2b68b0fd05c7089902f",
-   "company": "Logistics Specialist Jobs In Norfolk",
-   "role": "Software Engineer - Early Career - Cloud",
-   "location": "Baltimore"
-  },
-  "72f738773c452005491a98d0fac02b6a": {
-   "id": "72f738773c452005491a98d0fac02b6a",
-   "company": "Notion",
-   "role": "Software Engineer, New Grad (dec 2026)",
-   "location": "Concord"
-  },
-  "0a67753908d9f854b3a5f2461b254d61": {
-   "id": "0a67753908d9f854b3a5f2461b254d61",
-   "company": "SpaceX",
-   "role": "New Graduate Engineer, Software - '26/'27 (starlink)",
-   "location": "Austin"
   },
   "56ab44d3e29d7700e120e80a017b79d0": {
    "id": "56ab44d3e29d7700e120e80a017b79d0",
@@ -1670,41 +1262,11 @@
    "role": "On-call Graduate Business Application Support Administrator",
    "location": "San Jose"
   },
-  "4d890d0ad1ded85f0d4b08b42241f1f4": {
-   "id": "4d890d0ad1ded85f0d4b08b42241f1f4",
-   "company": "Ciena Corporation",
-   "role": "Software Engineer (security) - New Grad",
-   "location": "Atlanta"
-  },
-  "0cf1c225600124c1b0eecaca4f0c007a": {
-   "id": "0cf1c225600124c1b0eecaca4f0c007a",
-   "company": "Halliburton",
-   "role": "Software Engineer - Early Career - Landmark",
-   "location": "Houston"
-  },
   "a9fe2eed3fc6ce2d94555280ae994423": {
    "id": "a9fe2eed3fc6ce2d94555280ae994423",
    "company": "Txie",
    "role": "Desktop Support Trainee",
    "location": "Ut Main Campus"
-  },
-  "7eb58eb85ecce96323e314e7b4ca518d": {
-   "id": "7eb58eb85ecce96323e314e7b4ca518d",
-   "company": "Florida Department of Corrections",
-   "role": "Engineer Trainee - 55005566",
-   "location": "Tampa"
-  },
-  "4b2739719da83a8f1b4535e27ef8fa85": {
-   "id": "4b2739719da83a8f1b4535e27ef8fa85",
-   "company": "Logistics Specialist Jobs In Norfolk",
-   "role": "Cloud Software And Support Engineer - Early Career",
-   "location": "Baltimore"
-  },
-  "57a5621fb97be30e3b84dd525a97639e": {
-   "id": "57a5621fb97be30e3b84dd525a97639e",
-   "company": "Cacijobapplication",
-   "role": "Cloud Software And Support Engineer - Early Career",
-   "location": "Baltimore"
   },
   "94a6482e5dae718a112c506a89c4de7d": {
    "id": "94a6482e5dae718a112c506a89c4de7d",
@@ -1820,12 +1382,6 @@
    "role": "Full Stack Software Engineer I",
    "location": "Los Angeles"
   },
-  "fd37a85ad9f280d1bc877c60c978b6ea": {
-   "id": "fd37a85ad9f280d1bc877c60c978b6ea",
-   "company": "U.S. Bank",
-   "role": "Software Engineer 1 - Java Spring Boot Developer",
-   "location": "Bloomington"
-  },
   "ab48dc5707f7ce60aad339ee55524525": {
    "id": "ab48dc5707f7ce60aad339ee55524525",
    "company": "U.S. Bank",
@@ -1886,11 +1442,35 @@
    "role": "Associate Software Engineer",
    "location": "San Jose"
   },
+  "fb71212ff342fbab86858a801466563e": {
+   "id": "fb71212ff342fbab86858a801466563e",
+   "company": "RTX",
+   "role": "Software Engineer Ii – Onsite (el Segundo)",
+   "location": "Los Angeles"
+  },
   "25fab6ed07e5d989f77e329e8d82c6b3": {
    "id": "25fab6ed07e5d989f77e329e8d82c6b3",
    "company": "Careportalinc",
    "role": "Software Engineer 3",
    "location": "Charlotte"
+  },
+  "6d690b7ff31f8227e8cc93323e0b78cb": {
+   "id": "6d690b7ff31f8227e8cc93323e0b78cb",
+   "company": "Mercer Belong Inc",
+   "role": "Software Engineer Ii - Academy",
+   "location": "Salt Lake City"
+  },
+  "4216090d423ad5f7c56ceea531ae332e": {
+   "id": "4216090d423ad5f7c56ceea531ae332e",
+   "company": "CACI",
+   "role": "Software Engineer - Windows Integration",
+   "location": "Baltimore"
+  },
+  "a919fc49c7117ede15d3dd9417bcb706": {
+   "id": "a919fc49c7117ede15d3dd9417bcb706",
+   "company": "CACI",
+   "role": "Nasa Moon Base Flight Software Development Engineer",
+   "location": "Houston"
   },
   "1f86ac3ece1d0ecb7609cf1d0ac1f164": {
    "id": "1f86ac3ece1d0ecb7609cf1d0ac1f164",
@@ -1903,6 +1483,72 @@
    "company": "VXI Global Solutions",
    "role": "Remote - Technical Support Advisor",
    "location": "Dallas"
+  },
+  "0eb3a8fb63ee7edc630fc90da69ec159": {
+   "id": "0eb3a8fb63ee7edc630fc90da69ec159",
+   "company": "Capital One",
+   "role": "Associate, Support Operations",
+   "location": "New York"
+  },
+  "7c5043c9a1ab9cf045295c0116dd387c": {
+   "id": "7c5043c9a1ab9cf045295c0116dd387c",
+   "company": "Capital One",
+   "role": "Full-stack Engineer 4",
+   "location": "Boston"
+  },
+  "1cfa93fbcbb17c13d45dee8a18c5eb76": {
+   "id": "1cfa93fbcbb17c13d45dee8a18c5eb76",
+   "company": "Capital One",
+   "role": "Full Stack Engineer 5",
+   "location": "Chicago"
+  },
+  "a57078d51b26ffa1c9fbfbc4d920bea3": {
+   "id": "a57078d51b26ffa1c9fbfbc4d920bea3",
+   "company": "Capital One",
+   "role": "Full-stack Engineer 4 (java, Scala, Aws)",
+   "location": "New York"
+  },
+  "ab0429cfa5e6d37a25781275dd05b65f": {
+   "id": "ab0429cfa5e6d37a25781275dd05b65f",
+   "company": "Capital One",
+   "role": "Full Stack Engineer 5 (atm)",
+   "location": "Washington D C"
+  },
+  "f5a66022e04bf27207ecfe56e5374b3b": {
+   "id": "f5a66022e04bf27207ecfe56e5374b3b",
+   "company": "Capital One",
+   "role": "Front-end Engineer 4",
+   "location": "New York"
+  },
+  "e148fdc0f27c3b938d983b2bb0f514ce": {
+   "id": "e148fdc0f27c3b938d983b2bb0f514ce",
+   "company": "Capital One",
+   "role": "Full-stack Engineer 4 (java, Python, Aws)",
+   "location": "Dallas"
+  },
+  "3485b966fe733ddfb0aab104ecafd450": {
+   "id": "3485b966fe733ddfb0aab104ecafd450",
+   "company": "Capital One",
+   "role": "Full-stack Engineer 2",
+   "location": "Dallas"
+  },
+  "9ce00390e1de87e62bad1910eeaae540": {
+   "id": "9ce00390e1de87e62bad1910eeaae540",
+   "company": "Capital One",
+   "role": "Full Stack Engineer 4, Enterprise Ci/cd (aws, Python, Groovy",
+   "location": "Dallas"
+  },
+  "81b8729951f35ff83ecbafc185a58ad5": {
+   "id": "81b8729951f35ff83ecbafc185a58ad5",
+   "company": "Capital One",
+   "role": "Full Stack Engineer 4- People Tech- Genai & Agentic Systems (langchain, Langgraph)",
+   "location": "Washington D C"
+  },
+  "745a4b4aaeba4c8f80bc3f3b328160f0": {
+   "id": "745a4b4aaeba4c8f80bc3f3b328160f0",
+   "company": "TSMC Arizona",
+   "role": "Fab Automation And Software Engineer",
+   "location": "Phoenix"
   },
   "5bc09140074e0d98bdc9fd81ad5733e4": {
    "id": "5bc09140074e0d98bdc9fd81ad5733e4",
@@ -1975,6 +1621,18 @@
    "company": "Jobgether",
    "role": "It Support Specialist",
    "location": "United States"
+  },
+  "56438c9cdba079541314ac9b4121c709": {
+   "id": "56438c9cdba079541314ac9b4121c709",
+   "company": "Real Time Executives Inc",
+   "role": "Software Engineer I - Test",
+   "location": "Tucson"
+  },
+  "d2d3dda7f8ef98a8c89ae4fe505af19e": {
+   "id": "d2d3dda7f8ef98a8c89ae4fe505af19e",
+   "company": "Real Time Executives Inc",
+   "role": "Software Engineer Ii - Test",
+   "location": "Tucson"
   },
   "2ccc7cf78f74eab0e1bd2bc04dde9978": {
    "id": "2ccc7cf78f74eab0e1bd2bc04dde9978",
@@ -2090,101 +1748,11 @@
    "role": "2026 Raytheon Full Time- Software Engineer I -(onsite)",
    "location": "Los Angeles"
   },
-  "298169d815645488a7a980c45e11b805": {
-   "id": "298169d815645488a7a980c45e11b805",
-   "company": "Glanbia PLC",
-   "role": "Jr. It System Admin",
-   "location": "Gooding"
-  },
-  "04f8b221b1842b107f73cbcf3cd6f4a2": {
-   "id": "04f8b221b1842b107f73cbcf3cd6f4a2",
-   "company": "Saildroneinc",
-   "role": "Software Engineer, Simulation & Evaluation",
-   "location": "Concord"
-  },
-  "a5c3ff55f67b53e1fab8bb1b5f1721b2": {
-   "id": "a5c3ff55f67b53e1fab8bb1b5f1721b2",
-   "company": "Anduril",
-   "role": "Software Engineer - Surface Dominance",
+  "25082a39b5304ca68c26a28f8902b736": {
+   "id": "25082a39b5304ca68c26a28f8902b736",
+   "company": "Procter & Gamble",
+   "role": "R&d Phd Summer Intern - Ai Research Engineer",
    "location": "Los Angeles"
-  },
-  "941a1ef1206d3ae1498374395203e0ba": {
-   "id": "941a1ef1206d3ae1498374395203e0ba",
-   "company": "Saildroneinc",
-   "role": "Software Engineer, Autonomous Systems",
-   "location": "Concord"
-  },
-  "05b0cb5e13b40de222358e2b8cc94724": {
-   "id": "05b0cb5e13b40de222358e2b8cc94724",
-   "company": "Saildroneinc",
-   "role": "Vehicle Software Engineer",
-   "location": "Concord"
-  },
-  "23cc57b3af83a8bc9c7cd7650d67a5ac": {
-   "id": "23cc57b3af83a8bc9c7cd7650d67a5ac",
-   "company": "Applied Intuition",
-   "role": "Full-stack Software Engineer - Command & Control",
-   "location": "San Jose"
-  },
-  "7b53154cfef7f6928ba1bd5ab9e6af3c": {
-   "id": "7b53154cfef7f6928ba1bd5ab9e6af3c",
-   "company": "Applied Intuition",
-   "role": "Software Engineer - Real-time Vehicle Telemetry & Visualization",
-   "location": "San Jose"
-  },
-  "37fb6e93c0680397da20359f609ac391": {
-   "id": "37fb6e93c0680397da20359f609ac391",
-   "company": "Hermeus",
-   "role": "Software Engineer - Internal Applications",
-   "location": "Los Angeles"
-  },
-  "51b9823b1429a074e8d77fd247397b1d": {
-   "id": "51b9823b1429a074e8d77fd247397b1d",
-   "company": "OpenAI",
-   "role": "Software Engineer, Plugin Ecosystem",
-   "location": "Concord"
-  },
-  "301e60c91d82bf4448dae8ff1eea8de4": {
-   "id": "301e60c91d82bf4448dae8ff1eea8de4",
-   "company": "Eos Defense Systems Usa Inc",
-   "role": "Software Engineer",
-   "location": "Huntsville"
-  },
-  "5605abbd3843fd0756cea35351e16ca2": {
-   "id": "5605abbd3843fd0756cea35351e16ca2",
-   "company": "Harvard Business School",
-   "role": "Software Engineer, Computational Policy Lab",
-   "location": "Boston"
-  },
-  "0cf561f2b1f1c59c96fca649f91b6fee": {
-   "id": "0cf561f2b1f1c59c96fca649f91b6fee",
-   "company": "Zurich Insurance Company Ltd",
-   "role": "Travel Services Specialist",
-   "location": "Not Specified"
-  },
-  "873e867311e046262c18fa6975518b88": {
-   "id": "873e867311e046262c18fa6975518b88",
-   "company": "Dnsdblookup",
-   "role": "Software Engineer – Client Onboarding Transformation - Assistant Vice President",
-   "location": "New York"
-  },
-  "8643db2c9643044257f0a2620de1017d": {
-   "id": "8643db2c9643044257f0a2620de1017d",
-   "company": "Capital One",
-   "role": "Full Stack Engineer 4",
-   "location": "Washington D C"
-  },
-  "494f003224cd112db9b9545929614462": {
-   "id": "494f003224cd112db9b9545929614462",
-   "company": "Capital One",
-   "role": "Full-stack Engineer 4 (golang, Aws)",
-   "location": "Washington D C"
-  },
-  "b35d1b1fa32871fb76b7d40e54bbd68a": {
-   "id": "b35d1b1fa32871fb76b7d40e54bbd68a",
-   "company": "Jobgether",
-   "role": "Workday Financials Analyst",
-   "location": "United States"
   },
   "139751e0ba853486a8bf759ee2cc9548": {
    "id": "139751e0ba853486a8bf759ee2cc9548",
@@ -2354,24 +1922,6 @@
    "role": "Data Analyst Internship (2028 Graduates)",
    "location": "Dallas"
   },
-  "f85f6033e5d4b94f724ab77a67b56cfd": {
-   "id": "f85f6033e5d4b94f724ab77a67b56cfd",
-   "company": "SAP SE",
-   "role": "Sap Ixp Intern - Full-stack Ai Developer",
-   "location": "San Jose"
-  },
-  "a3a233cc9534ef2e89d6be1a7b573732": {
-   "id": "a3a233cc9534ef2e89d6be1a7b573732",
-   "company": "Navy Federal Credit Union",
-   "role": "Summer Associate Intern (data Scientist)",
-   "location": "Washington D C"
-  },
-  "ad713732e97f79509e4358a0617b26ab": {
-   "id": "ad713732e97f79509e4358a0617b26ab",
-   "company": "Johnson & Johnson",
-   "role": "Data Operations & Analytics Fall Co-op",
-   "location": "Los Angeles"
-  },
   "96ec21f8edcc40e198fe4fd4d36cce49": {
    "id": "96ec21f8edcc40e198fe4fd4d36cce49",
    "company": "Campbell Soup",
@@ -2390,84 +1940,6 @@
    "role": "Ai Engineer Intern (summer 2027)",
    "location": "Atlanta"
   },
-  "6f356b4bb6ad345aeea743891a90ed10": {
-   "id": "6f356b4bb6ad345aeea743891a90ed10",
-   "company": "The Mosaic Company",
-   "role": "Artificial Intelligence Co-op/intern - Spring 2027",
-   "location": "Lithia"
-  },
-  "63bb58c10d57f5a3ab434d2a11d7561f": {
-   "id": "63bb58c10d57f5a3ab434d2a11d7561f",
-   "company": "Sanofi UK",
-   "role": "2027 Spring Co-op Scientific Data Support Analyst - Mrna Center Of Excellence - Vaccines, Waltham, Ma",
-   "location": "Boston"
-  },
-  "84f98cde1d5f4922360c1da780195ef8": {
-   "id": "84f98cde1d5f4922360c1da780195ef8",
-   "company": "Sanofi",
-   "role": "2027 Spring Co-op Scientific Data Support Analyst - Mrna Center Of Excellence - Vaccines, Waltham, Ma",
-   "location": "Boston"
-  },
-  "ded59b650fd161dd2a0d7b0b931bbf2f": {
-   "id": "ded59b650fd161dd2a0d7b0b931bbf2f",
-   "company": "Sanofi Genzyme",
-   "role": "2027 Spring Co-op Scientific Data Support Analyst - Mrna Center Of Excellence - Vaccines, Waltham, Ma",
-   "location": "Boston"
-  },
-  "4d231b2285d84b72f77f5f32e36649ea": {
-   "id": "4d231b2285d84b72f77f5f32e36649ea",
-   "company": "Concur",
-   "role": "Sap Ixp Intern - Ai Engineer",
-   "location": "Chicago"
-  },
-  "8a4f5b7a40b495a812c8b8d675c091b7": {
-   "id": "8a4f5b7a40b495a812c8b8d675c091b7",
-   "company": "Inter-American Development Bank",
-   "role": "Idb Invest. Data Analyst - Portfolio Management Intern",
-   "location": "Washington D C"
-  },
-  "38503e3504ca92f6532ecc8f150528a5": {
-   "id": "38503e3504ca92f6532ecc8f150528a5",
-   "company": "Inter-American Development Bank",
-   "role": "Idb. Intern In Data Analytics To Support Idb Disaster Risk Due Diligence",
-   "location": "Washington D C"
-  },
-  "cf42bb7bb2d1c94ce2a1a6087180c214": {
-   "id": "cf42bb7bb2d1c94ce2a1a6087180c214",
-   "company": "SAP SE",
-   "role": "Sap Ixp Intern - Ai Engineer",
-   "location": "Chicago"
-  },
-  "dcc2f2707ae75e8a3ad18d0c6232903a": {
-   "id": "dcc2f2707ae75e8a3ad18d0c6232903a",
-   "company": "Johnson & Johnson UK",
-   "role": "Strategic Insights & Analytics Co-op",
-   "location": "Philadelphia"
-  },
-  "3a42a14538a8701c462717f34bd52ab1": {
-   "id": "3a42a14538a8701c462717f34bd52ab1",
-   "company": "Infinera Corporation",
-   "role": "Data Analytics & Ai Co-op",
-   "location": "Dallas"
-  },
-  "2bc0e8339663d1a0b3f8d131a67f26c3": {
-   "id": "2bc0e8339663d1a0b3f8d131a67f26c3",
-   "company": "Audax Management Company LLC",
-   "role": "Data Analytics Co-op",
-   "location": "Boston"
-  },
-  "6114974b2181913b3f09d47a38b5ffa3": {
-   "id": "6114974b2181913b3f09d47a38b5ffa3",
-   "company": "SAP Concur",
-   "role": "Sap Ixp Intern - Full-stack Ai Developer",
-   "location": "San Jose"
-  },
-  "02bfa49d6aabfc9b7021cfeeed3c6962": {
-   "id": "02bfa49d6aabfc9b7021cfeeed3c6962",
-   "company": "Phosphateflorida",
-   "role": "Artificial Intelligence Co-op/intern - Spring 2027",
-   "location": "Lithia"
-  },
   "26c806b7c88c27cc87bf24792c1b0af2": {
    "id": "26c806b7c88c27cc87bf24792c1b0af2",
    "company": "Advanced Micro Devices",
@@ -2480,77 +1952,11 @@
    "role": "2027 Masters Data Analyst Intern/co-op",
    "location": "San Jose"
   },
-  "162f5fdab7d59e8d787aeb6fe62b0124": {
-   "id": "162f5fdab7d59e8d787aeb6fe62b0124",
-   "company": "SAP Ariba",
-   "role": "Sap Ixp Intern - Ai Engineer",
-   "location": "Chicago"
-  },
-  "cccd57ef2ba835db5ab90276c42c8e95": {
-   "id": "cccd57ef2ba835db5ab90276c42c8e95",
-   "company": "New York Life Insurance Company",
-   "role": "2027 Technology, Data, Ai & Ventures Summer Internship Program - Ai Engineer (mlops) Intern",
-   "location": "New York"
-  },
-  "333fe465f5243bb05c3a9ef3bdfaa27e": {
-   "id": "333fe465f5243bb05c3a9ef3bdfaa27e",
-   "company": "Schweitzer Engineering Laboratories",
-   "role": "Data Analyst Intern",
-   "location": "Pullman"
-  },
-  "ad41c8c3e3197467ddfe2b89ec73759e": {
-   "id": "ad41c8c3e3197467ddfe2b89ec73759e",
-   "company": "Amtrak",
-   "role": "Fall 2026/spring 2027 - Data Analytics Intern - 90413629 - Philadelphia",
-   "location": "Philadelphia"
-  },
-  "2b9a85c3b63ae6ba1985aec8d4c35e3e": {
-   "id": "2b9a85c3b63ae6ba1985aec8d4c35e3e",
-   "company": "Motorola",
-   "role": "Supply Chain Data Analyst Internship 2027",
-   "location": "Chicago"
-  },
-  "5d2fa6b7b717552649663a1e9cfd251d": {
-   "id": "5d2fa6b7b717552649663a1e9cfd251d",
-   "company": "MOTOROLA SOLUTIONS",
-   "role": "Supply Chain Data Analyst Internship 2027",
-   "location": "Chicago"
-  },
-  "02051f1a2c8ca5653f9516370aecb861": {
-   "id": "02051f1a2c8ca5653f9516370aecb861",
-   "company": "The Church of Jesus Christ of Latter-day Saints",
-   "role": "Purchasing Data Analytics Intern",
-   "location": "Salt Lake City"
-  },
-  "e9338604bafacf5a05fbc4dfc14e2a48": {
-   "id": "e9338604bafacf5a05fbc4dfc14e2a48",
-   "company": "Postman",
-   "role": "Ai Engineer, Internship - Summer 2026 - Applications Open Now",
-   "location": "Concord"
-  },
-  "0130db79eda7d32b9af4fc7d7c5a7f3e": {
-   "id": "0130db79eda7d32b9af4fc7d7c5a7f3e",
-   "company": "Pncwa",
-   "role": "Data, Modeling, And Analytics Undergraduate Intern",
-   "location": "Pittsburgh"
-  },
   "e6cc79a6201b8f56edb019f549b42e86": {
    "id": "e6cc79a6201b8f56edb019f549b42e86",
    "company": "PNC Bank",
    "role": "Data, Modeling, And Analytics Undergraduate Intern",
    "location": "Pittsburgh"
-  },
-  "a5674b0feda90219ca145280a63bb5ca": {
-   "id": "a5674b0feda90219ca145280a63bb5ca",
-   "company": "SAP Concur",
-   "role": "Sap Ixp Intern - Ai Engineer",
-   "location": "Chicago"
-  },
-  "542db3f8e592cbba93c89f72091b1c1c": {
-   "id": "542db3f8e592cbba93c89f72091b1c1c",
-   "company": "Ormat Systems Ltd",
-   "role": "Intern - Data Intelligence",
-   "location": "Philadelphia"
   },
   "e3bf5dec248b7c193ffde809a389f0ed": {
    "id": "e3bf5dec248b7c193ffde809a389f0ed",
@@ -2570,101 +1976,17 @@
    "role": "Associate Data Analyst, Graduate Student Affairs, Wharton School (hybrid Eligible)",
    "location": "Philadelphia"
   },
-  "95eac5ce80a3de1185490b7f96adc064": {
-   "id": "95eac5ce80a3de1185490b7f96adc064",
-   "company": "Schweitzer Engineering Laboratories",
-   "role": "Associate Engineer - Engineering Rotation Program",
-   "location": "Washington D C"
-  },
-  "6d3828cf783cbb76274767a9553fc87a": {
-   "id": "6d3828cf783cbb76274767a9553fc87a",
-   "company": "CrowdStrike",
-   "role": "Engineer I, Data Scientist - New Grad (hybrid)",
-   "location": "San Jose"
-  },
   "6d56f69cd4c6a10cabcfca69ee169970": {
    "id": "6d56f69cd4c6a10cabcfca69ee169970",
    "company": "Roche",
    "role": "Rotational Program - Finance Insights & Data Analyst",
    "location": "San Jose"
   },
-  "2ab868bce05853e8942f31eff9e79f64": {
-   "id": "2ab868bce05853e8942f31eff9e79f64",
-   "company": "Kyndryl",
-   "role": "Early Career Consult Program - Associate Ai Engineer",
-   "location": "Usdalfri"
-  },
-  "bfd5ffc3a3ed64f37e72577322105b5f": {
-   "id": "bfd5ffc3a3ed64f37e72577322105b5f",
-   "company": "Aig Com Mo",
-   "role": "2027 Early Careers: Analyst, Gen Ai - Data Science – United States, Atlanta, Ga",
-   "location": "Atlanta"
-  },
-  "c228b3170d41adadf0db5e4ce28f7460": {
-   "id": "c228b3170d41adadf0db5e4ce28f7460",
-   "company": "Boston Consulting Group",
-   "role": "Forward Deployed Ai Scientist, Campus, United States - Bcg X",
-   "location": "Boston"
-  },
-  "4062a29abd0f6b8147d0a6e71935c19d": {
-   "id": "4062a29abd0f6b8147d0a6e71935c19d",
-   "company": "Boston Consulting Group",
-   "role": "Forward Deployed Ai Engineer, Campus, United States - Bcg X",
-   "location": "Boston"
-  },
-  "6599af1067ece9c0e48820d2b863ed50": {
-   "id": "6599af1067ece9c0e48820d2b863ed50",
-   "company": "Nuance Labs",
-   "role": "Member Of Technical Staff — Model Optimization And Inference (new Grad)",
-   "location": "Seattle"
-  },
-  "e3e83d776b2efd1a406ded6c0af86f4b": {
-   "id": "e3e83d776b2efd1a406ded6c0af86f4b",
-   "company": "AIG",
-   "role": "2027 Early Careers: Analyst, Gen Ai - Data Science – United States, Atlanta, Ga",
-   "location": "Atlanta"
-  },
-  "89de8050101002bbaf2de7537baf8ebb": {
-   "id": "89de8050101002bbaf2de7537baf8ebb",
-   "company": "Highmetric",
-   "role": "Ai Engineer/anthropic-campus Hire - Us West",
-   "location": "West"
-  },
-  "707564342309874081acd45dfa81715d": {
-   "id": "707564342309874081acd45dfa81715d",
-   "company": "NVIDIA",
-   "role": "Developer Technology Engineer, Ai - New College Graduate 2026",
-   "location": "United States"
-  },
   "30043c08e8b476aebe9b24ebc97188b3": {
    "id": "30043c08e8b476aebe9b24ebc97188b3",
    "company": "Roche Holding AG",
    "role": "Rotational Program - Finance Insights & Data Analyst",
    "location": "San Jose"
-  },
-  "f4141b0f1c6390e17e5428389a268d6f": {
-   "id": "f4141b0f1c6390e17e5428389a268d6f",
-   "company": "Kyndryl Holdings",
-   "role": "Early Career Consult Program - Associate Ai Engineer",
-   "location": "Usdalfri"
-  },
-  "85df7fb1073719353387bd655a8680ec": {
-   "id": "85df7fb1073719353387bd655a8680ec",
-   "company": "Constellium",
-   "role": "Duales Studium (b. Sc.) M/w/d Data Science Und Ki - Digital Production",
-   "location": "Singen"
-  },
-  "c61522d6bd0a64b1e601c24638a75fe8": {
-   "id": "c61522d6bd0a64b1e601c24638a75fe8",
-   "company": "Texas Instruments",
-   "role": "Early Career - Ai For Analog Design Engineer",
-   "location": "Dallas"
-  },
-  "4b2a79e49fb327a8873117262cfec2e4": {
-   "id": "4b2a79e49fb327a8873117262cfec2e4",
-   "company": "Conagra Brands",
-   "role": "Demand Science Rotational Analyst - Summer 2027",
-   "location": "Chicago"
   },
   "a66d509817dd2ec193add5ce0726951c": {
    "id": "a66d509817dd2ec193add5ce0726951c",
@@ -2744,11 +2066,41 @@
    "role": "Data Scientist",
    "location": "Atlanta"
   },
+  "dd76a1d76784a03fefe93d3d6e5663e1": {
+   "id": "dd76a1d76784a03fefe93d3d6e5663e1",
+   "company": "Peraton",
+   "role": "Artificial Intelligence/machine Learning (ai/ml) Engineer 1",
+   "location": "Washington D C"
+  },
   "6f3b65b9a8c50dfc9506ce4bc8e4f813": {
    "id": "6f3b65b9a8c50dfc9506ce4bc8e4f813",
    "company": "Avathon",
    "role": "Associate Ai Engineer, Physical Ai",
    "location": "San Jose"
+  },
+  "d735efb78b8358d31d2ef78017b67dc0": {
+   "id": "d735efb78b8358d31d2ef78017b67dc0",
+   "company": "Capital One",
+   "role": "Ai Engineer 4 (ai Foundations)",
+   "location": "Boston"
+  },
+  "cd7c8837c85e22633b314eb1ab380cc6": {
+   "id": "cd7c8837c85e22633b314eb1ab380cc6",
+   "company": "Capital One",
+   "role": "Ai Engineer 5 (ai Foundations, Llm Core And Agentic Ai)",
+   "location": "Washington D C"
+  },
+  "e3210a5de7de8f99e028dbc7bb1d9691": {
+   "id": "e3210a5de7de8f99e028dbc7bb1d9691",
+   "company": "Exelon",
+   "role": "Assoc Data Scientist",
+   "location": "Chicago"
+  },
+  "7695ab4d85b691825ee566b600c11d25": {
+   "id": "7695ab4d85b691825ee566b600c11d25",
+   "company": "Johnson & Johnson UK",
+   "role": "Commercial Data Science & Ai Co-op",
+   "location": "New York"
   },
   "fedb3d82978a6d48eacee36df0d403ae": {
    "id": "fedb3d82978a6d48eacee36df0d403ae",
@@ -2834,6 +2186,18 @@
    "role": "Commercial Data Science & Ai Co-op",
    "location": "New York"
   },
+  "2183baddbb087bf63a2c0fd96d838c0f": {
+   "id": "2183baddbb087bf63a2c0fd96d838c0f",
+   "company": "Brunswick Group",
+   "role": "Ai Engineer",
+   "location": "Dallas"
+  },
+  "b7ede3b381dbc42e2b14375829029725": {
+   "id": "b7ede3b381dbc42e2b14375829029725",
+   "company": "Datarails",
+   "role": "Forward Deployed Financial Engineer - Applied Ai",
+   "location": "United States"
+  },
   "ed36f30469962d8063a29475a034c9a4": {
    "id": "ed36f30469962d8063a29475a034c9a4",
    "company": "Mass. Eye And Ear",
@@ -2881,12 +2245,6 @@
    "company": "HAVI",
    "role": "Associate Data Scientist",
    "location": "Chicago"
-  },
-  "01e2e9195f421f972aa103096c66ca85": {
-   "id": "01e2e9195f421f972aa103096c66ca85",
-   "company": "Capital One",
-   "role": "Ai Engineer 5 (ai Foundations, Llm Core And Agentic Ai)",
-   "location": "Boston"
   },
   "14a0079f8f80af2d29cabe7454f483bc": {
    "id": "14a0079f8f80af2d29cabe7454f483bc",
@@ -3110,42 +2468,6 @@
    "role": "Data Scientist, Financial Services Consulting",
    "location": "Chicago"
   },
-  "33e370733e33406097dba9183eb485d1": {
-   "id": "33e370733e33406097dba9183eb485d1",
-   "company": "United Contractor Services LLC",
-   "role": "On-site Agentic Ai Engineer - Kennesaw, Ga",
-   "location": "Atlanta"
-  },
-  "30bd4f675a3bd5d10d275976b2c24546": {
-   "id": "30bd4f675a3bd5d10d275976b2c24546",
-   "company": "Meta",
-   "role": "Ai Research Scientist - Meta Superintelligence Labs (technical Leadership)",
-   "location": "New York"
-  },
-  "1e9b4816eb3d18b8553ef3bb9aea15a2": {
-   "id": "1e9b4816eb3d18b8553ef3bb9aea15a2",
-   "company": "Meta",
-   "role": "Software Engineer, Systems Ml",
-   "location": "San Jose"
-  },
-  "cb2a1a1c90520ec2fa5efbd1cfdd83ba": {
-   "id": "cb2a1a1c90520ec2fa5efbd1cfdd83ba",
-   "company": "Meta",
-   "role": "Ai Research Scientist, Robotics - Meta Superintelligence Labs",
-   "location": "New York"
-  },
-  "c8cc2921606d8b11c360677ad7284397": {
-   "id": "c8cc2921606d8b11c360677ad7284397",
-   "company": "Meta",
-   "role": "Ai Research Scientist, Robotics",
-   "location": "Seattle"
-  },
-  "f723fece6b581928c4212e54081d0d37": {
-   "id": "f723fece6b581928c4212e54081d0d37",
-   "company": "Wellington Management",
-   "role": "Business Intelligence Co Op",
-   "location": "Boston"
-  },
   "84a5ed471ccc7e3912e6596a95151c3a": {
    "id": "84a5ed471ccc7e3912e6596a95151c3a",
    "company": "TEP",
@@ -3157,6 +2479,12 @@
    "company": "Blue Origin",
    "role": "Financial Analyst Ii - Intern Conversion 2026",
    "location": "Greater Seattle Area"
+  },
+  "edff10b0f61e142ae95cae36223a1029": {
+   "id": "edff10b0f61e142ae95cae36223a1029",
+   "company": "EMI Services",
+   "role": "Business Analyst Intern",
+   "location": "Dallas"
   },
   "30244ed66adc7b937fc62568e5f195d4": {
    "id": "30244ed66adc7b937fc62568e5f195d4",
@@ -3488,12 +2816,6 @@
    "role": "Energy Audit Intern",
    "location": "Chicago"
   },
-  "fd4b8ebc58cf007196700149f1bccb88": {
-   "id": "fd4b8ebc58cf007196700149f1bccb88",
-   "company": "Duke Energy Corporation",
-   "role": "Project Management & Construction (pmc) – Business Analyst Intern - Summer 2027",
-   "location": "Charlotte"
-  },
   "ed7ace8ff5ec0f664e302d20756d4336": {
    "id": "ed7ace8ff5ec0f664e302d20756d4336",
    "company": "Nationallifeinsurancecompany",
@@ -3541,12 +2863,6 @@
    "company": "Oliver Wyman",
    "role": "Oliver Wyman Actuarial - Life Internship - Summer 2027",
    "location": "Chicago"
-  },
-  "39fc7001c5be4b7532bd619e0dfd23bc": {
-   "id": "39fc7001c5be4b7532bd619e0dfd23bc",
-   "company": "CliftonLarsonAllen",
-   "role": "Tax And Audit Intern - Winter 2027 - Livingston, Nj",
-   "location": "New York"
   },
   "0baddaa4181ca840562fef70e2fa1bee": {
    "id": "0baddaa4181ca840562fef70e2fa1bee",
@@ -3626,11 +2942,11 @@
    "role": "Strategy & Management Consulting Intern - Summer 2027",
    "location": "Boston"
   },
-  "b80c5c65048d470d63d1053f9beaef0b": {
-   "id": "b80c5c65048d470d63d1053f9beaef0b",
-   "company": "Guidehouse Inc",
-   "role": "Senior Consultant - Life Sciences Advisory, Health Segment - Campus 2027",
-   "location": "New York"
+  "7f2b8c710ac9912236bf157c49e9e9c6": {
+   "id": "7f2b8c710ac9912236bf157c49e9e9c6",
+   "company": "CORTEVA AGRISCIENCE",
+   "role": "Business Analyst Intern",
+   "location": "Indianapolis"
   },
   "169aa592f030c0d781a0acdac7a0ebe4": {
    "id": "169aa592f030c0d781a0acdac7a0ebe4",
@@ -3758,12 +3074,6 @@
    "role": "2027 Quantitative Trader Graduate (dv Equities)",
    "location": "New York"
   },
-  "30453c06aa6f67d1d0ab4e10efee8a14": {
-   "id": "30453c06aa6f67d1d0ab4e10efee8a14",
-   "company": "Wells Fargo & Company",
-   "role": "2027 Investment Banking Associate Program - Early Careers",
-   "location": "New York"
-  },
   "416a80064f51549b489ecc7763bc562b": {
    "id": "416a80064f51549b489ecc7763bc562b",
    "company": "Marken, UPS Healthcare Precision Logistics",
@@ -3782,77 +3092,17 @@
    "role": "Internal Audit Manager (rotational)",
    "location": "United States"
   },
-  "5e5780e108e5cca067da87c93ab12d7d": {
-   "id": "5e5780e108e5cca067da87c93ab12d7d",
-   "company": "Barclays",
-   "role": "2027 Quantitative Analytics Analyst Graduate Program New York",
-   "location": "New York"
-  },
-  "0b45f2f69743217fedb1477992009228": {
-   "id": "0b45f2f69743217fedb1477992009228",
-   "company": "The Home Depot",
-   "role": "Sr. Analyst, Amp (rotational Leadership Program)",
-   "location": "United States"
-  },
-  "86b16d04fa7bf581fd9be17c08a11604": {
-   "id": "86b16d04fa7bf581fd9be17c08a11604",
-   "company": "Boston Consulting Group",
-   "role": "Inverto / Senior Consultant, Procurement (campus)",
-   "location": "Atlanta"
-  },
-  "2e37ab7a7c5fe6e9a1ea9030e3aeb4f4": {
-   "id": "2e37ab7a7c5fe6e9a1ea9030e3aeb4f4",
-   "company": "Inverto / Boston Consulting Group",
-   "role": "Inverto / Associate Consultant, Procurement (campus)",
-   "location": "Chicago"
-  },
   "967a055a9b3b7abe62b5f988c7b8a219": {
    "id": "967a055a9b3b7abe62b5f988c7b8a219",
    "company": "Meijer Inc",
    "role": "Merchandise Replenishment Analyst Trainee- 2027",
    "location": "Grand Rapids"
   },
-  "6b56b6f5212cc42cf99a0687e581fadc": {
-   "id": "6b56b6f5212cc42cf99a0687e581fadc",
-   "company": "Robinhood Markets Inc",
-   "role": "Business Analyst (new Grad)",
-   "location": "Washington D C"
-  },
   "93067eef0ae124a1772c9bff1659331f": {
    "id": "93067eef0ae124a1772c9bff1659331f",
    "company": "BMO",
    "role": "Commercial Analyst Development Program - Seattle, Wa (new Grad 2027)",
    "location": "Seattle"
-  },
-  "b5b82b531aad48973b048aeaebb8aca9": {
-   "id": "b5b82b531aad48973b048aeaebb8aca9",
-   "company": "AIG",
-   "role": "2027 Early Careers: Analyst, Actuarial – United States, New York City",
-   "location": "New York"
-  },
-  "f758e2440f13747ad1a02696589e4f37": {
-   "id": "f758e2440f13747ad1a02696589e4f37",
-   "company": "AIG",
-   "role": "2027 Early Careers: Analyst, Finance– United States, New York, Ny",
-   "location": "New York"
-  },
-  "aab510c3901d2d5d039befbcfba481b8": {
-   "id": "aab510c3901d2d5d039befbcfba481b8",
-   "company": "Westinghouse Electric Company LLC",
-   "role": "Prevailing Wage And Apprenticeship Compliance Auditor",
-   "location": "Juno Beach"
-  },
-  "ad6e6a79cf03d75092f1ebcc4b239b97": {
-   "id": "ad6e6a79cf03d75092f1ebcc4b239b97",
-   "company": "Bank of Montreal",
-   "role": "Commercial Analyst Development Program - Los Angeles/newport Beach, Ca (new Grad 2027)",
-   "location": "Los Angeles"
-  },
-  "d0c836bf9ab5b6c23404edcd77751d13": {
-   "id": "d0c836bf9ab5b6c23404edcd77751d13",
-   "company": "Bmwofsalem",
-   "role": "Commercial Analyst Development Program - Los Angeles/newport Beach, Ca (new Grad 2027)",
-   "location": "Los Angeles"
   },
   "4cb9df9bf9a41b7c9591f6d265f96996": {
    "id": "4cb9df9bf9a41b7c9591f6d265f96996",
@@ -3890,12 +3140,6 @@
    "role": "Rotational Business Analyst (associate) - January 2027 Start",
    "location": "Phoenix"
   },
-  "26482ec980cac1a03c24acd50a813a1a": {
-   "id": "26482ec980cac1a03c24acd50a813a1a",
-   "company": "Houlihan Lokey",
-   "role": "Investment Banking Financial Analyst / New York, Healthcare (class Of 2027)",
-   "location": "New York"
-  },
   "def821c295f32f16a55c0274bfc5e322": {
    "id": "def821c295f32f16a55c0274bfc5e322",
    "company": "IMC Trading",
@@ -3908,72 +3152,6 @@
    "role": "Graduate Quantitative Researcher (phd)",
    "location": "Chicago"
   },
-  "908877c7b966f01319448da698aa2f10": {
-   "id": "908877c7b966f01319448da698aa2f10",
-   "company": "Houlihan Lokey",
-   "role": "Investment Banking Financial Analyst / New York, Business Services (class Of 2027)",
-   "location": "New York"
-  },
-  "931ce1a4cda9c2e703011159d2114ef8": {
-   "id": "931ce1a4cda9c2e703011159d2114ef8",
-   "company": "Westinghouse Electric Company LLC",
-   "role": "Prevailing Wage And Apprenticeship Compliance Specialist",
-   "location": "OTHER"
-  },
-  "4f93519e0b083f6b2b480f088ddc7028": {
-   "id": "4f93519e0b083f6b2b480f088ddc7028",
-   "company": "Jump Trading",
-   "role": "Campus Quantitative Researcher, Phd (full-time)",
-   "location": "Chicago"
-  },
-  "4c037531ce7a7b022f900d90bf6e320e": {
-   "id": "4c037531ce7a7b022f900d90bf6e320e",
-   "company": "Santander",
-   "role": "Usa Analyst, Finance Rotational Program-2",
-   "location": "Boston"
-  },
-  "19cac07d2a63d54af34471eb456cb455": {
-   "id": "19cac07d2a63d54af34471eb456cb455",
-   "company": "Santander Arena",
-   "role": "Usa Analyst, Finance Rotational Program-2",
-   "location": "Boston"
-  },
-  "d82586cf1b2c68114b8e35401bc2c720": {
-   "id": "d82586cf1b2c68114b8e35401bc2c720",
-   "company": "Santander",
-   "role": "Usa Analyst, Finance Rotational Program",
-   "location": "Dallas"
-  },
-  "34d12983ca8699cc55cb1afb726f6047": {
-   "id": "34d12983ca8699cc55cb1afb726f6047",
-   "company": "Santander Arena",
-   "role": "Usa Analyst, Finance Rotational Program",
-   "location": "Dallas"
-  },
-  "0c447bab953e978ea35f4a64dd41788d": {
-   "id": "0c447bab953e978ea35f4a64dd41788d",
-   "company": "Robinhood",
-   "role": "Business Analyst (new Grad)",
-   "location": "Washington D C"
-  },
-  "2bb76fc68414239b20ac22403c6c17e6": {
-   "id": "2bb76fc68414239b20ac22403c6c17e6",
-   "company": "Veterinaryemergencygroupst",
-   "role": "Rotational Business Analyst",
-   "location": "New York"
-  },
-  "67fe3e1be013f4765891a45eb6154466": {
-   "id": "67fe3e1be013f4765891a45eb6154466",
-   "company": "Wells Fargo",
-   "role": "2027 Investment Banking Associate Program - Early Careers",
-   "location": "New York"
-  },
-  "ccdfb8c0e910622430718163f2e44a30": {
-   "id": "ccdfb8c0e910622430718163f2e44a30",
-   "company": "Guidehouse Inc",
-   "role": "Consultant - Homeland Security & Law Enforcement, Defense & Security - Campus 2027",
-   "location": "VA"
-  },
   "7f2da266dbba74ad8dd4c4091f36f4b7": {
    "id": "7f2da266dbba74ad8dd4c4091f36f4b7",
    "company": "Railserve - On-Site Services",
@@ -3985,18 +3163,6 @@
    "company": "Marmon Technologies India Private Limited",
    "role": "Trainee Accounts",
    "location": "Karnataka"
-  },
-  "fe1180b66fa0cf0e8e259c807288c909": {
-   "id": "fe1180b66fa0cf0e8e259c807288c909",
-   "company": "Milliman",
-   "role": "Actuarial Analyst – New Graduate – 2026 Start Dates – Chicago Life, Frm, Lapa, And Lts Practices",
-   "location": "Chicago"
-  },
-  "179af7084bac238d65e0b94ed982aca5": {
-   "id": "179af7084bac238d65e0b94ed982aca5",
-   "company": "Kaua'i Police Department Inc",
-   "role": "Accountant Trainee",
-   "location": "Various"
   },
   "61470e55b6f88ca5b78b360a56ba0c00": {
    "id": "61470e55b6f88ca5b78b360a56ba0c00",
@@ -4099,12 +3265,6 @@
    "company": "Guidehouse Inc",
    "role": "Process Assessment And Process Mapping Associate",
    "location": "United States"
-  },
-  "8c519a25e975838c2602483196fe7fa9": {
-   "id": "8c519a25e975838c2602483196fe7fa9",
-   "company": "AdventHealth West Florida",
-   "role": "Financial Analyst Exempt",
-   "location": "Dallas"
   },
   "130609d1fcc2461e92de39c53053b02a": {
    "id": "130609d1fcc2461e92de39c53053b02a",
@@ -4214,6 +3374,24 @@
    "role": "Financial Analyst",
    "location": "King George"
   },
+  "e8898b1b602d53ecb9d37de8897592cb": {
+   "id": "e8898b1b602d53ecb9d37de8897592cb",
+   "company": "Oliver Wyman",
+   "role": "Oliver Wyman – Partner",
+   "location": "Chicago"
+  },
+  "601f20f83e90b02f07988c2bf3e23675": {
+   "id": "601f20f83e90b02f07988c2bf3e23675",
+   "company": "Brightonparkbank",
+   "role": "Regulatory Reporting Fr Y-15 & Ccar Avp",
+   "location": "New York"
+  },
+  "0873aae4bfb2a6b0c3b713a5d3501cb2": {
+   "id": "0873aae4bfb2a6b0c3b713a5d3501cb2",
+   "company": "Mccartyequipment",
+   "role": "Corporate Qhse Auditor",
+   "location": "Houston"
+  },
   "9e86a5c0784b6d37563fdc9acdef2612": {
    "id": "9e86a5c0784b6d37563fdc9acdef2612",
    "company": "Applied Research Associates (ARA)",
@@ -4225,6 +3403,18 @@
    "company": "Banner Bank",
    "role": "Payment Operations Analyst",
    "location": "Seattle"
+  },
+  "2b5b15961f27e3a9f6d1dfbce7587199": {
+   "id": "2b5b15961f27e3a9f6d1dfbce7587199",
+   "company": "Caterpillar Inc.",
+   "role": "Trade Compliance Analyst",
+   "location": "Dallas"
+  },
+  "0657e84f4ff9acceee0a8d9271db855c": {
+   "id": "0657e84f4ff9acceee0a8d9271db855c",
+   "company": "James Hardie Building Products Inc",
+   "role": "Business Analyst - Salesforce Chicago, Il",
+   "location": "Chicago"
   },
   "97e0098637a71358d7f215dd0b90a495": {
    "id": "97e0098637a71358d7f215dd0b90a495",
@@ -4243,6 +3433,12 @@
    "company": "RESPEC",
    "role": "Business Analyst – Change & Configuration Management, Intermediate (fed Gov)",
    "location": "Washington D C"
+  },
+  "5e02c02cc3d9320f2b22089b4c590802": {
+   "id": "5e02c02cc3d9320f2b22089b4c590802",
+   "company": "Atlantic Union Bank",
+   "role": "Associate Ii - Fraud Investigations",
+   "location": "Cox Road"
   },
   "71eef80fb66df5e4ea5431ddbc64b608": {
    "id": "71eef80fb66df5e4ea5431ddbc64b608",
@@ -4471,36 +3667,6 @@
    "company": "key-crypto.cloud",
    "role": "Analyst, Icg",
    "location": "Seattle"
-  },
-  "2d5b6aca27ce590170a5a7fd315464cc": {
-   "id": "2d5b6aca27ce590170a5a7fd315464cc",
-   "company": "embecta",
-   "role": "Internal Audit Associate",
-   "location": "New York"
-  },
-  "e4c8a3b00027f5aabb1d8b5f1f7e6eb8": {
-   "id": "e4c8a3b00027f5aabb1d8b5f1f7e6eb8",
-   "company": "IDEMIA",
-   "role": "Cost & Capex Financial Analyst",
-   "location": "Exton"
-  },
-  "ee62745f8bc058e9fe69625c9f072336": {
-   "id": "ee62745f8bc058e9fe69625c9f072336",
-   "company": "Jobgether",
-   "role": "Ai Strategy & Transformation Expert",
-   "location": "United States"
-  },
-  "7b4ce1ef847dc4ffbccdc6aec12ea9e5": {
-   "id": "7b4ce1ef847dc4ffbccdc6aec12ea9e5",
-   "company": "Jobgether",
-   "role": "Financial Analyst - Software",
-   "location": "United States"
-  },
-  "b3caecc22a015b86e1a63c78f96054c2": {
-   "id": "b3caecc22a015b86e1a63c78f96054c2",
-   "company": "adesso Group",
-   "role": "Business Analyst Workflowmanagementsystem (all Genders)",
-   "location": "Akron"
   },
   "c4c0487729dfc20301ce9642bd34683c": {
    "id": "c4c0487729dfc20301ce9642bd34683c",
@@ -5900,12 +5066,6 @@
    "role": "Retail Cashier & Sales Floor Support - Old Orchard Center",
    "location": "Chicago"
   },
-  "bf62ef6be0287ce866b5a917d2fcba49": {
-   "id": "bf62ef6be0287ce866b5a917d2fcba49",
-   "company": "Nordstrom Inc",
-   "role": "Retail Sales - Women's Apparel - South Coast Plaza",
-   "location": "Los Angeles"
-  },
   "8cbfdc4c742cab77e5e513c14bdc51a6": {
    "id": "8cbfdc4c742cab77e5e513c14bdc51a6",
    "company": "Nordstrom",
@@ -5941,6 +5101,12 @@
    "company": "Patterson",
    "role": "Warehouse Associate",
    "location": "Houston"
+  },
+  "c496992a62025cedd988afbf2a8f4130": {
+   "id": "c496992a62025cedd988afbf2a8f4130",
+   "company": "Petco",
+   "role": "Sales Associate",
+   "location": "NC"
   },
   "fe0704c08ed360a5ff6cca0db6e68a1c": {
    "id": "fe0704c08ed360a5ff6cca0db6e68a1c",
@@ -6116,17 +5282,11 @@
    "role": "Data Management Assistant (casual Position)",
    "location": "Buffalo"
   },
-  "85cdc1b5aa6f5cb05ded3d9e88f01cb9": {
-   "id": "85cdc1b5aa6f5cb05ded3d9e88f01cb9",
+  "280069b478eae29a5d534e32f9f36ae6": {
+   "id": "280069b478eae29a5d534e32f9f36ae6",
    "company": "AdventHealth West Florida",
    "role": "Referral Specialist",
-   "location": "Tampa"
-  },
-  "d38aa85b853a72036ad12baccaf30932": {
-   "id": "d38aa85b853a72036ad12baccaf30932",
-   "company": "CHOC Foundation",
-   "role": "Administrative Assistant, Events & Donor Experience (choc Foundation)",
-   "location": "Los Angeles"
+   "location": "Deltona"
   },
   "ca42d2528fe601801a09bae638d5c557": {
    "id": "ca42d2528fe601801a09bae638d5c557",
@@ -6145,12 +5305,6 @@
    "company": "Clemson University",
    "role": "Student Services Program Coordinator Ii",
    "location": "Clemson"
-  },
-  "20271e343cbca08435e5ea628039708f": {
-   "id": "20271e343cbca08435e5ea628039708f",
-   "company": "Wells Fargo & Company",
-   "role": "Branch Operations Coordinator Clairemont Town Center",
-   "location": "San Diego"
   },
   "371f5a02b1674861bd47f360c795cd22": {
    "id": "371f5a02b1674861bd47f360c795cd22",
@@ -6260,12 +5414,6 @@
    "role": "Administrative Assistant - School Of Nursing",
    "location": "Indianapolis"
   },
-  "908803c280ac6b4b28821fed015ee0ee": {
-   "id": "908803c280ac6b4b28821fed015ee0ee",
-   "company": "davita.de",
-   "role": "Administrative Assistant (pct)",
-   "location": "Houston"
-  },
   "89fe3f49d9a8b34754dac5fae009defd": {
    "id": "89fe3f49d9a8b34754dac5fae009defd",
    "company": "DaVita Kidney Care",
@@ -6356,12 +5504,6 @@
    "role": "Administrative Assistant",
    "location": "New York"
   },
-  "dd49e874ffb343b9cb17952736dda9b2": {
-   "id": "dd49e874ffb343b9cb17952736dda9b2",
-   "company": "Mass. Eye And Ear",
-   "role": "Practice Assistant Ii",
-   "location": "Boston"
-  },
   "67ed775b87d04e801f626ed27df503e2": {
    "id": "67ed775b87d04e801f626ed27df503e2",
    "company": "Cleveland Clinic",
@@ -6421,6 +5563,30 @@
    "company": "Transcat",
    "role": "Customer Service Coordinator",
    "location": "Ogden"
+  },
+  "8eb472ceb63d3419df20396ab5f27577": {
+   "id": "8eb472ceb63d3419df20396ab5f27577",
+   "company": "Bisnow",
+   "role": "Marketing Coordinator - Email Marketing",
+   "location": "New York"
+  },
+  "917b1b072181df0f26eabc75666210bb": {
+   "id": "917b1b072181df0f26eabc75666210bb",
+   "company": "The Terraces of Phoenix",
+   "role": "Full-time Administrative Assistant",
+   "location": "Temecula"
+  },
+  "813788f6ccf2155cfcf34491f17da492": {
+   "id": "813788f6ccf2155cfcf34491f17da492",
+   "company": "W Brisbane",
+   "role": "Event Specialist",
+   "location": "Oakbrook Terrace"
+  },
+  "a0bf024cbcf4ec3682d947b3cfe8f8d3": {
+   "id": "a0bf024cbcf4ec3682d947b3cfe8f8d3",
+   "company": "W Brisbane",
+   "role": "Msb Events Specialist",
+   "location": "San Diego"
   }
  }
 }
