@@ -1,6 +1,6 @@
 {
  "asOf": "2026-09-25",
- "count": 941,
+ "count": 946,
  "jobs": {
   "21469": {
    "id": "21469",
@@ -152,11 +152,269 @@
    "role": "Intern - Lab",
    "location": "Concord"
   },
+  "a97a82397ed3661566668d93ee592b61": {
+   "id": "a97a82397ed3661566668d93ee592b61",
+   "company": "Advanced Energy Industries Inc",
+   "role": "Ehs Intern",
+   "location": "San Jose"
+  },
+  "5b87f7246900238476823fc77adbaaae": {
+   "id": "5b87f7246900238476823fc77adbaaae",
+   "company": "Advanced Energy Industries Inc",
+   "role": "Corporate Finance Intern - Graduate Student",
+   "location": "Denver"
+  },
+  "88ec02f53d52d2ba46fe7df453840b7c": {
+   "id": "88ec02f53d52d2ba46fe7df453840b7c",
+   "company": "Advanced Energy Industries Inc",
+   "role": "Corporate Finance Intern - Undergraduate Student",
+   "location": "Denver"
+  },
+  "8a449e4b5122bdde37adce31d7a621d2": {
+   "id": "8a449e4b5122bdde37adce31d7a621d2",
+   "company": "Advanced Energy Industries Inc",
+   "role": "Intern - Firmware Engineer, Undergraduate",
+   "location": "Bloomington"
+  },
+  "b819b4d5d29069f80e9de693f2f1e9f6": {
+   "id": "b819b4d5d29069f80e9de693f2f1e9f6",
+   "company": "Advanced Energy Industries Inc",
+   "role": "Intern - Electrical Engineer, Undergraduate",
+   "location": "Bloomington"
+  },
+  "68c54ec9626e5ad1a1015cbaf1ca2d8d": {
+   "id": "68c54ec9626e5ad1a1015cbaf1ca2d8d",
+   "company": "Georgia-Pacific",
+   "role": "Supply Chain Intern - Green Bay, Wi (summer 2027)",
+   "location": "Green Bay"
+  },
+  "e331e3b41e1818d574588d24b24a7ffa": {
+   "id": "e331e3b41e1818d574588d24b24a7ffa",
+   "company": "URBN",
+   "role": "Urbn Information Security Intern",
+   "location": "Philadelphia"
+  },
+  "d45f75f7e7b3bba8ed470827c3938ccf": {
+   "id": "d45f75f7e7b3bba8ed470827c3938ccf",
+   "company": "Johnson & Johnson UK",
+   "role": "Advance Development Engineering Co-op",
+   "location": "Boston"
+  },
+  "3af466061034113ea704ab27c69cd061": {
+   "id": "3af466061034113ea704ab27c69cd061",
+   "company": "Johnson & Johnson UK",
+   "role": "Collaboration & Meeting Rooms, Intern",
+   "location": "New York"
+  },
+  "9d5076515f555e0b9bc84dda6cff001f": {
+   "id": "9d5076515f555e0b9bc84dda6cff001f",
+   "company": "Newport News Shipbuilding, A Division of HII",
+   "role": "2027 Supply Chain Summer Internship - Supply Chain Mgmt Intern",
+   "location": "Virginia Beach"
+  },
+  "aa89df76ca5cd44d003bbbd528cc830e": {
+   "id": "aa89df76ca5cd44d003bbbd528cc830e",
+   "company": "Newport News Shipbuilding, A Division of HII",
+   "role": "2027 Engineering Summer Internship - Engrg Intern",
+   "location": "Virginia Beach"
+  },
+  "17b286b6cbb3813113fe6504c42fff5f": {
+   "id": "17b286b6cbb3813113fe6504c42fff5f",
+   "company": "Jabil Inc.",
+   "role": "It Scm Intern",
+   "location": "Tampa"
+  },
+  "b2f899b2eae3a59e3d2761938823c51a": {
+   "id": "b2f899b2eae3a59e3d2761938823c51a",
+   "company": "Morstan",
+   "role": "Intern",
+   "location": "Baltimore"
+  },
+  "43477d4f196f094ded84355448f9097f": {
+   "id": "43477d4f196f094ded84355448f9097f",
+   "company": "Denver Health & Hospital Authority",
+   "role": "Intern, Medical Career Collaborative",
+   "location": "Denver"
+  },
+  "0f1f2c6be03c3fbaa0195369659216b7": {
+   "id": "0f1f2c6be03c3fbaa0195369659216b7",
+   "company": "Division of Agriculture of the University of Arkansas",
+   "role": "4-h Intern",
+   "location": "Little Rock"
+  },
+  "212ce5128f9938dd17acd28e1df5c674": {
+   "id": "212ce5128f9938dd17acd28e1df5c674",
+   "company": "Kiewit Corporation",
+   "role": "High School Construction Estimating Internship",
+   "location": "Cleveland"
+  },
+  "f2ac5dc66f01745bbcdef4dcae1904d9": {
+   "id": "f2ac5dc66f01745bbcdef4dcae1904d9",
+   "company": "Kiewit Corporation",
+   "role": "Estimating Intern - Kiewit Infrastructure Engineers (summer 2027)",
+   "location": "Denver"
+  },
+  "82f445cb540e8896c1a684c72028aebc": {
+   "id": "82f445cb540e8896c1a684c72028aebc",
+   "company": "Jones Lang Lasalle Ip Inc",
+   "role": "Capital Markets Summer 2027 Internship - San Francisco, Ca",
+   "location": "Concord"
+  },
+  "6af79530103dd307a152d62e055e5202": {
+   "id": "6af79530103dd307a152d62e055e5202",
+   "company": "BMO",
+   "role": "Wealth Management Internship, Summer 2027- Newport Beach, Ca (10 Weeks)",
+   "location": "Los Angeles"
+  },
+  "34799f0527d3d7ba3229c9e3c4764562": {
+   "id": "34799f0527d3d7ba3229c9e3c4764562",
+   "company": "The Travelers Companies, Inc.",
+   "role": "Claim Professional Development Program Internship (cpdp Intern)",
+   "location": "Orlando"
+  },
+  "dcd714fe5444e4f06f6da281426cc9a4": {
+   "id": "dcd714fe5444e4f06f6da281426cc9a4",
+   "company": "afa'afea",
+   "role": "Intern: Video Editor And Training Content Developer (spring 2027)",
+   "location": "Greensboro"
+  },
+  "e4530d55875510ae703e6811b0e404a5": {
+   "id": "e4530d55875510ae703e6811b0e404a5",
+   "company": "afa'afea",
+   "role": "Intern: Automation Analyst (spring 2027)",
+   "location": "Greensboro"
+  },
+  "77502b15e7dfed63073e1b696c2350d1": {
+   "id": "77502b15e7dfed63073e1b696c2350d1",
+   "company": "afa'afea",
+   "role": "Intern: Ai Engineering (spring 2027)",
+   "location": "Greensboro"
+  },
+  "f8776bc24928d31cf5ba3a4fc5790985": {
+   "id": "f8776bc24928d31cf5ba3a4fc5790985",
+   "company": "afa'afea",
+   "role": "Intern: Microsoft Power Platform (spring 2027)",
+   "location": "New York"
+  },
+  "a9a02477ef228b0a6aa53161df8e2aa3": {
+   "id": "a9a02477ef228b0a6aa53161df8e2aa3",
+   "company": "afa'afea",
+   "role": "Intern: Site Purchasing (spring 2027)",
+   "location": "Hagerstown"
+  },
+  "3c6910a1dddaf27fa810b9cf1f0a80b6": {
+   "id": "3c6910a1dddaf27fa810b9cf1f0a80b6",
+   "company": "afa'afea",
+   "role": "Intern: Technical Support Services (spring 2027)",
+   "location": "Greensboro"
+  },
+  "64335697b3d9e986d200aa2c458a977d": {
+   "id": "64335697b3d9e986d200aa2c458a977d",
+   "company": "afa'afea",
+   "role": "Intern: Communications (spring 2027)",
+   "location": "Greensboro"
+  },
+  "3088360543f8d55ff1e0585b13021865": {
+   "id": "3088360543f8d55ff1e0585b13021865",
+   "company": "afa'afea",
+   "role": "Intern: Remarketing (spring 2027)",
+   "location": "Hagerstown"
+  },
+  "72d3d8076084f3d524f13986d9d133f9": {
+   "id": "72d3d8076084f3d524f13986d9d133f9",
+   "company": "afa'afea",
+   "role": "Intern: Automation & Process Improvement (spring 2027)",
+   "location": "Hagerstown"
+  },
+  "4b90de987ed0288182996bd7a9d3168e": {
+   "id": "4b90de987ed0288182996bd7a9d3168e",
+   "company": "PCL Constructors Inc",
+   "role": "Technical Services Intern",
+   "location": "Houston"
+  },
+  "fd9f73d3b65bb8f1908c18874640d91c": {
+   "id": "fd9f73d3b65bb8f1908c18874640d91c",
+   "company": "PCL Constructors Inc",
+   "role": "Field Engineer Internship 2027",
+   "location": "Denver"
+  },
+  "f3a83af986aa2b55a58bb687c3970a8c": {
+   "id": "f3a83af986aa2b55a58bb687c3970a8c",
+   "company": "PCL Constructors Inc",
+   "role": "Estimating Intern (summer 2027)",
+   "location": "Seattle"
+  },
+  "439a7d55f9f20767273e61ffc0c1368a": {
+   "id": "439a7d55f9f20767273e61ffc0c1368a",
+   "company": "PCL Constructors Inc",
+   "role": "Virtual Construction Intern",
+   "location": "Denver"
+  },
+  "8d6dbf67a546ad045270e66c30fdd4b3": {
+   "id": "8d6dbf67a546ad045270e66c30fdd4b3",
+   "company": "PCL Constructors Inc",
+   "role": "Human Resources Intern",
+   "location": "Bloomington"
+  },
+  "e3e2441cbe4ba5340ba0cd98ff90c4b2": {
+   "id": "e3e2441cbe4ba5340ba0cd98ff90c4b2",
+   "company": "Nutrien Ltd",
+   "role": "Intern - Retail Field, Agronomy - Winchester, Va",
+   "location": "Las Vegas"
+  },
+  "6a8482dc1ed643d66c67a2e7fd3843da": {
+   "id": "6a8482dc1ed643d66c67a2e7fd3843da",
+   "company": "ESI Construction",
+   "role": "General Internship",
+   "location": "Boise"
+  },
+  "3899cd7112826ced24e2e025cd1a5e13": {
+   "id": "3899cd7112826ced24e2e025cd1a5e13",
+   "company": "Norfolk Southern",
+   "role": "2027 Spring Corporate Communications + Community Impact Intern",
+   "location": "Atlanta"
+  },
+  "c98c70c2612f8546d82a4200b54a9c53": {
+   "id": "c98c70c2612f8546d82a4200b54a9c53",
+   "company": "Philips",
+   "role": "Intern - Finance - Plymouth, Mn – Summer 2027",
+   "location": "Bloomington"
+  },
+  "d2e75386a82939ead5267f8fd9a45194": {
+   "id": "d2e75386a82939ead5267f8fd9a45194",
+   "company": "Schaeffler",
+   "role": "Co-op - Business - Spring 2027",
+   "location": "Akron"
+  },
+  "a35382d81d5c6234af73a0e75ef6b511": {
+   "id": "a35382d81d5c6234af73a0e75ef6b511",
+   "company": "Schaeffler",
+   "role": "Co-op - Business - Summer 2027",
+   "location": "Akron"
+  },
+  "8250593335424323d9df078d62c0b04d": {
+   "id": "8250593335424323d9df078d62c0b04d",
+   "company": "SNC Lavalin",
+   "role": "Architecture Intern - Summer 2027",
+   "location": "Washington D C"
+  },
   "a4ae4c930cd11a37f72486a73b15af62": {
    "id": "a4ae4c930cd11a37f72486a73b15af62",
    "company": "Nike Inc",
    "role": "Converse Enterprise Business Planning Graduate Internship",
    "location": "Boston"
+  },
+  "96b560dba85fd8ffc0829d8ef4e50d80": {
+   "id": "96b560dba85fd8ffc0829d8ef4e50d80",
+   "company": "soundhire.me",
+   "role": "Colm 2026 — Intern",
+   "location": "New York"
+  },
+  "27af7cdd5b913ade98d2b14bdd7aed44": {
+   "id": "27af7cdd5b913ade98d2b14bdd7aed44",
+   "company": "soundhire.me",
+   "role": "Recsys 2026 — Intern",
+   "location": "New York"
   },
   "24612365b7fdad12886b22a3b0aab0cb": {
    "id": "24612365b7fdad12886b22a3b0aab0cb",
@@ -212,293 +470,35 @@
    "role": "2027 Summer Internship- Editorial, Kazé (nyc)",
    "location": "New York"
   },
+  "96cb148a5439f966f1d540e55b105e58": {
+   "id": "96cb148a5439f966f1d540e55b105e58",
+   "company": "Heven AeroTech",
+   "role": "Procurement / Contracts Intern",
+   "location": "Washington D C"
+  },
+  "e8d45355eb8a3c0ff5374934b57af0bd": {
+   "id": "e8d45355eb8a3c0ff5374934b57af0bd",
+   "company": "Heven AeroTech",
+   "role": "Manufacturing Intern",
+   "location": "Las Vegas"
+  },
+  "db5962e744b0273030297910d120e0a2": {
+   "id": "db5962e744b0273030297910d120e0a2",
+   "company": "Heven AeroTech",
+   "role": "Hr & Recruiting Intern",
+   "location": "Washington D C"
+  },
   "1200ebb666edb10f4e5f30a323458ef0": {
    "id": "1200ebb666edb10f4e5f30a323458ef0",
    "company": "Council on Foreign Relations",
    "role": "Cfr Blavatnik Internship Program-spring 2027",
    "location": "New York"
   },
-  "94d2f997c734b9d3686c78a6742581d9": {
-   "id": "94d2f997c734b9d3686c78a6742581d9",
-   "company": "CONSOR Engineers",
-   "role": "Transportation Intern",
-   "location": "Sacramento"
-  },
-  "0977acec60d2c8abaf96a58b4d2468fd": {
-   "id": "0977acec60d2c8abaf96a58b4d2468fd",
-   "company": "Micron Technology Inc",
-   "role": "Intern - Category Supplier Management",
-   "location": "Boise"
-  },
-  "cb53ff0cbd35224adbc1375ffdccd6bd": {
-   "id": "cb53ff0cbd35224adbc1375ffdccd6bd",
-   "company": "Penn State University Press",
-   "role": "Systems Administrator Intern",
-   "location": "San Jose"
-  },
-  "7060e14cbbb37a8998f8cc51ae9dc499": {
-   "id": "7060e14cbbb37a8998f8cc51ae9dc499",
-   "company": "America's Future",
-   "role": "Kip Spring 2027 - Programs & Events Intern - America's Future Foundation",
-   "location": "Washington D C"
-  },
-  "f5a3746bd44eed8f8ec18cbf68849977": {
-   "id": "f5a3746bd44eed8f8ec18cbf68849977",
-   "company": "Plante Moran, PLLC",
-   "role": "2027 Marketing Pursuit Strategy & Proposal Team Intern",
-   "location": "Denver"
-  },
-  "e50c28676fdbac999d949a65b7f828e7": {
-   "id": "e50c28676fdbac999d949a65b7f828e7",
-   "company": "Federal Reserve Bank of Atlanta",
-   "role": "Spring 2027 Survey Center Intern",
-   "location": "Atlanta"
-  },
-  "1788a49183ba91ce580fa50d171a98d3": {
-   "id": "1788a49183ba91ce580fa50d171a98d3",
-   "company": "HollyFrontier",
-   "role": "Internal Audit Business Process Intern",
-   "location": "Dallas"
-  },
-  "031092a1334886712e5d201edbd0dabd": {
-   "id": "031092a1334886712e5d201edbd0dabd",
-   "company": "HollyFrontier",
-   "role": "Internal Audit Technology Intern",
-   "location": "Dallas"
-  },
-  "c151fe16c02342be40d325269908a2ce": {
-   "id": "c151fe16c02342be40d325269908a2ce",
-   "company": "Genentech",
-   "role": "2027 Spring Intern - Pharmaceutical Technical Development - Bioassay",
-   "location": "Concord"
-  },
-  "01f8c1f9c7e5c5ecf2a71966a6053f83": {
-   "id": "01f8c1f9c7e5c5ecf2a71966a6053f83",
-   "company": "Google",
-   "role": "Business Undergraduate Intern, Summer 2027",
-   "location": "San Jose"
-  },
-  "d9a0a990ab6960eb7bbbcd9ff5bb5934": {
-   "id": "d9a0a990ab6960eb7bbbcd9ff5bb5934",
-   "company": "ON.energy",
-   "role": "Intern – Laboratory Testing Support",
-   "location": "Houston"
-  },
-  "cfa63c61d3e0ef76779d24e742b109fa": {
-   "id": "cfa63c61d3e0ef76779d24e742b109fa",
-   "company": "Welltower Inc.",
-   "role": "Summer ’27 Intern - Asset Management",
-   "location": "Dallas"
-  },
-  "0e34d4820bee4eda2ae2fdfc40751370": {
-   "id": "0e34d4820bee4eda2ae2fdfc40751370",
-   "company": "JonnyPops",
-   "role": "Finance Intern",
-   "location": "Bloomington"
-  },
-  "304d42509014655ddc7575127ddd5b73": {
-   "id": "304d42509014655ddc7575127ddd5b73",
-   "company": "Bilfinger SE",
-   "role": "Construction Management Intern",
-   "location": "New York"
-  },
-  "65c33e1ebe880d1ed0bf4efd1ad8de16": {
-   "id": "65c33e1ebe880d1ed0bf4efd1ad8de16",
-   "company": "Jabil",
-   "role": "Operations Analytics & Reporting Intern",
-   "location": "Tampa"
-  },
-  "5a0c88d8fd81b9d35e03e68ae33233cd": {
-   "id": "5a0c88d8fd81b9d35e03e68ae33233cd",
-   "company": "Disney Enterprises Inc",
-   "role": "Disney Kids & Family Live Action Original Series Intern, Spring 2027",
-   "location": "Los Angeles"
-  },
-  "58309c67042a01794fc429f200761bc9": {
-   "id": "58309c67042a01794fc429f200761bc9",
-   "company": "Ascend Learning, LLC",
-   "role": "Intern - Software Engineering",
-   "location": "Kansas City"
-  },
-  "58620767321a31e2dea4696d5205b6f3": {
-   "id": "58620767321a31e2dea4696d5205b6f3",
-   "company": "Western Midstream",
-   "role": "Project Management Office- Intern",
-   "location": "Houston"
-  },
-  "b650dbf16c1ce75291c0c5c301d76638": {
-   "id": "b650dbf16c1ce75291c0c5c301d76638",
-   "company": "Travelers Insurance",
-   "role": "Claim Professional Development Program Internship (cpdp Intern)",
-   "location": "Sacramento"
-  },
-  "29c4ede9f75199906b8c71bf4dd59b63": {
-   "id": "29c4ede9f75199906b8c71bf4dd59b63",
-   "company": "jpl.jobs",
-   "role": "Subcontracts Business Operations (academic Part Time Intern)",
-   "location": "Houston"
-  },
-  "df70b2b12438ec94c91f28ee525a07bb": {
-   "id": "df70b2b12438ec94c91f28ee525a07bb",
-   "company": "AeroVironment Inc",
-   "role": "Washington Operations Intern",
-   "location": "Dallas"
-  },
-  "7a4e8a8924d6a7066d89539e0461c93a": {
-   "id": "7a4e8a8924d6a7066d89539e0461c93a",
-   "company": "Coloplast AS",
-   "role": "Intern - R&d Engineer",
-   "location": "Bloomington"
-  },
-  "a0f1fca4f2156da2b48123a59e05e315": {
-   "id": "a0f1fca4f2156da2b48123a59e05e315",
-   "company": "Coloplast AS",
-   "role": "Intern - R&d Electrical Engineer",
-   "location": "Bloomington"
-  },
-  "26a89b75fefee59bc1664f59d3105e55": {
-   "id": "26a89b75fefee59bc1664f59d3105e55",
-   "company": "Coloplast AS",
-   "role": "Intern - R&d Packaging Engineer",
-   "location": "Bloomington"
-  },
-  "73546033d8d80fde4b151c3ea00f42fa": {
-   "id": "73546033d8d80fde4b151c3ea00f42fa",
-   "company": "Parkline Inc",
-   "role": "Environmental, Health, And Safety (ehs) Internship (june - August 2027)",
-   "location": "Bloomington"
-  },
-  "bfd749a362a7a66570b350cc23ff83df": {
-   "id": "bfd749a362a7a66570b350cc23ff83df",
-   "company": "Northrop Grumman",
-   "role": "2027 Finance Intern - Plymouth Mn",
-   "location": "Bloomington"
-  },
-  "fb2888bf84a14f419ffab1c9e2e5b1e2": {
-   "id": "fb2888bf84a14f419ffab1c9e2e5b1e2",
-   "company": "CVS Health",
-   "role": "Pharmacy Intern",
-   "location": "Bloomington"
-  },
-  "02b00ab7f858d01c44ae3510d987f917": {
-   "id": "02b00ab7f858d01c44ae3510d987f917",
-   "company": "CVS Health",
-   "role": "Pharmacy Intern - Grad",
-   "location": "Austin"
-  },
-  "65b9865ebacab2909a35a047ebedf7b9": {
-   "id": "65b9865ebacab2909a35a047ebedf7b9",
-   "company": "Land O'Lakes",
-   "role": "Corporate Strategy Mba Intern, Summer 2027",
-   "location": "Bloomington"
-  },
-  "c8c73b7a5d293237526e1a774bd03971": {
-   "id": "c8c73b7a5d293237526e1a774bd03971",
-   "company": "UMB Bank",
-   "role": "Corporate Legal Intern",
-   "location": "Kansas City"
-  },
-  "51dc85c09bbf0564425d44e6b5e1444c": {
-   "id": "51dc85c09bbf0564425d44e6b5e1444c",
-   "company": "Schweitzer Engineering Laboratories",
-   "role": "Electrical Engineering Specialist Intern",
-   "location": "Houston"
-  },
-  "a50ba5b3a63d2b580e307b4b7d672abe": {
-   "id": "a50ba5b3a63d2b580e307b4b7d672abe",
-   "company": "University of Nevada, Reno",
-   "role": "Coordinator, Internship Programs",
-   "location": "Reno"
-  },
-  "a95e040b6461a2431c3c2ca8ef17be53": {
-   "id": "a95e040b6461a2431c3c2ca8ef17be53",
-   "company": "Clearwater Analytics",
-   "role": "Data Management & Reporting Intern",
-   "location": "New York"
-  },
-  "b5a8efb4ecc43b01d4a274fe6e773845": {
-   "id": "b5a8efb4ecc43b01d4a274fe6e773845",
-   "company": "HNTB Corporation",
-   "role": "Finance Intern - Summer 2027",
-   "location": "Atlanta"
-  },
-  "436bc702bf5ab925ef602f8b2b769c29": {
-   "id": "436bc702bf5ab925ef602f8b2b769c29",
-   "company": "HNTB Corporation",
-   "role": "Project Controls Intern - Summer 2027",
-   "location": "Charlotte"
-  },
-  "e0ca927cc666429d3df4207dc46e3e83": {
-   "id": "e0ca927cc666429d3df4207dc46e3e83",
-   "company": "DMA Inc",
-   "role": "Property Tax Intern - Summer 2027",
-   "location": "Indianapolis"
-  },
-  "2b534cf87943e20a272f5eee712fa496": {
-   "id": "2b534cf87943e20a272f5eee712fa496",
-   "company": "Franciscan Alliance Inc",
-   "role": "Franciscan Nurse Internship Indianapolis Or Mooresville",
-   "location": "Indianapolis"
-  },
-  "3b2dc969b8e185c17fffdaea67555616": {
-   "id": "3b2dc969b8e185c17fffdaea67555616",
-   "company": "Crowe LLP",
-   "role": "Accounting Advisory Intern - Winter 2027",
-   "location": "Chicago"
-  },
-  "0d52547cb3b5ee8489417654f34d98c6": {
-   "id": "0d52547cb3b5ee8489417654f34d98c6",
-   "company": "hntb-veterans.jobs",
-   "role": "Finance Intern - Summer 2027",
-   "location": "Atlanta"
-  },
-  "834d3a966942e80fadd73ef3343aa613": {
-   "id": "834d3a966942e80fadd73ef3343aa613",
-   "company": "hntb-veterans.jobs",
-   "role": "Project Controls Intern - Summer 2027",
-   "location": "Charlotte"
-  },
-  "07e1c19367df6803e57b721830094dac": {
-   "id": "07e1c19367df6803e57b721830094dac",
-   "company": "James Hardie Building Products Inc",
-   "role": "Supply Chain Intern - Ultralox",
-   "location": "Bloomington"
-  },
-  "df54938f2348e960372b78119b270af0": {
-   "id": "df54938f2348e960372b78119b270af0",
-   "company": "James Hardie Building Products Inc",
-   "role": "It Intern, Business Applications",
-   "location": "Chicago"
-  },
-  "8b2b721858421c59d815042c4285cdb1": {
-   "id": "8b2b721858421c59d815042c4285cdb1",
-   "company": "James Hardie Building Products Inc",
-   "role": "Learning & Development (l&d) Intern",
-   "location": "Chicago"
-  },
-  "849c8d3ba0833ddf34d125b83ad688db": {
-   "id": "849c8d3ba0833ddf34d125b83ad688db",
-   "company": "James Hardie Building Products Inc",
-   "role": "It Intern, Documentation & Knowledge Management",
-   "location": "Temecula"
-  },
-  "3336a0c3f8582c48cd6d57bbdefcc555": {
-   "id": "3336a0c3f8582c48cd6d57bbdefcc555",
-   "company": "greatamericacareers",
-   "role": "Data Governance Analyst Intern",
-   "location": "Cedar Rapids"
-  },
-  "395f932d861821e553821ad5f1688954": {
-   "id": "395f932d861821e553821ad5f1688954",
-   "company": "Z Modular",
-   "role": "Intern, Logistics",
-   "location": "Austin"
-  },
-  "89784cae9ac3c3b5446ca38e4c30fc55": {
-   "id": "89784cae9ac3c3b5446ca38e4c30fc55",
-   "company": "Vertex",
-   "role": "Vertex Spring Co-op 2027, Technical Operations - Packaging",
-   "location": "Boston"
+  "8b524178be1c1bdc10b1c9690b3f647c": {
+   "id": "8b524178be1c1bdc10b1c9690b3f647c",
+   "company": "Heven AeroTech",
+   "role": "Ai / Machine Learning Intern",
+   "location": "Las Vegas"
   },
   "d3174e666ea7037b65c96d586d37844f": {
    "id": "d3174e666ea7037b65c96d586d37844f",
@@ -541,6 +541,48 @@
    "company": "The Home Depot, Inc",
    "role": "Specialty Assistant Store Manager, In Training",
    "location": "North Tulsa"
+  },
+  "4e372e22140322a6ca51f737cfbf86ca": {
+   "id": "4e372e22140322a6ca51f737cfbf86ca",
+   "company": "Omni Hotels & Resorts",
+   "role": "J1 Restaurant Management Trainee",
+   "location": "United States"
+  },
+  "1d0a13d6feba0034e30a7497be28c5af": {
+   "id": "1d0a13d6feba0034e30a7497be28c5af",
+   "company": "Macy's",
+   "role": "Macy's 2027 Executive Development Program, Store Management - Wayne, Nj",
+   "location": "New York"
+  },
+  "bbd213386602613147d2d79b8e29b8bf": {
+   "id": "bbd213386602613147d2d79b8e29b8bf",
+   "company": "Macy's",
+   "role": "Macy's 2027 Executive Development Program, Store Management -paramus, Nj",
+   "location": "New York"
+  },
+  "e3e510dad8a0627c17d018c4a2a57ecc": {
+   "id": "e3e510dad8a0627c17d018c4a2a57ecc",
+   "company": "Macy's",
+   "role": "Macy's 2027 Executive Development Program, Store Management - Queens Market",
+   "location": "New York"
+  },
+  "6fbbec2e69c3f7fdee5b9e90810f8482": {
+   "id": "6fbbec2e69c3f7fdee5b9e90810f8482",
+   "company": "Hydro",
+   "role": "Ausbildung 2027 - Jetzt Durchstarten! (m/w/d)",
+   "location": "Offenburg"
+  },
+  "1e4606baddbb9ae74fa5133cee881fc7": {
+   "id": "1e4606baddbb9ae74fa5133cee881fc7",
+   "company": "Schaeffler",
+   "role": "Accelerated Leadership Program - Manufacturing Leadership Path",
+   "location": "Cheraw"
+  },
+  "093764cb1e6a15f4efbf2112ee9aa92a": {
+   "id": "093764cb1e6a15f4efbf2112ee9aa92a",
+   "company": "Schaeffler",
+   "role": "Accelerated Leadership Program - Manufacturing Leadership",
+   "location": "Cheraw"
   },
   "f97253f7634a849352b47b5ea7bc909a": {
    "id": "f97253f7634a849352b47b5ea7bc909a",
@@ -620,23 +662,17 @@
    "role": "Manager In Training",
    "location": "Los Angeles"
   },
-  "e432db726a0236d6ddb84bed4e9d571c": {
-   "id": "e432db726a0236d6ddb84bed4e9d571c",
-   "company": "Imperial Beverage",
-   "role": "Account Manager In Training - Big Rapids, Mi",
-   "location": "Big Rapids"
+  "dcb68173f72213cf45c4645a9c8f79a3": {
+   "id": "dcb68173f72213cf45c4645a9c8f79a3",
+   "company": "Oracle Corporation",
+   "role": "Catalyst Velocity: Data Center Technician Training Program",
+   "location": "Nm"
   },
   "c9bfd924bd69b1c35ab94e5f7da80dee": {
    "id": "c9bfd924bd69b1c35ab94e5f7da80dee",
    "company": "BD",
    "role": "Mechanical Technician Apprentice",
    "location": "Canaan"
-  },
-  "ee7d0b2f37534de1f5a2ac0a21a2d959": {
-   "id": "ee7d0b2f37534de1f5a2ac0a21a2d959",
-   "company": "JLG Industries Inc",
-   "role": "Sales Trainee - Access Equipment - Northeast",
-   "location": "Northeast"
   },
   "0dbf86a018fc88fe57a8180e5ca0c7f5": {
    "id": "0dbf86a018fc88fe57a8180e5ca0c7f5",
@@ -679,12 +715,6 @@
    "company": "Black & Veatch Corporation",
    "role": "Crusoe - 4611 - Electrical Apprentice 4",
    "location": "Claude"
-  },
-  "67afb90af507aa7281c75060ba6fe014": {
-   "id": "67afb90af507aa7281c75060ba6fe014",
-   "company": "TEXTRON eAVIATION Inc",
-   "role": "2027 Textron Leadership Development Program - Integrated Supply Chain (technical)",
-   "location": "United States"
   },
   "aae6f9a23fe5f957828ad0610cc85ae5": {
    "id": "aae6f9a23fe5f957828ad0610cc85ae5",
@@ -764,23 +794,11 @@
    "role": "Industrial Maintenance Tech Apprentice",
    "location": "Armada"
   },
-  "4e2b142445c867792210eb6dd42a5604": {
-   "id": "4e2b142445c867792210eb6dd42a5604",
-   "company": "Macy's",
-   "role": "Macy's 2027 Executive Development Program, Store Management - Queens Market",
-   "location": "New York"
-  },
-  "d953a0dd4115eaaf17556d2aa191fa41": {
-   "id": "d953a0dd4115eaaf17556d2aa191fa41",
-   "company": "Macy's",
-   "role": "Macy's 2027 Executive Development Program, Store Management - Wayne, Nj",
-   "location": "New York"
-  },
-  "bd8283f2aa60de0281f9fc8e9327fb2d": {
-   "id": "bd8283f2aa60de0281f9fc8e9327fb2d",
-   "company": "Macy's",
-   "role": "Macy's 2027 Executive Development Program, Store Management -paramus, Nj",
-   "location": "New York"
+  "4da09248593ea8fe22ceae0931acc865": {
+   "id": "4da09248593ea8fe22ceae0931acc865",
+   "company": "Tom Thumb",
+   "role": "Meat Cutter Apprentice",
+   "location": "Wiscasset"
   },
   "4b46faeaa9bc1d22a60bda489ddc2e2e": {
    "id": "4b46faeaa9bc1d22a60bda489ddc2e2e",
@@ -890,18 +908,6 @@
    "role": "Tooling Service Apprentice",
    "location": "Connecticut"
   },
-  "b26d048c0e758fff04be721eeda93054": {
-   "id": "b26d048c0e758fff04be721eeda93054",
-   "company": "Schaeffler",
-   "role": "Accelerated Leadership Program - Manufacturing Leadership",
-   "location": "Cheraw"
-  },
-  "504d281cf065d9a2f48288e57245edff": {
-   "id": "504d281cf065d9a2f48288e57245edff",
-   "company": "Schaeffler",
-   "role": "Accelerated Leadership Program - Manufacturing Leadership Path",
-   "location": "Cheraw"
-  },
   "e9c900c12398df8062935cf5f414a15e": {
    "id": "e9c900c12398df8062935cf5f414a15e",
    "company": "Firstsource",
@@ -968,12 +974,6 @@
    "role": "Relay Apprentice 1st Yr. - Relay Technician",
    "location": "Blytheville"
   },
-  "6905217cb66e7a4c6ace420a698b157c": {
-   "id": "6905217cb66e7a4c6ace420a698b157c",
-   "company": "Norfolk Southern",
-   "role": "2027 A1 Mechanical Supervisor Trainee",
-   "location": "Atlanta"
-  },
   "5ec9471c1f3d23b67ef368739c7d5a3c": {
    "id": "5ec9471c1f3d23b67ef368739c7d5a3c",
    "company": "CenterWell",
@@ -1003,6 +1003,12 @@
    "company": "Waymo",
    "role": "2027 Summer Intern, Ms/phd, Software Engineer",
    "location": "San Jose"
+  },
+  "fa13a4b7026de2ef902d102143838a94": {
+   "id": "fa13a4b7026de2ef902d102143838a94",
+   "company": "Ziprecruiter",
+   "role": "Software Engineer - Intern",
+   "location": "Los Angeles"
   },
   "5054cd6fa0cf77b1512a874c22090347": {
    "id": "5054cd6fa0cf77b1512a874c22090347",
@@ -1202,6 +1208,12 @@
    "role": "2027 University Graduate - Software Engineer",
    "location": "San Jose"
   },
+  "f0816e438769a6355de37a3de8d582e4": {
+   "id": "f0816e438769a6355de37a3de8d582e4",
+   "company": "Ziprecruiter",
+   "role": "Software Engineer - New Grad",
+   "location": "Los Angeles"
+  },
   "e3952d2695fc675a75f82505ebad6aaf": {
    "id": "e3952d2695fc675a75f82505ebad6aaf",
    "company": "Nuro",
@@ -1352,11 +1364,89 @@
    "role": "Software Engineer - Onsite Dallas Or Nyc - Fintech Startup Experience Required",
    "location": "New York"
   },
+  "a8ecdcf5252fb86cff8be1bfe98bf802": {
+   "id": "a8ecdcf5252fb86cff8be1bfe98bf802",
+   "company": "jackhenry.dev",
+   "role": "Endpoint Support Technician",
+   "location": "Dallas"
+  },
+  "6979b587927f508070ead48e85ea6a8f": {
+   "id": "6979b587927f508070ead48e85ea6a8f",
+   "company": "KLA",
+   "role": "Software Engineer (metrology Systems)",
+   "location": "San Jose"
+  },
+  "f427515e10c88e83957237be60d13474": {
+   "id": "f427515e10c88e83957237be60d13474",
+   "company": "SALESFORCE",
+   "role": "Software Engineering Amts (college Grad)",
+   "location": "Pittsburgh"
+  },
+  "c82392e1da9d196ab27925c68f43c31b": {
+   "id": "c82392e1da9d196ab27925c68f43c31b",
+   "company": "Capital One",
+   "role": "Full-stack Engineer 4, Tech College Engineering",
+   "location": "Dallas"
+  },
+  "b49dc22873d9b42921fa2682be716dee": {
+   "id": "b49dc22873d9b42921fa2682be716dee",
+   "company": "Capital One",
+   "role": "Full-stack Engineer 5 (python, Typescript, React, Aws)",
+   "location": "Boston"
+  },
+  "65a3adb3d3dc44503a3e81f29bba1d12": {
+   "id": "65a3adb3d3dc44503a3e81f29bba1d12",
+   "company": "Capital One",
+   "role": "Full-stack Engineer 5 (typescript/nodejs/python)",
+   "location": "Dallas"
+  },
+  "56d3ad90e1053b906e932581a8d0cf6d": {
+   "id": "56d3ad90e1053b906e932581a8d0cf6d",
+   "company": "Capital One",
+   "role": "Full Stack Engineer 4 (bank Tech)",
+   "location": "Washington D C"
+  },
+  "37cfb08a0bcf38519dc899b1392829a1": {
+   "id": "37cfb08a0bcf38519dc899b1392829a1",
+   "company": "Capital One",
+   "role": "Mobile Engineer 5 (ios, Swift, Bazel) (enterprise Platforms Technology)",
+   "location": "Washington D C"
+  },
+  "d2e1f20eedfdcbf97a81100b487616a7": {
+   "id": "d2e1f20eedfdcbf97a81100b487616a7",
+   "company": "Barclays",
+   "role": "Application Support Analyst Avp",
+   "location": "New York"
+  },
   "188661895c6105de73caebdb18bbc14b": {
    "id": "188661895c6105de73caebdb18bbc14b",
    "company": "Sierra",
    "role": "Software Engineer, Horizon",
    "location": "Concord"
+  },
+  "f4826c0b1373c65f51cec210b4d9c2c1": {
+   "id": "f4826c0b1373c65f51cec210b4d9c2c1",
+   "company": "Marsh",
+   "role": "Full-stack Engineer (forward Deployed) - Digital Client Experience - Marsh",
+   "location": "New York"
+  },
+  "cdc1e15d7c5b85d24e108ec95cb2125d": {
+   "id": "cdc1e15d7c5b85d24e108ec95cb2125d",
+   "company": "DXC",
+   "role": "Analyst Ii Infrastructure Services",
+   "location": "Any City"
+  },
+  "452d0ba1ddd0670d466d801fc87c0228": {
+   "id": "452d0ba1ddd0670d466d801fc87c0228",
+   "company": "Brown & Brown",
+   "role": "Policy Services Specialist",
+   "location": "Ft. Wayne"
+  },
+  "52ce90007427c9aa23c733d2e31fd2bc": {
+   "id": "52ce90007427c9aa23c733d2e31fd2bc",
+   "company": "U.S. Bank",
+   "role": "Software Engineer 1 (ai, Python, Llm, Rag, Ci Cd)",
+   "location": "Dallas"
   },
   "f7bea676f21a2e879e5320c3b2b01644": {
    "id": "f7bea676f21a2e879e5320c3b2b01644",
@@ -1471,6 +1561,12 @@
    "company": "Cintas",
    "role": "Software Engineer Ii",
    "location": "Los Angeles"
+  },
+  "470c8aeae013614ce2d82ebaecbabd47": {
+   "id": "470c8aeae013614ce2d82ebaecbabd47",
+   "company": "Lalamove",
+   "role": "Application & It Support Engineer",
+   "location": "New York"
   },
   "17f5a260d0bf75ed104eea87e0fcaa49": {
    "id": "17f5a260d0bf75ed104eea87e0fcaa49",
@@ -1718,90 +1814,6 @@
    "role": "Software Engineer, Agent - Public Sector",
    "location": "Concord"
   },
-  "bb1eed4f401e36699ac7cbc77debd369": {
-   "id": "bb1eed4f401e36699ac7cbc77debd369",
-   "company": "Sierra",
-   "role": "Software Engineer, Agent - Financial Services",
-   "location": "Concord"
-  },
-  "d489c65288fcd5b6400933bb653ac3f2": {
-   "id": "d489c65288fcd5b6400933bb653ac3f2",
-   "company": "Sierra",
-   "role": "Software Engineer, Agent - Healthcare",
-   "location": "New York"
-  },
-  "6bfda44e55775e00f22b78be38875743": {
-   "id": "6bfda44e55775e00f22b78be38875743",
-   "company": "Anduril",
-   "role": "Software Engineer, Robotics Data Foundation (cloud)",
-   "location": "Boston"
-  },
-  "94a6482e5dae718a112c506a89c4de7d": {
-   "id": "94a6482e5dae718a112c506a89c4de7d",
-   "company": "Sedgwick",
-   "role": "It Systems Analyst Specialist",
-   "location": "Telecommuter"
-  },
-  "836bbbd987760902fe16f3de547ffa36": {
-   "id": "836bbbd987760902fe16f3de547ffa36",
-   "company": "Olympus Corporation of the Americas",
-   "role": "Hybrid Specialist, Tech Support I",
-   "location": "Center Valley"
-  },
-  "a9312600b164794ee2f9d6caf20640ec": {
-   "id": "a9312600b164794ee2f9d6caf20640ec",
-   "company": "Delta Solutions & Strategies",
-   "role": "Client Systems Support (specialist)",
-   "location": "Vandenberg SFB"
-  },
-  "f9952c484dc640e0284eaa9574726c0f": {
-   "id": "f9952c484dc640e0284eaa9574726c0f",
-   "company": "MongoDB Atlas",
-   "role": "Software Engineer",
-   "location": "Atlanta"
-  },
-  "47cd4102c711a7eeac4e1643026a5a89": {
-   "id": "47cd4102c711a7eeac4e1643026a5a89",
-   "company": "Toshiba Global Commerce Solutions",
-   "role": "Associate Software Engineer",
-   "location": "Raleigh"
-  },
-  "456e10fc878fa43325d6ddc1f06153e0": {
-   "id": "456e10fc878fa43325d6ddc1f06153e0",
-   "company": "Zayo",
-   "role": "Software Engineer/network Automation (front End Development)",
-   "location": "United States"
-  },
-  "dd59c5b512ecb26314efef85e1b0c7b4": {
-   "id": "dd59c5b512ecb26314efef85e1b0c7b4",
-   "company": "Booz Allen Hamilton Holding",
-   "role": "Aircraft Survivability Equipment Software Engineer",
-   "location": "Jacksonville"
-  },
-  "71919642bfab196203b0a6a105599ef1": {
-   "id": "71919642bfab196203b0a6a105599ef1",
-   "company": "research-support.yale.edu",
-   "role": "Employee Relations Support Specialist",
-   "location": "Whitney Ave"
-  },
-  "46fd171292ad50bd44fc43b72134414b": {
-   "id": "46fd171292ad50bd44fc43b72134414b",
-   "company": "Amarillo Police Department",
-   "role": "It Support Specialist Ii - Iii",
-   "location": "City Hall"
-  },
-  "ee99db5cf4fa91ccbc88d1b3a1823f99": {
-   "id": "ee99db5cf4fa91ccbc88d1b3a1823f99",
-   "company": "Florida Gulf Coast University (FGCU)",
-   "role": "Program Support Specialist",
-   "location": "Main Campus"
-  },
-  "d8411613375e5dde573cd77207941a3c": {
-   "id": "d8411613375e5dde573cd77207941a3c",
-   "company": "Guidehouse Inc",
-   "role": "Systems Analyst",
-   "location": "VA"
-  },
   "25082a39b5304ca68c26a28f8902b736": {
    "id": "25082a39b5304ca68c26a28f8902b736",
    "company": "Procter & Gamble",
@@ -2018,6 +2030,18 @@
    "role": "Co-Op Data Scientist - AI & Analytics 2027",
    "location": "San Jose"
   },
+  "60a0b1262dcb8498ccc55dd22c39bffe": {
+   "id": "60a0b1262dcb8498ccc55dd22c39bffe",
+   "company": "Kyndryl",
+   "role": "Early Career Consult Program - Associate Ai Engineer",
+   "location": "Concord"
+  },
+  "c8af28aa076ea67f3ff308f4f16d08c5": {
+   "id": "c8af28aa076ea67f3ff308f4f16d08c5",
+   "company": "Man Group",
+   "role": "Technology Rotational Program - Associate Engineer",
+   "location": "Massachusetts"
+  },
   "5a36b46823ddfdcdd80ddd705b3eba1a": {
    "id": "5a36b46823ddfdcdd80ddd705b3eba1a",
    "company": "Disney Enterprises Inc",
@@ -2048,6 +2072,42 @@
    "role": "Workforce Modeling &amp; Data Analyst",
    "location": "Washington D C"
   },
+  "3d9cf8d53a76e19c8ddfe65b36d3c38d": {
+   "id": "3d9cf8d53a76e19c8ddfe65b36d3c38d",
+   "company": "Applied Materials",
+   "role": "Data Scientist New College Grad- Bachelor's/master's (austin, Tx)",
+   "location": "Austin"
+  },
+  "680bb296cd5e9d832128d3b3dffa283f": {
+   "id": "680bb296cd5e9d832128d3b3dffa283f",
+   "company": "Capital One",
+   "role": "Ai Engineer 5 (gen Ai Platform Services)",
+   "location": "New York"
+  },
+  "0b1eca02ce3d01f226e7bc8e539de362": {
+   "id": "0b1eca02ce3d01f226e7bc8e539de362",
+   "company": "Square Point of Sale",
+   "role": "Data Scientist, Payments",
+   "location": "Bay Area"
+  },
+  "522ebeb3d868bfac7463c5bf252b405d": {
+   "id": "522ebeb3d868bfac7463c5bf252b405d",
+   "company": "Blue Cross & Blue Shield of Mississippi",
+   "role": "Ai Engineer",
+   "location": "Flowood"
+  },
+  "2b097036a9db84a5bc0000d1d1c53c3e": {
+   "id": "2b097036a9db84a5bc0000d1d1c53c3e",
+   "company": "Abbott Diabetes Care",
+   "role": "Associate Engineer",
+   "location": "South Carolina"
+  },
+  "1c0addc902dd1d7f4d8fb46cd70f9628": {
+   "id": "1c0addc902dd1d7f4d8fb46cd70f9628",
+   "company": "Exxon Mobil",
+   "role": "Business Intelligence Advisor",
+   "location": "Bangalore"
+  },
   "416d42346d37b7afe99f69cd2c04c812": {
    "id": "416d42346d37b7afe99f69cd2c04c812",
    "company": "Brightonparkbank",
@@ -2059,6 +2119,12 @@
    "company": "Worldpay Inc",
    "role": "Payments Data Scientist I",
    "location": "Cincinnati"
+  },
+  "aeb015c7d9e014f97e8b60ff37160b64": {
+   "id": "aeb015c7d9e014f97e8b60ff37160b64",
+   "company": "Florafoodgroup",
+   "role": "Automation Engineer",
+   "location": "Hugoton"
   },
   "26628731e18658f2848efcf1f633864c": {
    "id": "26628731e18658f2848efcf1f633864c",
@@ -2480,48 +2546,6 @@
    "role": "2027 Spring Co-op Mrna Drug Substance Process Characterization Data Analytics And Visualization, Waltham, Ma",
    "location": "Boston"
   },
-  "797a9a975fe82d2337ba22f127fd709f": {
-   "id": "797a9a975fe82d2337ba22f127fd709f",
-   "company": "Sedgwick",
-   "role": "Engineer - Gen Ai",
-   "location": "Tn"
-  },
-  "16715d4820dc19c960b6cacb3ebe9824": {
-   "id": "16715d4820dc19c960b6cacb3ebe9824",
-   "company": "HAVI",
-   "role": "Associate Data Scientist",
-   "location": "Chicago"
-  },
-  "14a0079f8f80af2d29cabe7454f483bc": {
-   "id": "14a0079f8f80af2d29cabe7454f483bc",
-   "company": "Capital One",
-   "role": "Ai Engineer 4 (gen Ai Platform Services: Agentic Ai, Agent Guardrails, Agent Evaluation, Agent Memory)",
-   "location": "Concord"
-  },
-  "d7bab3538ddbf9ac0586a07436381ae4": {
-   "id": "d7bab3538ddbf9ac0586a07436381ae4",
-   "company": "Capital One",
-   "role": "Ai Engineer 5 (ai Foundations: Llm Customization, Finetuning, Reinforcement Learning)",
-   "location": "New York"
-  },
-  "5e489d25a521e52be7e1c2fcbf3d36f4": {
-   "id": "5e489d25a521e52be7e1c2fcbf3d36f4",
-   "company": "Capital One",
-   "role": "Ai Engineer 4 (ai Foundations: Llm Customization, Finetuning, Reinforcement Learning)",
-   "location": "New York"
-  },
-  "0e936e4c2dc386140a4b1a98f05953a0": {
-   "id": "0e936e4c2dc386140a4b1a98f05953a0",
-   "company": "Capital One",
-   "role": "Ai Engineer 5 (mlx, Agentic Ai, Gen Ai Platform Services)",
-   "location": "San Jose"
-  },
-  "e7986c86da390559f1798d55d09ac7ef": {
-   "id": "e7986c86da390559f1798d55d09ac7ef",
-   "company": "Capital One",
-   "role": "Ai Engineer 3 (ai Foundations)",
-   "location": "Washington D C"
-  },
   "446720940346": {
    "id": "446720940346",
    "company": "Symetra",
@@ -2539,6 +2563,12 @@
    "company": "RTX (Raytheon)",
    "role": "Global Supply Chain Co-op (january 2027) (hybrid)",
    "location": "Aguadilla"
+  },
+  "a2f0e1d742eeae1241df84569b445ce9": {
+   "id": "a2f0e1d742eeae1241df84569b445ce9",
+   "company": "Norfolk Southern",
+   "role": "2027 Summer Internal Audit Intern",
+   "location": "Atlanta"
   },
   "e1e0e86c911d85c407795501ca27e031": {
    "id": "e1e0e86c911d85c407795501ca27e031",
@@ -2996,17 +3026,17 @@
    "role": "2027 Summer Intern - Finance & Accounting Analyst",
    "location": "Los Angeles"
   },
-  "3165bc1e176c183247a6ae3eae18c9bc": {
-   "id": "3165bc1e176c183247a6ae3eae18c9bc",
-   "company": "PIMCO",
-   "role": "2027 Summer Intern - Alternatives Business Management Analyst",
-   "location": "Los Angeles"
-  },
   "a3e9aaa293e4f40e21e0bd7e8dc21317": {
    "id": "a3e9aaa293e4f40e21e0bd7e8dc21317",
    "company": "Putnam Associates",
    "role": "Associate Consultant (campus - 2027)",
    "location": "Boston"
+  },
+  "bf4f1f639c08469ee671399254d096a1": {
+   "id": "bf4f1f639c08469ee671399254d096a1",
+   "company": "Cantor Fitzgerald & Co.",
+   "role": "Analyst - Consumer & Retail Investment Banking (class Of 2027)",
+   "location": "New York"
   },
   "169aa592f030c0d781a0acdac7a0ebe4": {
    "id": "169aa592f030c0d781a0acdac7a0ebe4",
@@ -3326,6 +3356,72 @@
    "role": "Customer Operations Analyst, Hu",
    "location": "New York"
   },
+  "5dd5cf891bd4d4e1334900b7f99ac7dd": {
+   "id": "5dd5cf891bd4d4e1334900b7f99ac7dd",
+   "company": "jackhenry.dev",
+   "role": "Eps Applications Analyst",
+   "location": "United States"
+  },
+  "7daf70ec1d1d05496385d721a549294b": {
+   "id": "7daf70ec1d1d05496385d721a549294b",
+   "company": "Barclays",
+   "role": "Internal Audit – Avp Transaction Testing & Analytics",
+   "location": "New York"
+  },
+  "9c840669f152a8242e1752722dc595a7": {
+   "id": "9c840669f152a8242e1752722dc595a7",
+   "company": "Rimerman + Co LLP",
+   "role": "Venture Capital Audit Associate – October/november 2026 - San Diego",
+   "location": "San Diego"
+  },
+  "8cb6f09c739aed0c906c7fc0971574fa": {
+   "id": "8cb6f09c739aed0c906c7fc0971574fa",
+   "company": "689",
+   "role": "Identity & Access Management Analyst",
+   "location": "New York"
+  },
+  "23e791571610a149442343a7e8f3dfd8": {
+   "id": "23e791571610a149442343a7e8f3dfd8",
+   "company": "MSD (Merck)",
+   "role": "Us Controllers - Specialist Accountant",
+   "location": "Kalamazoo"
+  },
+  "0d774372a4854b65fb61659240d7a18e": {
+   "id": "0d774372a4854b65fb61659240d7a18e",
+   "company": "ACLU of New Jersey",
+   "role": "Policy Strategist",
+   "location": "New York"
+  },
+  "833dac8881357fc52cd3801e8d979fe6": {
+   "id": "833dac8881357fc52cd3801e8d979fe6",
+   "company": "comtederius.cat",
+   "role": "Trade Risk & Compliance Professional",
+   "location": "Dallas"
+  },
+  "88f3e98d7539e74920baf734312fa0c1": {
+   "id": "88f3e98d7539e74920baf734312fa0c1",
+   "company": "U.S. Bank",
+   "role": "Financial Analyst – Corporate Treasury",
+   "location": "Bloomington"
+  },
+  "a20a9787cea9c31c2dc607252739f3d4": {
+   "id": "a20a9787cea9c31c2dc607252739f3d4",
+   "company": "Truist",
+   "role": "Middle Market Credit Delivery Analyst",
+   "location": "United States"
+  },
+  "116357fa4c19fd2047ae81905032dd62": {
+   "id": "116357fa4c19fd2047ae81905032dd62",
+   "company": "rga",
+   "role": "Enterprise Access Management Analyst",
+   "location": "St Louis"
+  },
+  "ea60d03007bcaa91a429adbf153d57a7": {
+   "id": "ea60d03007bcaa91a429adbf153d57a7",
+   "company": "Vestwell",
+   "role": "Associate, Financial Crimes Compliance",
+   "location": "New York"
+  },
   "bc808e743bed782ae035cc9fec13cd63": {
    "id": "bc808e743bed782ae035cc9fec13cd63",
    "company": "Brightonparkbank",
@@ -3337,6 +3433,12 @@
    "company": "ALTEN Technology USA",
    "role": "Jr. Business Analyst",
    "location": "Denver"
+  },
+  "5f56aeef9bc5284be60c7b8fb933108a": {
+   "id": "5f56aeef9bc5284be60c7b8fb933108a",
+   "company": "Shield AI",
+   "role": "Capture Portfolio Analyst, X-bat Family Of Systems (fos) (r6011)",
+   "location": "San Diego"
   },
   "e994aed38253b032af9c03b58fac40f8": {
    "id": "e994aed38253b032af9c03b58fac40f8",
@@ -3493,12 +3595,6 @@
    "company": "John Hancock Life Insurance Company (U.S.A.)",
    "role": "Investment Compliance Analyst",
    "location": "Boston"
-  },
-  "3266342535d7592f568bf05078c0e739": {
-   "id": "3266342535d7592f568bf05078c0e739",
-   "company": "William & Mary",
-   "role": "Workday Financial Reporting Analyst",
-   "location": "William & Mary"
   },
   "49a31662be3603b2b24a33b18e31dc95": {
    "id": "49a31662be3603b2b24a33b18e31dc95",
@@ -3661,72 +3757,6 @@
    "company": "Plante Moran, PLLC",
    "role": "2027 Pm Group Benefits Advisor Analyst",
    "location": "Detroit"
-  },
-  "29cb42adfd6345dfeb91d30648c2b5a2": {
-   "id": "29cb42adfd6345dfeb91d30648c2b5a2",
-   "company": "San Manuel Band of Mission Indians",
-   "role": "Investment Analyst",
-   "location": "Los Angeles"
-  },
-  "7e73b73b223e6dc1cdad112512b53923": {
-   "id": "7e73b73b223e6dc1cdad112512b53923",
-   "company": "Health Care Service Corporation",
-   "role": "Business Analyst",
-   "location": "Chicago"
-  },
-  "7a9afcb01d3c1113969376baec7e9da5": {
-   "id": "7a9afcb01d3c1113969376baec7e9da5",
-   "company": "Southern Glazer's Wine and Spirits LLC",
-   "role": "Commercial Financial Analyst- Union City",
-   "location": "San Jose"
-  },
-  "d23c800378ad50b0e999a1ca8f46e2b8": {
-   "id": "d23c800378ad50b0e999a1ca8f46e2b8",
-   "company": "Jobgether",
-   "role": "Risk Analyst",
-   "location": "United States"
-  },
-  "fc01a238f32085bd3cebc9351f4a718e": {
-   "id": "fc01a238f32085bd3cebc9351f4a718e",
-   "company": "CIBC US",
-   "role": "Analyst, Eit, Global Investment Banking",
-   "location": "New York"
-  },
-  "dce76eabe643f7c5ed83b768e8df0827": {
-   "id": "dce76eabe643f7c5ed83b768e8df0827",
-   "company": "Leidos Holdings Inc.",
-   "role": "Project Analyst",
-   "location": "Washington D C"
-  },
-  "4c4101364285bbb753dc7148183dce63": {
-   "id": "4c4101364285bbb753dc7148183dce63",
-   "company": "Guidehouse Inc",
-   "role": "Financial Improvement Audit Readiness Specialist",
-   "location": "AL"
-  },
-  "fe120953a5df242333af1c4622365f4a": {
-   "id": "fe120953a5df242333af1c4622365f4a",
-   "company": "Guidehouse Inc",
-   "role": "Business Process Improvement And Internal Control Specialist",
-   "location": "United States"
-  },
-  "ce712613c04b6fa818beec50fda56deb": {
-   "id": "ce712613c04b6fa818beec50fda56deb",
-   "company": "Guidehouse Inc",
-   "role": "Financial Management Transformation Analyst",
-   "location": "AL"
-  },
-  "0d529c936a3e0acfdeca2680b40651a1": {
-   "id": "0d529c936a3e0acfdeca2680b40651a1",
-   "company": "Guidehouse Inc",
-   "role": "Process Assessment And Process Mapping Associate",
-   "location": "United States"
-  },
-  "130609d1fcc2461e92de39c53053b02a": {
-   "id": "130609d1fcc2461e92de39c53053b02a",
-   "company": "GRUPO SANTANDER",
-   "role": "Finance Analytics - Analyst",
-   "location": "Dallas"
   },
   "601d9ddf4ef57ee90a49fcf62f73a594": {
    "id": "601d9ddf4ef57ee90a49fcf62f73a594",
@@ -4352,341 +4382,341 @@
    "role": "Associate Field Service Technician",
    "location": "Atlanta"
   },
+  "96d1013677c1dff42dcfdd2cd56b8664": {
+   "id": "96d1013677c1dff42dcfdd2cd56b8664",
+   "company": "Greystar Worldwide LLC",
+   "role": "Maintenance Technician - The Grove At Ben Hill",
+   "location": "Atlanta"
+  },
+  "39c3f6ba37545a2678565ef19a387628": {
+   "id": "39c3f6ba37545a2678565ef19a387628",
+   "company": "Greystar Worldwide LLC",
+   "role": "Avana Soco - Maintenance Technician",
+   "location": "Austin"
+  },
+  "edb97153b72684110fa88254c1e5fb53": {
+   "id": "edb97153b72684110fa88254c1e5fb53",
+   "company": "Greystar Worldwide LLC",
+   "role": "Maintenance Technician - The Carson",
+   "location": "Charlotte"
+  },
+  "ec5e59d5f2386a8e55073506ea186da1": {
+   "id": "ec5e59d5f2386a8e55073506ea186da1",
+   "company": "Greystar Worldwide LLC",
+   "role": "Maintenance Technician - Domain Huntsville",
+   "location": "Huntsville"
+  },
+  "2ad79db74da5bb00a2ae0b3ccd298692": {
+   "id": "2ad79db74da5bb00a2ae0b3ccd298692",
+   "company": "Greystar Worldwide LLC",
+   "role": "Maintenance Technician - Saddlebridge At Downtown Davie",
+   "location": "Miami"
+  },
+  "1dfc6d3b564489289106244f31f77a85": {
+   "id": "1dfc6d3b564489289106244f31f77a85",
+   "company": "Greystar Worldwide LLC",
+   "role": "Maintenance Technician (btr) - Frame Med Center",
+   "location": "San Antonio"
+  },
+  "3c749e99869e257a9d833bc4e384b229": {
+   "id": "3c749e99869e257a9d833bc4e384b229",
+   "company": "Greystar Worldwide LLC",
+   "role": "Service Technician - Sorella At Loretta Heights",
+   "location": "Denver"
+  },
+  "d2a82fb425dc177579492e9eed2b0068": {
+   "id": "d2a82fb425dc177579492e9eed2b0068",
+   "company": "Greystar Worldwide LLC",
+   "role": "Service Technician - Solace At The Ranch",
+   "location": "Denver"
+  },
+  "91314f789535323f95a179f4a112cbaf": {
+   "id": "91314f789535323f95a179f4a112cbaf",
+   "company": "Greystar Worldwide LLC",
+   "role": "Service Technician - Citadel",
+   "location": "Castle Pines"
+  },
+  "2011c1814fb02d069fa0a2b906d22290": {
+   "id": "2011c1814fb02d069fa0a2b906d22290",
+   "company": "Greystar Worldwide LLC",
+   "role": "Make Ready Technician- Urban East",
+   "location": "Urban East"
+  },
+  "c6f9284abf5e13d123f6c39656ff67ea": {
+   "id": "c6f9284abf5e13d123f6c39656ff67ea",
+   "company": "Greystar Worldwide LLC",
+   "role": "Maintenance Technician - Avana Acworth",
+   "location": "Atlanta"
+  },
+  "8a061e411db9692c45c922dd3800e034": {
+   "id": "8a061e411db9692c45c922dd3800e034",
+   "company": "Greystar Worldwide LLC",
+   "role": "Maintenance Technician - Copper Chase At Stones Crossing",
+   "location": "Kansas City"
+  },
+  "f09cf2966d991b254ea4e50806bf76cc": {
+   "id": "f09cf2966d991b254ea4e50806bf76cc",
+   "company": "Greystar Worldwide LLC",
+   "role": "Maintenance Technician - Cherry Hill, Nj",
+   "location": "Philadelphia"
+  },
+  "41d13f1c384e1bacf980478579e57093": {
+   "id": "41d13f1c384e1bacf980478579e57093",
+   "company": "Greystar Worldwide LLC",
+   "role": "Service Technician - Aurora",
+   "location": "Denver"
+  },
+  "e78e16f58148dd93ea9ca6b044e0d9f0": {
+   "id": "e78e16f58148dd93ea9ca6b044e0d9f0",
+   "company": "Greystar Worldwide LLC",
+   "role": "Service Technician - Aventerra",
+   "location": "Phoenix"
+  },
+  "2071a5dd8bb6ae10ea31d00c356b67e2": {
+   "id": "2071a5dd8bb6ae10ea31d00c356b67e2",
+   "company": "Greystar Worldwide LLC",
+   "role": "Service Technician - Avana Gilbert",
+   "location": "Avana Gilbert"
+  },
+  "a031f3723f32b95587408489ef38779b": {
+   "id": "a031f3723f32b95587408489ef38779b",
+   "company": "Greystar Worldwide LLC",
+   "role": "Service Technician - The Catherine",
+   "location": "The Catherine"
+  },
+  "b6736541cc9a917433f2eff97c7ec0b2": {
+   "id": "b6736541cc9a917433f2eff97c7ec0b2",
+   "company": "Greystar Worldwide LLC",
+   "role": "Service Technician - Casitas At Elevon",
+   "location": "Ascend At Elevon"
+  },
+  "b20f8c19f600480d6e4a78356638b6e8": {
+   "id": "b20f8c19f600480d6e4a78356638b6e8",
+   "company": "Advanced Energy Industries Inc",
+   "role": "Electronics Service Technician Ii",
+   "location": "Denver"
+  },
+  "addb1b6e5fe31d60dd004d19e570177b": {
+   "id": "addb1b6e5fe31d60dd004d19e570177b",
+   "company": "Advanced Energy Industries Inc",
+   "role": "Electronic Service Technician Iii",
+   "location": "Denver"
+  },
+  "a8d906954f9b290c4716b2ed256149dd": {
+   "id": "a8d906954f9b290c4716b2ed256149dd",
+   "company": "Xerox Corporation",
+   "role": "Printer Technician - White River Junction, Vt",
+   "location": "White River Junction"
+  },
+  "eb7655f378eabff4393edbd18ff45e7b": {
+   "id": "eb7655f378eabff4393edbd18ff45e7b",
+   "company": "Xerox Corporation",
+   "role": "Onsite Service Technician - Jacksonville, Fl",
+   "location": "Jacksonville"
+  },
+  "9f5229d55d1ba66af1b03be30c643c63": {
+   "id": "9f5229d55d1ba66af1b03be30c643c63",
+   "company": "Xerox Corporation",
+   "role": "Onsite Service Technician - North Randall, Oh",
+   "location": "North Randall"
+  },
+  "67c5f8b50bc24a533da62d79d48534b7": {
+   "id": "67c5f8b50bc24a533da62d79d48534b7",
+   "company": "Xerox Corporation",
+   "role": "Onsite Service Technician - washington, Dc",
+   "location": "Washington D C"
+  },
+  "9d0e8cf7bc3fee29ad29c5d2371976fc": {
+   "id": "9d0e8cf7bc3fee29ad29c5d2371976fc",
+   "company": "Xerox Corporation",
+   "role": "Field Service Technician - West Los Angeles, Ca",
+   "location": "West Los Angeles"
+  },
+  "d676be4d2fcbe46474086d6be52cb550": {
+   "id": "d676be4d2fcbe46474086d6be52cb550",
+   "company": "Xerox Corporation",
+   "role": "Field Service Technician - Maui, Hawaii",
+   "location": "Maui"
+  },
+  "1f6fae7d1aa9d5d2e39ee2d514f4384f": {
+   "id": "1f6fae7d1aa9d5d2e39ee2d514f4384f",
+   "company": "Fontaine Modification Company",
+   "role": "Technician Iii",
+   "location": "Charlotte"
+  },
+  "d52a88723d02e97e10944cf9f8a3a971": {
+   "id": "d52a88723d02e97e10944cf9f8a3a971",
+   "company": "Jones Lang Lasalle Ip Inc",
+   "role": "Maintenance Technician",
+   "location": "Indianapolis"
+  },
+  "322a48e113fe99bfd41209abd3defb3e": {
+   "id": "322a48e113fe99bfd41209abd3defb3e",
+   "company": "Jones Lang Lasalle Ip Inc",
+   "role": "Maintenance Technician Smw",
+   "location": "Seattle"
+  },
+  "593d5f1fea24f81b073f4fe114b826f6": {
+   "id": "593d5f1fea24f81b073f4fe114b826f6",
+   "company": "Jones Lang Lasalle Ip Inc",
+   "role": "Mobile Hvac Technician",
+   "location": "Tampa"
+  },
+  "031aca30a5e22d291817d36b79cfb280": {
+   "id": "031aca30a5e22d291817d36b79cfb280",
+   "company": "Jones Lang LaSalle Ip Inc",
+   "role": "Specialist, Hvac Technician",
+   "location": "San Diego"
+  },
+  "3fa10e57392d898bbce4d4ef91f25d0c": {
+   "id": "3fa10e57392d898bbce4d4ef91f25d0c",
+   "company": "Johnson Controls International PLC",
+   "role": "Controls Systems Technician 1",
+   "location": "Raleigh"
+  },
+  "144f155264e76ee422fd766b73f3f5d6": {
+   "id": "144f155264e76ee422fd766b73f3f5d6",
+   "company": "Encore Global",
+   "role": "Repair Technician Warehouse Operations - Las Vegas",
+   "location": "Las Vegas"
+  },
+  "091cd54a3f452f30fd586a5f0d8fec69": {
+   "id": "091cd54a3f452f30fd586a5f0d8fec69",
+   "company": "Johnson & Johnson",
+   "role": "Reliability Technician V",
+   "location": "Jacksonville"
+  },
+  "1b2e0e2233537f250706e60b112d7de1": {
+   "id": "1b2e0e2233537f250706e60b112d7de1",
+   "company": "Textron Inc",
+   "role": "Associate Mechanical Technician - Structural Test Lab: Fort Worth, Tx",
+   "location": "Dallas"
+  },
+  "0644bdcc51aa9cfcdafc24e9bb6ec936": {
+   "id": "0644bdcc51aa9cfcdafc24e9bb6ec936",
+   "company": "C&W Services",
+   "role": "Facility Maintenance Technician",
+   "location": "New York"
+  },
+  "20e0c5cc8581ba18ef21f5d00efdce87": {
+   "id": "20e0c5cc8581ba18ef21f5d00efdce87",
+   "company": "Sares Regis Group",
+   "role": "Maintenance Technician Ii",
+   "location": "Austin"
+  },
+  "ebb809779947036706ced4cee4414a8e": {
+   "id": "ebb809779947036706ced4cee4414a8e",
+   "company": "General Motors Australia & New Zealand",
+   "role": "Manufacturing Equipment Reliability Specialist",
+   "location": "Detroit"
+  },
+  "b021c08ac1818c0011f81726631b24fc": {
+   "id": "b021c08ac1818c0011f81726631b24fc",
+   "company": "Benchmark Senior Living",
+   "role": "Maintenance Technician Part Time",
+   "location": "New York"
+  },
+  "8a4b8646e786ddb7248f03d573c4dca0": {
+   "id": "8a4b8646e786ddb7248f03d573c4dca0",
+   "company": "Jones Lang Lasalle Ip Inc",
+   "role": "Mobile Maintenance Mechanic",
+   "location": "Boston"
+  },
+  "2cb701fba23f0c54dc8faaedb9ef6b6c": {
+   "id": "2cb701fba23f0c54dc8faaedb9ef6b6c",
+   "company": "Jones Lang Lasalle Ip Inc",
+   "role": "Mobile Hvac Technician Engineer",
+   "location": "Little Rock"
+  },
+  "eff99f8951e298b67ec999eec52fa90a": {
+   "id": "eff99f8951e298b67ec999eec52fa90a",
+   "company": "Volvo Circular Charlotte",
+   "role": "Maintenance Technician Ii - 1st Shift",
+   "location": "Charlotte"
+  },
+  "3a855819dcc2dc2cade9da716a678e5c": {
+   "id": "3a855819dcc2dc2cade9da716a678e5c",
+   "company": "Prevost, a division of Volvo Group Canada Inc.",
+   "role": "Service Technician (calgary)",
+   "location": "Calgary"
+  },
+  "5bbcc109c401fa6e6f1cb675eeee51b7": {
+   "id": "5bbcc109c401fa6e6f1cb675eeee51b7",
+   "company": "Leica Microsystems",
+   "role": "Manufacturing Technician Ii - 1st Shift",
+   "location": "Bloomington"
+  },
+  "9f3ee58b57e6bbbb61290ac7b1fe8203": {
+   "id": "9f3ee58b57e6bbbb61290ac7b1fe8203",
+   "company": "American Airlines Group",
+   "role": "Plant Maintenance Mechanic - Facilities",
+   "location": "New York"
+  },
+  "b3e059a945a97f598fed6c71aa2a4d13": {
+   "id": "b3e059a945a97f598fed6c71aa2a4d13",
+   "company": "American Airlines Group",
+   "role": "Plant Maintenance Mechanic - Stationary Operating Engineer",
+   "location": "New York"
+  },
+  "eff0e7baca93d608519921b7ba888bb6": {
+   "id": "eff0e7baca93d608519921b7ba888bb6",
+   "company": "Nutrien Ltd",
+   "role": "Technician, Instrumentation & Electrical",
+   "location": "Denver"
+  },
+  "29b433709932393995c327054bc697de": {
+   "id": "29b433709932393995c327054bc697de",
+   "company": "dormakaba International Holding AG",
+   "role": "Field Service Technician",
+   "location": "Dallas"
+  },
+  "f393a2a68903cdb589e3d1fc5992fe46": {
+   "id": "f393a2a68903cdb589e3d1fc5992fe46",
+   "company": "Nucor",
+   "role": "Maintenance Technician",
+   "location": "Los Angeles"
+  },
+  "4728047663c439477cea25a64fc0da3f": {
+   "id": "4728047663c439477cea25a64fc0da3f",
+   "company": "Shield AI",
+   "role": "Fleet Support Specialist, Field Integration & Test (r5615)",
+   "location": "Dallas"
+  },
+  "a37f3aeb021a913bbf03ebbb08a36e71": {
+   "id": "a37f3aeb021a913bbf03ebbb08a36e71",
+   "company": "Prometheusrealestategroup",
+   "role": "Maintenance Technician Ii (madera)",
+   "location": "San Jose"
+  },
+  "416739265a58d7654b1c8b86188209db": {
+   "id": "416739265a58d7654b1c8b86188209db",
+   "company": "Philips UK",
+   "role": "Field Service Engineer - Medical Imaging (field: Cleveland, Oh)",
+   "location": "Cleveland"
+  },
+  "64e65dc1ebecc94f4001282c60bfaa4f": {
+   "id": "64e65dc1ebecc94f4001282c60bfaa4f",
+   "company": "Schaeffler",
+   "role": "Mechanical Maintenance Technician - 1st Shift",
+   "location": "Charlotte"
+  },
+  "fe019c8715181f506492f7fc35627f10": {
+   "id": "fe019c8715181f506492f7fc35627f10",
+   "company": "Schaeffler",
+   "role": "Electrical Maintenance Technician - 1st Shift",
+   "location": "Charlotte"
+  },
   "06b1e66340002f0f879bc7fe87d92304": {
    "id": "06b1e66340002f0f879bc7fe87d92304",
    "company": "Procter & Gamble (P&G)",
    "role": "Field Service Technician (entry Level) - Port St. Lucie, Fl",
    "location": "Port St Lucie"
   },
-  "d8eaceb4124fb0b7e7e9ba38d7a73c62": {
-   "id": "d8eaceb4124fb0b7e7e9ba38d7a73c62",
-   "company": "Baker Hughes",
-   "role": "Junior Field Services Engineer",
-   "location": "United States"
-  },
-  "304035392a32f5ef543ef04f54fefc20": {
-   "id": "304035392a32f5ef543ef04f54fefc20",
-   "company": "airproducts.ca",
-   "role": "Manufacturing Technician",
-   "location": "St Louis"
-  },
-  "2f4c13792efa7e90605ed9ffdc8c6ce6": {
-   "id": "2f4c13792efa7e90605ed9ffdc8c6ce6",
-   "company": "Bozzuto",
+  "a99726266c410329b52d4a5699e4824a": {
+   "id": "a99726266c410329b52d4a5699e4824a",
+   "company": "Protolabs",
    "role": "Maintenance Technician",
-   "location": "Washington D C"
-  },
-  "826afe433af9b54d88c41602a92c2686": {
-   "id": "826afe433af9b54d88c41602a92c2686",
-   "company": "Laboratory Animal Management Association",
-   "role": "Associate Technician, Operations",
-   "location": "Dallas"
-  },
-  "391dbeba0d356fb807e955ce98c8480d": {
-   "id": "391dbeba0d356fb807e955ce98c8480d",
-   "company": "CONAM Management Corporation",
-   "role": "Maintenance Technician",
-   "location": "Orlando"
-  },
-  "df0b8cbe3dd4178eea28fa70001bd15a": {
-   "id": "df0b8cbe3dd4178eea28fa70001bd15a",
-   "company": "Arthrex Inc",
-   "role": "Preventative Maintenance Technician I-2nd Shift",
-   "location": "Naples"
-  },
-  "b2f3601936ec2d4d2b6b902263a2896b": {
-   "id": "b2f3601936ec2d4d2b6b902263a2896b",
-   "company": "SmartCare",
-   "role": "Pm Technician",
-   "location": "Pittsburgh"
-  },
-  "9a96190627e43e2114dff09c2aaa0b1a": {
-   "id": "9a96190627e43e2114dff09c2aaa0b1a",
-   "company": "SmartCare",
-   "role": "Hvac/r & Kitchen Service Technician - Jackson",
-   "location": "Philadelphia"
-  },
-  "08dab1366f7f2a4909dcd56f880f81ed": {
-   "id": "08dab1366f7f2a4909dcd56f880f81ed",
-   "company": "SmartCare",
-   "role": "Commercial Kitchen Service Technician",
-   "location": "Greater Bay Area"
-  },
-  "d180ed1cceec5e6e7cb51ae5090fda26": {
-   "id": "d180ed1cceec5e6e7cb51ae5090fda26",
-   "company": "SmartCare",
-   "role": "Hvac/r & Kitchen Technician - Chattanooga",
-   "location": "Chattanooga"
-  },
-  "986649f53f5f9a44f55c937d70588504": {
-   "id": "986649f53f5f9a44f55c937d70588504",
-   "company": "ASUStaffCareers",
-   "role": "Maintenance Technician",
-   "location": "Phoenix"
-  },
-  "0807420825eeb5e0aeb4f45b2df0c9ba": {
-   "id": "0807420825eeb5e0aeb4f45b2df0c9ba",
-   "company": "Essowners",
-   "role": "Groundskeeper/entry Level Maintenance Technician",
-   "location": "Denver"
-  },
-  "3e1a5ca4a138e9a48d6a102bbf0de883": {
-   "id": "3e1a5ca4a138e9a48d6a102bbf0de883",
-   "company": "ELS",
-   "role": "Maintenance Tech",
-   "location": "Orlando"
-  },
-  "2805586841c6bcbb3705dd4586fc5afb": {
-   "id": "2805586841c6bcbb3705dd4586fc5afb",
-   "company": "Essowners",
-   "role": "Maintenance - Level I",
-   "location": "Phoenix"
-  },
-  "1e9ee401c85e8c89a9c30bb128e224d3": {
-   "id": "1e9ee401c85e8c89a9c30bb128e224d3",
-   "company": "Rose Associates",
-   "role": "Maintenance Technician Ii - Hudson Preserve, 2600 Beryl Way, Watervliet, Ny",
-   "location": "Albany"
-  },
-  "7b3331686dde5f1850105b98d3e07083": {
-   "id": "7b3331686dde5f1850105b98d3e07083",
-   "company": "Rose Associates",
-   "role": "Maintenance Technician I - Hudson Preserve, 2600 Beryl Way, Watervliet, Ny",
-   "location": "Albany"
-  },
-  "4370a0e6d6529a88e73bab9ea85b3652": {
-   "id": "4370a0e6d6529a88e73bab9ea85b3652",
-   "company": "Owens Corning",
-   "role": "Multi-craft Maintenance Mechanic-nights!",
-   "location": "Fort Smith"
-  },
-  "f2be92774b0fcee356ab2cc2eddc135b": {
-   "id": "f2be92774b0fcee356ab2cc2eddc135b",
-   "company": "Barry Callebaut AG",
-   "role": "Technician, Maintenance",
-   "location": "Chicago"
-  },
-  "50eb7e391f654401dc3a6b8ed755f4fc": {
-   "id": "50eb7e391f654401dc3a6b8ed755f4fc",
-   "company": "Branch Civil, Inc.",
-   "role": "Equipment Service Tech",
-   "location": "Search By Location Search By Postal Code Search By Location"
-  },
-  "6799f6fa9dee4fcddb7c519c915ea83f": {
-   "id": "6799f6fa9dee4fcddb7c519c915ea83f",
-   "company": "Barry Wehmiller Design Group",
-   "role": "Field Service Technician",
-   "location": "United States"
-  },
-  "3a74c397dfe799f0fe29ec7cd0236381": {
-   "id": "3a74c397dfe799f0fe29ec7cd0236381",
-   "company": "JBS SA",
-   "role": "Jbs Usa Careers - Maintenance Hourly 1st Shift",
-   "location": "Omaha"
-  },
-  "5051f36115ea66c293c5bc4686f589cc": {
-   "id": "5051f36115ea66c293c5bc4686f589cc",
-   "company": "Sunrise Senior Living",
-   "role": "Maintenance Assistant",
-   "location": "Chicago"
-  },
-  "0808a6aad5e9c21f1ec692d734b7f701": {
-   "id": "0808a6aad5e9c21f1ec692d734b7f701",
-   "company": "944game Inc",
-   "role": "Manufacturing Technician Ii - (t2) First Shift",
-   "location": "Austin"
-  },
-  "9e970b073731100cde2b3598d615176f": {
-   "id": "9e970b073731100cde2b3598d615176f",
-   "company": "CB2",
-   "role": "Facilities Automation Technician I",
-   "location": "Chicago"
-  },
-  "efeca971f2f05fcca69d0a0c1a5f7c68": {
-   "id": "efeca971f2f05fcca69d0a0c1a5f7c68",
-   "company": "Jobgether",
-   "role": "Field Plc Engineer",
-   "location": "United States"
-  },
-  "58fce36fc79320f1a408cecd62ba5731": {
-   "id": "58fce36fc79320f1a408cecd62ba5731",
-   "company": "Mvrcareers",
-   "role": "Maintenance Technician",
-   "location": "Honolulu"
-  },
-  "7bcddf691e32bba80a16e49ed84d79e7": {
-   "id": "7bcddf691e32bba80a16e49ed84d79e7",
-   "company": "ATS Corporation",
-   "role": "Field Service Technician - Install",
-   "location": "Unknown"
-  },
-  "06eeb127a6ebedece3cb64472e64cb87": {
-   "id": "06eeb127a6ebedece3cb64472e64cb87",
-   "company": "Cascades Inc",
-   "role": "Industrial Maintenance Technician",
-   "location": "Seattle"
-  },
-  "ff9ccbdb40c9140378b01cfe5803481d": {
-   "id": "ff9ccbdb40c9140378b01cfe5803481d",
-   "company": "Packsize",
-   "role": "Machine Technician - Fletcher, Nc",
-   "location": "Denver"
-  },
-  "30b082819354cc80361f2cb0dda2a3bb": {
-   "id": "30b082819354cc80361f2cb0dda2a3bb",
-   "company": "Specialized",
-   "role": "Service Technician - Incycle - San Dimas, Ca",
-   "location": "Los Angeles"
-  },
-  "4c79e9379a6ad9f635b42a45c04215bb": {
-   "id": "4c79e9379a6ad9f635b42a45c04215bb",
-   "company": "Bridgestone Retail Operations",
-   "role": "Sales And Service Technician",
-   "location": "Northwoods"
-  },
-  "35cec61a5bbe6aaa000dd38780de4fc1": {
-   "id": "35cec61a5bbe6aaa000dd38780de4fc1",
-   "company": "Bridgestone Retail Operations (BSRO)",
-   "role": "Sales And Service Technician",
-   "location": "United States"
-  },
-  "5d6cb47df9ccd95c1b82f39e20be2ce9": {
-   "id": "5d6cb47df9ccd95c1b82f39e20be2ce9",
-   "company": "Northrop Grumman",
-   "role": "U105 Manufacturing Operations Maintenance Technician - 4th Shift",
-   "location": "Baltimore"
-  },
-  "257769a7dbaf882f4cb39c182d0fd324": {
-   "id": "257769a7dbaf882f4cb39c182d0fd324",
-   "company": "hyve solutionsA AA",
-   "role": "Repair Technician",
-   "location": "Memphis"
-  },
-  "ba770d7db3517ca01ec338903839db2b": {
-   "id": "ba770d7db3517ca01ec338903839db2b",
-   "company": "hyve solutionsA AA",
-   "role": "Facilities Technician",
-   "location": "Memphis"
-  },
-  "61862def4438e222c57b10802f633c7e": {
-   "id": "61862def4438e222c57b10802f633c7e",
-   "company": "Trane Technologies",
-   "role": "Hvac Technician",
-   "location": "Atlanta"
-  },
-  "24e6f7e84a3c380120bca0886d7fa14d": {
-   "id": "24e6f7e84a3c380120bca0886d7fa14d",
-   "company": "Charles Schwab & Company Inc.",
-   "role": "Tire Technician - Sacramento West #645",
-   "location": "Sacramento"
-  },
-  "7a3c22f7b6f39e7115e4f775dbe5d641": {
-   "id": "7a3c22f7b6f39e7115e4f775dbe5d641",
-   "company": "CAE",
-   "role": "Simulator Technician I (parksouth)",
-   "location": "Orlando"
-  },
-  "b6749a42c0ddadb3e1b15a72078c59dc": {
-   "id": "b6749a42c0ddadb3e1b15a72078c59dc",
-   "company": "Lowlevelliving",
-   "role": "Maintenance Associate - Ft - Days",
-   "location": "Luther Crest"
-  },
-  "057fa6e9fc0d492a22afcb08004e225e": {
-   "id": "057fa6e9fc0d492a22afcb08004e225e",
-   "company": "Memorial Hospital West",
-   "role": "Environmental Service Technician - Ft - Evenings - Mhw",
-   "location": "Miami"
-  },
-  "64455d275f781056392e5630a3ab25f0": {
-   "id": "64455d275f781056392e5630a3ab25f0",
-   "company": "Sofidel spa",
-   "role": "Mechanical Technician",
-   "location": "Columbus"
-  },
-  "cb455817d7ba351a94e78955b7055851": {
-   "id": "cb455817d7ba351a94e78955b7055851",
-   "company": "Sofidel spa",
-   "role": "Electrical And Mechanical Technician",
-   "location": "Las Vegas"
-  },
-  "58b76d95a4842d65cb954238587f8c89": {
-   "id": "58b76d95a4842d65cb954238587f8c89",
-   "company": "Cook Children's Health Plan",
-   "role": "Building Technician I",
-   "location": "Dallas"
-  },
-  "0f17ada193699ae350779c8c0cfa49d6": {
-   "id": "0f17ada193699ae350779c8c0cfa49d6",
-   "company": "Zrsmanagement",
-   "role": "Full Time Maintenance Technician",
-   "location": "Orlando"
-  },
-  "f9b9ed678702a616cd67ba34930f5cdc": {
-   "id": "f9b9ed678702a616cd67ba34930f5cdc",
-   "company": "MAHLE Industries Inc",
-   "role": "Maintenance Technician",
-   "location": "Memphis"
-  },
-  "845955231fce59942976c88dda214ab7": {
-   "id": "845955231fce59942976c88dda214ab7",
-   "company": "Greenberg Traurig (GT)",
-   "role": "Client Maintenance Specialist",
-   "location": "Phoenix"
-  },
-  "e0902336adf5e95322a72074909a173a": {
-   "id": "e0902336adf5e95322a72074909a173a",
-   "company": "Massey Services, Inc.",
-   "role": "Apartment Technician - Charlotte",
-   "location": "Charlotte"
-  },
-  "91d40f3b7b26d1c453e5d0a20d067427": {
-   "id": "91d40f3b7b26d1c453e5d0a20d067427",
-   "company": "Massey Services, Inc.",
-   "role": "Apartment Technician - Clermont",
-   "location": "Orlando"
-  },
-  "74cd26429a961129501dbd8dfef7debb": {
-   "id": "74cd26429a961129501dbd8dfef7debb",
-   "company": "Massey Services, Inc.",
-   "role": "Apartment Technician - North Orlando",
-   "location": "Orlando"
-  },
-  "b61ef71afcd0856a5aaf97fb216a29eb": {
-   "id": "b61ef71afcd0856a5aaf97fb216a29eb",
-   "company": "National Church Residences",
-   "role": "Maintenance Technician",
-   "location": "Columbus"
-  },
-  "25977a9998e18e085cfb871489495b0c": {
-   "id": "25977a9998e18e085cfb871489495b0c",
-   "company": "Telexpo Com Br",
-   "role": "Field Service/start-up Engineer - Ct",
-   "location": "North Phoenix"
-  },
-  "fdd55988cdda6ef4994919bc0856dea3": {
-   "id": "fdd55988cdda6ef4994919bc0856dea3",
-   "company": "Z Modular",
-   "role": "Maintenance Technician - San Tan, Az",
-   "location": "Phoenix"
-  },
-  "5eec3d767fd9eb19c102c6438291933f": {
-   "id": "5eec3d767fd9eb19c102c6438291933f",
-   "company": "Levis Media",
-   "role": "Facilities Technician",
-   "location": "Las Vegas"
-  },
-  "3c681764f24a406c1b903f4c5c550ed3": {
-   "id": "3c681764f24a406c1b903f4c5c550ed3",
-   "company": "South Texas College",
-   "role": "Direct Wage - Customer Service Technician",
-   "location": "Pecan Campus"
-  },
-  "52c31e727ba220f4332f328ddeeccc6d": {
-   "id": "52c31e727ba220f4332f328ddeeccc6d",
-   "company": "The Ritz-Carlton",
-   "role": "Maintenance",
-   "location": "Dallas"
+   "location": "Bloomington"
   },
   "9706de9ec640d17b775bb50229ea5571": {
    "id": "9706de9ec640d17b775bb50229ea5571",
@@ -4934,239 +4964,239 @@
    "role": "Warehouse Associate - Door, Frame, & Hardware Assembler - Kennesaw, Ga",
    "location": "Atlanta"
   },
+  "f02391357bea503851392b4b3fc1188d": {
+   "id": "f02391357bea503851392b4b3fc1188d",
+   "company": "TJX Winners HomeSense",
+   "role": "Retail Sales Associate Newark, Ny",
+   "location": "New York"
+  },
+  "6a0a1a0211df9156bcd343a5806dfe16": {
+   "id": "6a0a1a0211df9156bcd343a5806dfe16",
+   "company": "Border States",
+   "role": "Warehouse Associate - Wire Cutter",
+   "location": "Bloomington"
+  },
+  "b863ba51b1afc21336e829d5a8e95c34": {
+   "id": "b863ba51b1afc21336e829d5a8e95c34",
+   "company": "Dufry (Avolta)",
+   "role": "Hudson Sales Associate",
+   "location": "Pittsburgh"
+  },
+  "c9656f9ece4e9b51d0cd78717a86c66d": {
+   "id": "c9656f9ece4e9b51d0cd78717a86c66d",
+   "company": "La-Z-Boy Incorporated",
+   "role": "Full Time Sales Assoicate",
+   "location": "Chicago"
+  },
+  "7ca4c25a6a1fe20700f24459d3af65a5": {
+   "id": "7ca4c25a6a1fe20700f24459d3af65a5",
+   "company": "La-Z-Boy Incorporated",
+   "role": "Full Time Sales Associate",
+   "location": "Milwaukee"
+  },
+  "0d37bc80244ca0439fa7d3572760d0b2": {
+   "id": "0d37bc80244ca0439fa7d3572760d0b2",
+   "company": "Mattress Firm Inc",
+   "role": "Warehouse Associate",
+   "location": "Columbus"
+  },
+  "2c5f5fbbe4567567b7a47e8fa80d5552": {
+   "id": "2c5f5fbbe4567567b7a47e8fa80d5552",
+   "company": "Johnson Controls International PLC",
+   "role": "System Integrity Sales Associate",
+   "location": "New York"
+  },
+  "77a77b9e7ef4ab093bd01c78cb93c849": {
+   "id": "77a77b9e7ef4ab093bd01c78cb93c849",
+   "company": "Capital One",
+   "role": "Emerging Sales Associate - August 2027",
+   "location": "Dallas"
+  },
+  "658fea4590c0e5791fa2691bb72d0c77": {
+   "id": "658fea4590c0e5791fa2691bb72d0c77",
+   "company": "Marshalls At TJX Companies",
+   "role": "Sales Associate (temp)",
+   "location": "Baltimore"
+  },
+  "ddbcb185595035a38ceba3b651c8258b": {
+   "id": "ddbcb185595035a38ceba3b651c8258b",
+   "company": "TJX Companies",
+   "role": "Part Time Sales Associate",
+   "location": "Columbus"
+  },
+  "5f3f2ea18160fa13b6a37015d85cb2f8": {
+   "id": "5f3f2ea18160fa13b6a37015d85cb2f8",
+   "company": "TJX Companies",
+   "role": "Retail Sales Associate",
+   "location": "West Chester"
+  },
+  "fe8e3c607cefba66f12726cb65eaf419": {
+   "id": "fe8e3c607cefba66f12726cb65eaf419",
+   "company": "TJX Companies",
+   "role": "Part-time Retail Sales Associate",
+   "location": "St Louis"
+  },
+  "2f4e4cbb1c4324150772df02adb6d704": {
+   "id": "2f4e4cbb1c4324150772df02adb6d704",
+   "company": "TJX Companies",
+   "role": "Merchandising",
+   "location": "Marquette"
+  },
+  "0f0c57bacd5a6e6aae11e60d27db48b0": {
+   "id": "0f0c57bacd5a6e6aae11e60d27db48b0",
+   "company": "Marshalls At TJX Companies",
+   "role": "Retail Sales Associate",
+   "location": "St Louis"
+  },
+  "8f4de803236c45260b8bcd9d809c986e": {
+   "id": "8f4de803236c45260b8bcd9d809c986e",
+   "company": "TJ Maxx",
+   "role": "Retail Associate",
+   "location": "Los Angeles"
+  },
+  "986c679ecba69a67073b4e43a73563eb": {
+   "id": "986c679ecba69a67073b4e43a73563eb",
+   "company": "Sierra At TJX Companies",
+   "role": "Pt Retail Associate",
+   "location": "Paducah"
+  },
+  "418f92c3d7638052c1be42bed43f2553": {
+   "id": "418f92c3d7638052c1be42bed43f2553",
+   "company": "Marshalls At TJX Companies",
+   "role": "Seasonal Associate (open Availability/ Weekends Required)",
+   "location": "Birmingham"
+  },
+  "9560cdad088ed3697fc4339a197545fc": {
+   "id": "9560cdad088ed3697fc4339a197545fc",
+   "company": "TJ Maxx",
+   "role": "Sales Associate",
+   "location": "Bloomington"
+  },
+  "1ae49d894cd92c935fa0a8af26d2c33c": {
+   "id": "1ae49d894cd92c935fa0a8af26d2c33c",
+   "company": "Marshalls At TJX Companies",
+   "role": "Sales Associate",
+   "location": "New York"
+  },
+  "01971214a9a2271e09b48d86cae87d0b": {
+   "id": "01971214a9a2271e09b48d86cae87d0b",
+   "company": "Marshalls At TJX Companies",
+   "role": "Now Hiring: Temporary Associates For The Holiday Season",
+   "location": "Chicago"
+  },
+  "be92ae0009d63bbc63d9bf295827163f": {
+   "id": "be92ae0009d63bbc63d9bf295827163f",
+   "company": "HomeGoods",
+   "role": "Part Time Seasonal Positions Available!",
+   "location": "New York"
+  },
+  "827d4d74e673b61a3184dbde125167cb": {
+   "id": "827d4d74e673b61a3184dbde125167cb",
+   "company": "Marshalls At TJX Companies",
+   "role": "Now Hiring $15/hr Seasonal/temporary Associate",
+   "location": "Weaverville"
+  },
+  "7d47f3108a6630b9f392291775332200": {
+   "id": "7d47f3108a6630b9f392291775332200",
+   "company": "Marshalls At TJX Companies",
+   "role": "Customer Experience Coordinator",
+   "location": "Blairsville"
+  },
+  "40243d74d4edca1d5bada02939885379": {
+   "id": "40243d74d4edca1d5bada02939885379",
+   "company": "TJX Companies",
+   "role": "Full-time Sales Associate",
+   "location": "Cleveland"
+  },
+  "0c8eb3b1cc1e6588823e2689804eab70": {
+   "id": "0c8eb3b1cc1e6588823e2689804eab70",
+   "company": "Encore Global",
+   "role": "Warehouse Associate – Coppell",
+   "location": "Dallas"
+  },
+  "ce219b06623cc34258faf2210066468e": {
+   "id": "ce219b06623cc34258faf2210066468e",
+   "company": "Encore Global",
+   "role": "Warehouse Associate ( Picker Or Receiver) Distribution Processing Center, Coppell - $500 Sign-on Bonus!",
+   "location": "Dallas"
+  },
   "01126c9835a6fe16f65e2d9a5672c911": {
    "id": "01126c9835a6fe16f65e2d9a5672c911",
    "company": "BAYADA Home Health Care",
    "role": "Sales Associate, Home Health",
    "location": "Charlotte"
   },
-  "c7bc2bc83b75e2d8f74b02592666db0f": {
-   "id": "c7bc2bc83b75e2d8f74b02592666db0f",
-   "company": "Sixt",
-   "role": "Rental Sales Agent (miami Dadeland)",
-   "location": "Miami"
+  "bf0971377403b21e8c771e117cf84b5a": {
+   "id": "bf0971377403b21e8c771e117cf84b5a",
+   "company": "Motionsolutions",
+   "role": "Store Pro",
+   "location": "Austin"
   },
-  "43bee3ab714230e9b34eb3b300ee15d5": {
-   "id": "43bee3ab714230e9b34eb3b300ee15d5",
-   "company": "Lowe's",
-   "role": "Full Time - Sales Associate - Hardware - Day",
-   "location": "Atlanta"
+  "0d6466e00d2e561da548b3707a544136": {
+   "id": "0d6466e00d2e561da548b3707a544136",
+   "company": "DISH Network",
+   "role": "Warehouse Associate",
+   "location": "Kansas City"
   },
-  "7f0714d9ac3acb6882c45bfc5e7c4c0a": {
-   "id": "7f0714d9ac3acb6882c45bfc5e7c4c0a",
-   "company": "Lowe's",
-   "role": "Full Time - Sales Associate - Flooring - Day",
-   "location": "Charlotte"
-  },
-  "ea412ae4b333d662683720e3d1350f8e": {
-   "id": "ea412ae4b333d662683720e3d1350f8e",
-   "company": "Lowe's",
-   "role": "Full Time - Sales Associate - Outside Lawn & Garden - Day",
-   "location": "Provo"
-  },
-  "8183b15fe79fa458171d8313e1666cb5": {
-   "id": "8183b15fe79fa458171d8313e1666cb5",
-   "company": "Lowe's",
-   "role": "Full Time - Sales Associate - Plumbing - Opening",
-   "location": "Queensbury"
-  },
-  "4f857c6c64a6cc71915ec824ca94cfdb": {
-   "id": "4f857c6c64a6cc71915ec824ca94cfdb",
-   "company": "Lowe's",
-   "role": "Full Time - Sales Associate - Building Materials - Day",
-   "location": "Tappahannock"
-  },
-  "8498012b99e62081960f4070dab79688": {
-   "id": "8498012b99e62081960f4070dab79688",
-   "company": "Lowe's",
-   "role": "Full Time - Merchandising Service Associate - Day",
-   "location": "Forsyth"
-  },
-  "ed9eead69cbeaf37e3e53c648658507f": {
-   "id": "ed9eead69cbeaf37e3e53c648658507f",
-   "company": "Reformation",
-   "role": "Sales Associate, Part-time - Chestnut Hill",
-   "location": "Boston"
-  },
-  "ac7913732cf03cf4f3d3788ce07a9add": {
-   "id": "ac7913732cf03cf4f3d3788ce07a9add",
-   "company": "Coach (Tapestry, Inc.)",
-   "role": "Sales Associate Ii",
-   "location": "New York"
-  },
-  "32ce34287f805e34f45050db03d77b70": {
-   "id": "32ce34287f805e34f45050db03d77b70",
-   "company": "LOVISA",
-   "role": "Retail Sales Associates - Freehold Raceway",
-   "location": "New York"
-  },
-  "86ec954db175583399406cafa588411c": {
-   "id": "86ec954db175583399406cafa588411c",
-   "company": "LOVISA",
-   "role": "Retail Sales Associates - Cherry Hill",
-   "location": "Philadelphia"
-  },
-  "4926bfe03ac2d9947e6f3c9cd77c8f85": {
-   "id": "4926bfe03ac2d9947e6f3c9cd77c8f85",
-   "company": "Colliers Paragon LLC",
-   "role": "Associate, Multifamily Investment Sales",
-   "location": "Charlotte"
-  },
-  "6151539e02c46f6074841fc6cede2a38": {
-   "id": "6151539e02c46f6074841fc6cede2a38",
-   "company": "Capital Group",
-   "role": "Campus: Internal Sales (slate) Associate 2027 (carmel, In)",
-   "location": "Indianapolis"
-  },
-  "db59803a052f94226d4a9596460fe427": {
-   "id": "db59803a052f94226d4a9596460fe427",
-   "company": "White Cap",
-   "role": "Counter Sales Associate",
-   "location": "Bloomington"
-  },
-  "29a0906e6997fa933c6128885bdd69ba": {
-   "id": "29a0906e6997fa933c6128885bdd69ba",
-   "company": "Barry Callebaut AG",
-   "role": "Associate, Warehouse",
-   "location": "Chicago"
-  },
-  "91fd26dba1004997a6b691aa2e111116": {
-   "id": "91fd26dba1004997a6b691aa2e111116",
-   "company": "Wild Fork Foods",
-   "role": "Jbs Usa Careers - Retail Sales Associate – Davie",
-   "location": "Miami"
-  },
-  "3e0332991eefd164414421514cc983b0": {
-   "id": "3e0332991eefd164414421514cc983b0",
-   "company": "University of Arkansas for Medical Sciences",
-   "role": "Patient Services Associate - Bhsl",
-   "location": "Little Rock"
-  },
-  "6ef92effedc22b8fab3722040ecf27e4": {
-   "id": "6ef92effedc22b8fab3722040ecf27e4",
-   "company": "Banco Popular",
-   "role": "Sales And Service Associate",
-   "location": "New York"
-  },
-  "3c32440067f0c1bf488967a51abd77b2": {
-   "id": "3c32440067f0c1bf488967a51abd77b2",
-   "company": "CB2",
-   "role": "Sales Associate, Hg",
-   "location": "San Jose"
-  },
-  "f2558030b3169a184bd19e98c8f87ef1": {
-   "id": "f2558030b3169a184bd19e98c8f87ef1",
-   "company": "CB2",
-   "role": "Merchandise Handler I",
-   "location": "Chicago"
-  },
-  "852419c18549d301b5f3863eb1609eeb": {
-   "id": "852419c18549d301b5f3863eb1609eeb",
-   "company": "SS&C Technologies",
+  "54abd7f60e56044ea7e37a4340e6d4bc": {
+   "id": "54abd7f60e56044ea7e37a4340e6d4bc",
+   "company": "Carter's, Inc.",
    "role": "Sales Associate",
-   "location": "Chicago"
-  },
-  "81632fcbc021cb2a533482898eb83d1a": {
-   "id": "81632fcbc021cb2a533482898eb83d1a",
-   "company": "KnitWell Group",
-   "role": "Sales Associate, Tanger Outlets, North Charleston",
    "location": "Charleston"
   },
-  "7469d9c66f956605667b73623822c074": {
-   "id": "7469d9c66f956605667b73623822c074",
-   "company": "KnitWell Group",
-   "role": "Sales Associate-loft Outlet",
-   "location": "Houston"
+  "578da6ba0509138ce787d450664a5b9f": {
+   "id": "578da6ba0509138ce787d450664a5b9f",
+   "company": "Stevinson Toyota West",
+   "role": "Sales Advisor Stevinson Toyota West",
+   "location": "Denver"
   },
-  "e5e27fe675572b5620686152334360e7": {
-   "id": "e5e27fe675572b5620686152334360e7",
-   "company": "KnitWell Group",
-   "role": "Sales Associate-ann",
-   "location": "Tulsa"
+  "bd0e6a8ce9ddafb8c1a7f2b1db14eb7e": {
+   "id": "bd0e6a8ce9ddafb8c1a7f2b1db14eb7e",
+   "company": "TOMMY HILFIGER",
+   "role": "Temporary Sales Associate - Part-time",
+   "location": "Philadelphia"
   },
-  "e9d20251600b7c9f45ab9bf91fb68d9e": {
-   "id": "e9d20251600b7c9f45ab9bf91fb68d9e",
-   "company": "KnitWell Group",
-   "role": "Sales Associate, Outlet Shoppes Of The Bluegrass",
-   "location": "Simpsonville"
-  },
-  "13d5ba536e5fbdb9930e5d98ccce9bcd": {
-   "id": "13d5ba536e5fbdb9930e5d98ccce9bcd",
-   "company": "LOFT",
-   "role": "Sales Associate-ann",
-   "location": "Sioux Falls"
-  },
-  "dec9d6d1656eddaa243d9f7e6662f535": {
-   "id": "dec9d6d1656eddaa243d9f7e6662f535",
-   "company": "KnitWell Group",
-   "role": "Associate, Market East",
-   "location": "Dallas"
-  },
-  "2062fa37e9c56ce832cf80fa4bc6afaf": {
-   "id": "2062fa37e9c56ce832cf80fa4bc6afaf",
-   "company": "Talbots",
-   "role": "Sales Associate Key Silver Sands Outlet",
-   "location": "Navarre"
-  },
-  "ddb7217fb895151eb1842ad3d3e54389": {
-   "id": "ddb7217fb895151eb1842ad3d3e54389",
-   "company": "Ann Taylor",
-   "role": "Sales Associate-ann",
-   "location": "New York"
-  },
-  "dbea64e2865f0a3cb72ee6fd22d19ff9": {
-   "id": "dbea64e2865f0a3cb72ee6fd22d19ff9",
-   "company": "KnitWell Group",
-   "role": "Sales Associate-loft Outlet, Vero Beach Outlets, Fl",
-   "location": "Port St Lucie"
-  },
-  "924790ddcefa1435c876458a890d174c": {
-   "id": "924790ddcefa1435c876458a890d174c",
-   "company": "KnitWell Group",
-   "role": "Sales Associate Johnson Creek Outlet",
-   "location": "Johnson Creek"
-  },
-  "d6beadc97c11c211eef372aad056460d": {
-   "id": "d6beadc97c11c211eef372aad056460d",
-   "company": "Pradagroup",
-   "role": "Client Advisor, South Coast Plaza",
-   "location": "Los Angeles"
-  },
-  "76606368956adc3147d885ce8118ad35": {
-   "id": "76606368956adc3147d885ce8118ad35",
-   "company": "Pradagroup",
-   "role": "Miu Miu Client Advisor Saks Fifth Ave. Boston",
-   "location": "Boston"
-  },
-  "498d6b86a67c5359e9ff9a63b3559144": {
-   "id": "498d6b86a67c5359e9ff9a63b3559144",
-   "company": "iAnthus",
-   "role": "Dispensary Associate - Growhealthy (miami)",
-   "location": "Miami"
-  },
-  "73a5b8df9f48f84e4247ba81bdf1834d": {
-   "id": "73a5b8df9f48f84e4247ba81bdf1834d",
-   "company": "Fashionphile",
-   "role": "Fashionphile Careers - Retail Sales Associate",
-   "location": "Los Angeles"
-  },
-  "2b17f13b96a469290a7a29bde9cd0ff0": {
-   "id": "2b17f13b96a469290a7a29bde9cd0ff0",
-   "company": "The Baldwin Group",
-   "role": "Associate Advisor, Commercial Risk - Insurance Advisory Solutions",
-   "location": "Los Angeles"
-  },
-  "ec905507aa2274a8d67340ab0118e806": {
-   "id": "ec905507aa2274a8d67340ab0118e806",
-   "company": "The William Carter Company",
+  "a114a75e4d5d5808e57272daea5028f1": {
+   "id": "a114a75e4d5d5808e57272daea5028f1",
+   "company": "For Eyes",
    "role": "Sales Associate",
-   "location": "Concord"
+   "location": "Chicago"
   },
-  "b332ceddf4b2da508539ceac45b1af78": {
-   "id": "b332ceddf4b2da508539ceac45b1af78",
-   "company": "O'Reilly Automotive",
-   "role": "Merchandiser/cashier",
-   "location": "United States"
+  "f57aaec1f605a100e2edb4e21b1155b0": {
+   "id": "f57aaec1f605a100e2edb4e21b1155b0",
+   "company": "Sunglass Hut",
+   "role": "Sales Associate 2nd Floor Macys",
+   "location": "Honolulu"
+  },
+  "5f5c8f072305b8629b7a1785f7395f71": {
+   "id": "5f5c8f072305b8629b7a1785f7395f71",
+   "company": "Luxottica Retail Australia Pty Ltd",
+   "role": "Kailua Casual Part-time Sales Associate",
+   "location": "Honolulu"
+  },
+  "158f8101354493ef5933679320c2d70d": {
+   "id": "158f8101354493ef5933679320c2d70d",
+   "company": "Target Optical",
+   "role": "Sales Associate",
+   "location": "Portland"
+  },
+  "210154afa72b436f7e4b2ac6959bb95d": {
+   "id": "210154afa72b436f7e4b2ac6959bb95d",
+   "company": "Luxottica Retail Australia Pty Ltd",
+   "role": "Sales Associate",
+   "location": "Wailea"
+  },
+  "67c616ebc9c586bdbc18acc843860971": {
+   "id": "67c616ebc9c586bdbc18acc843860971",
+   "company": "Sunglass Hut",
+   "role": "Casual Pt Luxury Retail Sales Associate Sunglass Hut Macys Cherry Creek",
+   "location": "Denver"
+  },
+  "726fd06b2731409ccdf0ea35ad831167": {
+   "id": "726fd06b2731409ccdf0ea35ad831167",
+   "company": "Texas AirSystems",
+   "role": "Warehouse Associate",
+   "location": "Dallas"
   },
   "ac0d72894fb6984ee5bea225047a1455": {
    "id": "ac0d72894fb6984ee5bea225047a1455",
@@ -5246,6 +5276,126 @@
    "role": "Clinic Administrative Assistant",
    "location": "Greenville"
   },
+  "07ee3c1ffefb1c635e2afb3e3644bfc8": {
+   "id": "07ee3c1ffefb1c635e2afb3e3644bfc8",
+   "company": "Greystar Worldwide LLC",
+   "role": "Marketing And Outreach Assistant (lease Up) - Samuel",
+   "location": "Samuel"
+  },
+  "b224e03dc836b3cad513ab5ab7769a14": {
+   "id": "b224e03dc836b3cad513ab5ab7769a14",
+   "company": "Parsons",
+   "role": "Project Administrator",
+   "location": "United States"
+  },
+  "5d776b94093e3abcf1f160bfe47cde33": {
+   "id": "5d776b94093e3abcf1f160bfe47cde33",
+   "company": "Sedgwick Australia Pty Ltd",
+   "role": "Administrative Assistant",
+   "location": "Chicago"
+  },
+  "63fda305ec06b5ab9376fbd3c0655321": {
+   "id": "63fda305ec06b5ab9376fbd3c0655321",
+   "company": "Westinghouse Electric Company LLC",
+   "role": "Administrative Assistant",
+   "location": "Pensacola"
+  },
+  "e63fb3407a227f1b2bbff904197f8c2c": {
+   "id": "e63fb3407a227f1b2bbff904197f8c2c",
+   "company": "Marshalls At TJX Companies",
+   "role": "Customer Service Coordinator",
+   "location": "York"
+  },
+  "66021df425503f34a53aea1f342a5d74": {
+   "id": "66021df425503f34a53aea1f342a5d74",
+   "company": "Nemacolin Resort",
+   "role": "Project Coordinator, Venues - Nemacolin Resort",
+   "location": "Nemacolin"
+  },
+  "375a93a166e0103a31fbd0d8ae7ef064": {
+   "id": "375a93a166e0103a31fbd0d8ae7ef064",
+   "company": "Encore Global",
+   "role": "National College Leadership Program - Miami & Ft Lauderdale, Fl",
+   "location": "Miami"
+  },
+  "15892ee7992e5fb9e9760d415cd8199d": {
+   "id": "15892ee7992e5fb9e9760d415cd8199d",
+   "company": "Cacijobapplication",
+   "role": "Business Development Specialist",
+   "location": "Dallas"
+  },
+  "eef06e267425d7823d81d59de6c58e65": {
+   "id": "eef06e267425d7823d81d59de6c58e65",
+   "company": "24 Hour Home Care",
+   "role": "Bilingual Customer Service Coordinator",
+   "location": "Los Angeles"
+  },
+  "7504db701f3da8a80c1ec2cce06cca14": {
+   "id": "7504db701f3da8a80c1ec2cce06cca14",
+   "company": "ALO / Australia",
+   "role": "Operations Associate (full-time) - Soho",
+   "location": "Soho"
+  },
+  "c4dc0722a5bd7e7a54e9858021274652": {
+   "id": "c4dc0722a5bd7e7a54e9858021274652",
+   "company": "Abbott Diabetes Care",
+   "role": "Mitraclip Specialist I",
+   "location": "Hartford"
+  },
+  "e63e1886e2857c31bd63eb87bd862378": {
+   "id": "e63e1886e2857c31bd63eb87bd862378",
+   "company": "PCL Constructors Inc",
+   "role": "Administrative Assistant",
+   "location": "Lafayette"
+  },
+  "7065f2ea9b5eafb17f8fc5acea07ded9": {
+   "id": "7065f2ea9b5eafb17f8fc5acea07ded9",
+   "company": "PCL Constructors Inc",
+   "role": "Marketing/proposal Student",
+   "location": "Los Angeles"
+  },
+  "10d8070cb988db0245643127517cf208": {
+   "id": "10d8070cb988db0245643127517cf208",
+   "company": "American Airlines Group",
+   "role": "Executive Assistant, Md",
+   "location": "Philadelphia"
+  },
+  "9a18b074f9169063725a4c512d763014": {
+   "id": "9a18b074f9169063725a4c512d763014",
+   "company": "Nutrien Ltd",
+   "role": "Administrative Coordinator - Auburn, Mi",
+   "location": "Seattle"
+  },
+  "843de7ed6d01293de2e6c44becad40c0": {
+   "id": "843de7ed6d01293de2e6c44becad40c0",
+   "company": "Nutrien Ltd",
+   "role": "Administrative Coordinator",
+   "location": "Toledo"
+  },
+  "c3a58f942b038aa433b6ba2944833298": {
+   "id": "c3a58f942b038aa433b6ba2944833298",
+   "company": "Schaeffler",
+   "role": "Executive Assistant - President Of Vehicle Lifetime Solutions- Americas",
+   "location": "Charlotte"
+  },
+  "3412150247be649b4974142f419c82dd": {
+   "id": "3412150247be649b4974142f419c82dd",
+   "company": "Schaeffler",
+   "role": "Specialist - Material Management",
+   "location": "Charlotte"
+  },
+  "a9c036ed1bd4f72453a144eb2adb9073": {
+   "id": "a9c036ed1bd4f72453a144eb2adb9073",
+   "company": "Schaeffler",
+   "role": "Administrative Assistant",
+   "location": "Akron"
+  },
+  "66a74eed5df1c85b186137c704ce2926": {
+   "id": "66a74eed5df1c85b186137c704ce2926",
+   "company": "Schaeffler",
+   "role": "Co-op - Administrative Assistant - Fall 2026",
+   "location": "Charlotte"
+  },
   "5bd34c4960eaaee941afe6ec9ec77c24": {
    "id": "5bd34c4960eaaee941afe6ec9ec77c24",
    "company": "University of Florida",
@@ -5269,6 +5419,12 @@
    "company": "Cavco Industries, Inc.",
    "role": "Safety Coordinator",
    "location": "Lake Arlington"
+  },
+  "4d49d153aad57536004ef9d24cc7ae91": {
+   "id": "4d49d153aad57536004ef9d24cc7ae91",
+   "company": "Erc8585757pathlight53t353",
+   "role": "Program Coordinator",
+   "location": "Md"
   },
   "25bf8ac3e8b29529a8649e3a5e5ad2e1": {
    "id": "25bf8ac3e8b29529a8649e3a5e5ad2e1",
@@ -5521,132 +5677,6 @@
    "company": "Elevance Health",
    "role": "Referral Specialist I",
    "location": "Chicago"
-  },
-  "266f3b50097a6632e14ec7a3f1f288f5": {
-   "id": "266f3b50097a6632e14ec7a3f1f288f5",
-   "company": "Stlukesphlebotomy",
-   "role": "Activity Coordinator-prn",
-   "location": "Kansas City"
-  },
-  "29f1cecc089309670df2862857c378c4": {
-   "id": "29f1cecc089309670df2862857c378c4",
-   "company": "WYNDHAM",
-   "role": "In House Marketing Coordinator",
-   "location": "Destin Area"
-  },
-  "38c4d631ad6d7855fab80383151710c0": {
-   "id": "38c4d631ad6d7855fab80383151710c0",
-   "company": "Loenbro, LLC",
-   "role": "Adminstrative Assistant",
-   "location": "Memphis"
-  },
-  "e833471eb39fe208749f9aac802895a0": {
-   "id": "e833471eb39fe208749f9aac802895a0",
-   "company": "Thermo Fisher Scientific UK",
-   "role": "Executive Assistant - Laboratory Plastics Essentials",
-   "location": "Boston"
-  },
-  "f2ac60fc5f0fc29e1fbd8870126f9379": {
-   "id": "f2ac60fc5f0fc29e1fbd8870126f9379",
-   "company": "Thermo Fisher Scientific UK",
-   "role": "Do Not Apply - Test Req - Executive Assistant (ne) - St. Louis Us",
-   "location": "St Louis"
-  },
-  "5261af37f9a66817c610aa92bd231a40": {
-   "id": "5261af37f9a66817c610aa92bd231a40",
-   "company": "EssilorLuxottica",
-   "role": "Administrative Assistant- Bilingual",
-   "location": "Dallas"
-  },
-  "a74dd7f7a312d41b11fbcdf4bcb34458": {
-   "id": "a74dd7f7a312d41b11fbcdf4bcb34458",
-   "company": "Nomura International PLC",
-   "role": "Team Assistant, Wholesale",
-   "location": "New York"
-  },
-  "eced19b786e7015853f45d3c0cf314dd": {
-   "id": "eced19b786e7015853f45d3c0cf314dd",
-   "company": "GROWMARK Inc",
-   "role": "Facility Operations Coordinator - New Century Fs - Yankton, Sd",
-   "location": "Yankton"
-  },
-  "e5b4ee8f750b02117da9d2e026a445a2": {
-   "id": "e5b4ee8f750b02117da9d2e026a445a2",
-   "company": "GROWMARK Inc",
-   "role": "Seasonal Grain Scale Operator - Fs Grain - Newark, Il",
-   "location": "New York"
-  },
-  "0c7ef1cd402b4119220a7d431f9cf263": {
-   "id": "0c7ef1cd402b4119220a7d431f9cf263",
-   "company": "GROWMARK Inc",
-   "role": "Seasonal Grain Scale Operator - Fs Grain - Mazon, Il",
-   "location": "Mazon"
-  },
-  "6cc1652cc8d7c80cbb59fbd3fe728038": {
-   "id": "6cc1652cc8d7c80cbb59fbd3fe728038",
-   "company": "GROWMARK Inc",
-   "role": "Administrative Assistant/billing Clerk - Wabash Valley Service Company - West Liberty, Il",
-   "location": "Houston"
-  },
-  "d8c849672430d44b8c7e9f8aaabef852": {
-   "id": "d8c849672430d44b8c7e9f8aaabef852",
-   "company": "GRAINCO FS, Inc.",
-   "role": "Energy Department Administrative Assistant - Grainco Fs - Newark, Il",
-   "location": "New York"
-  },
-  "9f0d01fff29b4777d5029a440864fcbd": {
-   "id": "9f0d01fff29b4777d5029a440864fcbd",
-   "company": "GROWMARK Inc",
-   "role": "Admin Assistant - Energy - Insight Fs - Jefferson, Wi",
-   "location": "Washington D C"
-  },
-  "acb7807a54a047b4b22f883632b271af": {
-   "id": "acb7807a54a047b4b22f883632b271af",
-   "company": "Worksource Oregon",
-   "role": "Group Life Coordinator 2",
-   "location": "Bend"
-  },
-  "dd9561e6744ac882eac351dd10f9b547": {
-   "id": "dd9561e6744ac882eac351dd10f9b547",
-   "company": "NC State Highway Patrol",
-   "role": "Administrative Specialist",
-   "location": "Greenville"
-  },
-  "c74d75a0ddcf4268508ed94d99861a49": {
-   "id": "c74d75a0ddcf4268508ed94d99861a49",
-   "company": "dpi.nc.gov",
-   "role": "Program Coordinator Ii - Compliance Officer",
-   "location": "Wake County"
-  },
-  "cc9063e2f3b3c0d768b337ec64b78f47": {
-   "id": "cc9063e2f3b3c0d768b337ec64b78f47",
-   "company": "TJX Australia (TK Maxx)",
-   "role": "Fulltime Retail Administrative Coordinator",
-   "location": "Ann Arbor"
-  },
-  "cabfe42029d8a835e65e7a2aafe50041": {
-   "id": "cabfe42029d8a835e65e7a2aafe50041",
-   "company": "Eastman",
-   "role": "Executive Assistant",
-   "location": "Kingsport"
-  },
-  "beb5cec0ededd49fd783099a8f23ab41": {
-   "id": "beb5cec0ededd49fd783099a8f23ab41",
-   "company": "DaVita Kidney Care",
-   "role": "Administrative Assistant (pct)",
-   "location": "Des Moines"
-  },
-  "7bc859a2e738154aa2822fa4c070347b": {
-   "id": "7bc859a2e738154aa2822fa4c070347b",
-   "company": "DaVita Kidney Care",
-   "role": "Administrative Assistant",
-   "location": "Los Angeles"
-  },
-  "869780315da57f746f2237b578611539": {
-   "id": "869780315da57f746f2237b578611539",
-   "company": "Medical University of South Carolina",
-   "role": "Univ-administrative Assistant- Musc Wellness Center",
-   "location": "Charleston"
   }
  }
 }
