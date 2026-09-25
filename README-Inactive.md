@@ -33548,4 +33548,6 @@
 <tr><td>DaVita Kidney Care</td><td>Administrative Assistant (pct)</td><td>Des Moines</td><td>2026-09-25</td></tr>
 <tr><td>DaVita Kidney Care</td><td>Administrative Assistant</td><td>Los Angeles</td><td>2026-09-25</td></tr>
 <tr><td>Medical University of South Carolina</td><td>Univ-administrative Assistant- Musc Wellness Center</td><td>Charleston</td><td>2026-09-25</td></tr>
+<tr><td>Mohegan</td><td>Financial Analyst - Financial Planning & Analysis</td><td>Uncasville</td><td>2026-09-25</td></tr>
+<tr><td>RSM UK</td><td>Experienced Assurance Associate</td><td>Chicago</td><td>2026-09-25</td></tr>
 </table>

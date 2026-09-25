@@ -3536,12 +3536,6 @@
    "role": "Accountant I",
    "location": "Fort Omaha Campus"
   },
-  "be41b14847da2489a59173f0598ecca1": {
-   "id": "be41b14847da2489a59173f0598ecca1",
-   "company": "Mohegan",
-   "role": "Financial Analyst - Financial Planning & Analysis",
-   "location": "Uncasville"
-  },
   "5158cbf39974e826549e38a99164d525": {
    "id": "5158cbf39974e826549e38a99164d525",
    "company": "Jobgether",
@@ -3637,12 +3631,6 @@
    "company": "Jobgether",
    "role": "Compliance Response Specialist I",
    "location": "United States"
-  },
-  "bc3b2a36e998b117e70eeff291f55cad": {
-   "id": "bc3b2a36e998b117e70eeff291f55cad",
-   "company": "RSM UK",
-   "role": "Experienced Assurance Associate",
-   "location": "Chicago"
   },
   "dde2aedc041fc03a066f7aeb99edd491": {
    "id": "dde2aedc041fc03a066f7aeb99edd491",
@@ -3757,6 +3745,18 @@
    "company": "Plante Moran, PLLC",
    "role": "2027 Pm Group Benefits Advisor Analyst",
    "location": "Detroit"
+  },
+  "29cb42adfd6345dfeb91d30648c2b5a2": {
+   "id": "29cb42adfd6345dfeb91d30648c2b5a2",
+   "company": "San Manuel Band of Mission Indians",
+   "role": "Investment Analyst",
+   "location": "Los Angeles"
+  },
+  "7e73b73b223e6dc1cdad112512b53923": {
+   "id": "7e73b73b223e6dc1cdad112512b53923",
+   "company": "Health Care Service Corporation",
+   "role": "Business Analyst",
+   "location": "Chicago"
   },
   "601d9ddf4ef57ee90a49fcf62f73a594": {
    "id": "601d9ddf4ef57ee90a49fcf62f73a594",
