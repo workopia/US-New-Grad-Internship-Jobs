@@ -34041,4 +34041,6 @@
 <tr><td>PCL Constructors Inc</td><td>Marketing/proposal Student</td><td>Los Angeles</td><td>2026-09-26</td></tr>
 <tr><td>American Airlines Group</td><td>Executive Assistant, Md</td><td>Philadelphia</td><td>2026-09-26</td></tr>
 <tr><td>Nutrien Ltd</td><td>Administrative Coordinator - Auburn, Mi</td><td>Seattle</td><td>2026-09-26</td></tr>
+<tr><td>Itron</td><td>Distribution Coordinator I - Materials - B Shift</td><td>South Carolina</td><td>2026-09-26</td></tr>
+<tr><td>AdventHealth West Florida</td><td>Unit Coordinator</td><td>Orlando</td><td>2026-09-26</td></tr>
 </table>

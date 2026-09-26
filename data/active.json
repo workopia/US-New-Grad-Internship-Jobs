@@ -5492,12 +5492,6 @@
    "role": "Administrative Assistant 3 - College Of Liberal Arts, Advising Center",
    "location": "Reno"
   },
-  "b04dacceb4a7932d04cd4488e37d8c3b": {
-   "id": "b04dacceb4a7932d04cd4488e37d8c3b",
-   "company": "Itron",
-   "role": "Distribution Coordinator I - Materials - B Shift",
-   "location": "South Carolina"
-  },
   "d04d6cfbeff8a5ae761b3d76f1dafdf8": {
    "id": "d04d6cfbeff8a5ae761b3d76f1dafdf8",
    "company": "Proassurancegroup",
@@ -5528,11 +5522,11 @@
    "role": "Patient Care Assistant/unit Administrative Assistant - Antepartum/postpartum",
    "location": "Houston"
   },
-  "8504147ca8d2911861b2041a9e5f3111": {
-   "id": "8504147ca8d2911861b2041a9e5f3111",
+  "7932298eef97f58880439617ff7e20fb": {
+   "id": "7932298eef97f58880439617ff7e20fb",
    "company": "AdventHealth West Florida",
    "role": "Unit Coordinator",
-   "location": "Orlando"
+   "location": "Chicago"
   },
   "911e12abdf10fbb79b0f2e0c5ec67fdc": {
    "id": "911e12abdf10fbb79b0f2e0c5ec67fdc",
@@ -5713,6 +5707,12 @@
    "company": "Parsons",
    "role": "Project Administrator",
    "location": "United States"
+  },
+  "5d776b94093e3abcf1f160bfe47cde33": {
+   "id": "5d776b94093e3abcf1f160bfe47cde33",
+   "company": "Sedgwick Australia Pty Ltd",
+   "role": "Administrative Assistant",
+   "location": "Chicago"
   }
  }
 }

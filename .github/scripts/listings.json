@@ -12,8 +12,8 @@
   "as_of": "2026-09-26",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 353587,
-  "generated_at": "2026-09-26T10:30:22.776Z"
+  "country_live_total": 352955,
+  "generated_at": "2026-09-26T13:32:40.560Z"
  },
  "categories": [
   {
@@ -15630,23 +15630,6 @@
    "tier": "Entry-level"
   },
   {
-   "salary_display": null,
-   "id": "b04dacceb4a7932d04cd4488e37d8c3b",
-   "source": "Workopia",
-   "company_name": "Itron",
-   "company_hi_slug": "itron",
-   "title": "Distribution Coordinator I - Materials - B Shift",
-   "location": "South Carolina",
-   "skills": "Select correct parts f, Assure product built t",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-25T08:30:56.248Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/b04dacceb4a7932d04cd4488e37d8c3b",
-   "category": "admin",
-   "tier": "Entry-level"
-  },
-  {
    "salary_display": "$57,575–95,008",
    "id": "d04d6cfbeff8a5ae761b3d76f1dafdf8",
    "source": "Workopia",
@@ -15733,18 +15716,18 @@
   },
   {
    "salary_display": null,
-   "id": "8504147ca8d2911861b2041a9e5f3111",
+   "id": "7932298eef97f58880439617ff7e20fb",
    "source": "Workopia",
    "company_name": "AdventHealth West Florida",
    "company_hi_slug": "adventhealth-west-florida",
    "title": "Unit Coordinator",
-   "location": "Orlando",
-   "skills": "Perform non-clinical d, Access medication room",
+   "location": "Chicago",
+   "skills": "Sufficient knowledge o, Neat and legible handw",
    "sponsorship": false,
    "hot": false,
-   "date_posted": "2026-09-25T06:56:35.385Z",
+   "date_posted": "2026-09-25T06:56:35.344Z",
    "active": true,
-   "url": "https://workopia.io/jobs/8504147ca8d2911861b2041a9e5f3111",
+   "url": "https://workopia.io/jobs/7932298eef97f58880439617ff7e20fb",
    "category": "admin",
    "tier": "Entry-level"
   },
@@ -16255,6 +16238,23 @@
    "date_posted": "2026-09-24T22:58:40.403Z",
    "active": true,
    "url": "https://workopia.io/jobs/b224e03dc836b3cad513ab5ab7769a14",
+   "category": "admin",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": "$19–20/hr",
+   "id": "5d776b94093e3abcf1f160bfe47cde33",
+   "source": "Workopia",
+   "company_name": "Sedgwick Australia Pty Ltd",
+   "company_hi_slug": "sedgwick-australia-pty-ltd",
+   "title": "Administrative Assistant",
+   "location": "Chicago",
+   "skills": "prepare correspondence, maintain records and f",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-09-24T22:48:09.741Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/5d776b94093e3abcf1f160bfe47cde33",
    "category": "admin",
    "tier": "Entry-level"
   }
