@@ -9,11 +9,11 @@
   "site_slug": "united-states",
   "lang": "en",
   "site_live": true,
-  "as_of": "2026-09-25",
+  "as_of": "2026-09-26",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 353932,
-  "generated_at": "2026-09-25T13:27:28.855Z"
+  "country_live_total": 353147,
+  "generated_at": "2026-09-26T01:05:05.577Z"
  },
  "categories": [
   {
@@ -3832,6 +3832,23 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "$71k–120k*",
+   "id": "b93dc9ece3ebffa4054b605096ffcb0c",
+   "source": "Workopia",
+   "company_name": "Ao Ds",
+   "company_hi_slug": "ao-ds",
+   "title": "Wfh Member Support Specialist",
+   "location": "Twin Falls",
+   "skills": "Inbound customer conve, Explain benefit option",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-09-25T16:13:07.664Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/b93dc9ece3ebffa4054b605096ffcb0c",
+   "category": "tech",
+   "tier": "Entry-level"
+  },
+  {
    "salary_display": null,
    "id": "0c9c005ba227853459fefe74b17cc17d",
    "source": "Workopia",
@@ -5175,21 +5192,21 @@
    "tier": "Entry-level"
   },
   {
-   "salary_display": null,
-   "id": "8d19c54e8bfc4ef4bafd76a3b30f76d8",
+   "salary_display": "$53–59/hr",
+   "id": "9779615c5f46d17776bcb05401178a3a",
    "source": "Workopia",
-   "company_name": "Sierra",
-   "company_hi_slug": "sierra",
-   "title": "Software Engineer, Agent - Public Sector",
-   "location": "Concord",
-   "skills": "production-grade AI ag, AI development process",
+   "company_name": "Atlassian",
+   "company_hi_slug": "atlassian",
+   "title": "Data Scientist Intern, 2027 Summer U.S.",
+   "location": "Seattle",
+   "skills": "SQL or other query lan, Python or R for statis",
    "sponsorship": false,
    "hot": false,
-   "date_posted": "2026-09-23T17:06:01.317Z",
+   "date_posted": "2026-09-25 07:16 PM",
    "active": true,
-   "url": "https://workopia.io/jobs/8d19c54e8bfc4ef4bafd76a3b30f76d8",
-   "category": "tech",
-   "tier": "Entry-level"
+   "url": "https://workopia.io/jobs/9779615c5f46d17776bcb05401178a3a",
+   "category": "data",
+   "tier": "Intern"
   },
   {
    "salary_display": "$60.57/hr",
@@ -9357,6 +9374,23 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "$74,300–166,200",
+   "id": "563568453755480",
+   "source": "Workopia",
+   "company_name": "Ford Motor",
+   "company_hi_slug": "ford-motor",
+   "title": "Mp&l Mmp Business Process Analyst",
+   "location": "Detroit",
+   "skills": "SAP S4/HANA Material M, define future state sy",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-09-25T23:57:33.569Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/563568453755480",
+   "category": "finance",
+   "tier": "Entry-level"
+  },
+  {
    "salary_display": null,
    "id": "33cde4e80453f2fc8a3906601ec9c7a4",
    "source": "Workopia",
@@ -10700,20 +10734,20 @@
    "tier": "Entry-level"
   },
   {
-   "salary_display": "$61,500–136,100",
-   "id": "7e73b73b223e6dc1cdad112512b53923",
+   "salary_display": "$22.45–44.85/hr",
+   "id": "f40bff07e0663ce64f32c3355665b299",
    "source": "Workopia",
-   "company_name": "Health Care Service Corporation",
-   "company_hi_slug": "health-care-service-corporation",
-   "title": "Business Analyst",
-   "location": "Chicago",
-   "skills": "end-to-end requirement, stakeholder alignment ",
+   "company_name": "Abbott",
+   "company_hi_slug": "abbott",
+   "title": "Registered Nurse - Patient Educator (prn) Immediate Openings - Seattle, Wa",
+   "location": "Seattle",
+   "skills": "Provide face-to-face t, Operate PT/INR product",
    "sponsorship": false,
    "hot": false,
-   "date_posted": "2026-09-23T12:49:15.103Z",
+   "date_posted": "2026-09-26T00:05:09.261Z",
    "active": true,
-   "url": "https://workopia.io/jobs/7e73b73b223e6dc1cdad112512b53923",
-   "category": "finance",
+   "url": "https://workopia.io/jobs/f40bff07e0663ce64f32c3355665b299",
+   "category": "healthcare",
    "tier": "Entry-level"
   },
   {
@@ -12056,23 +12090,6 @@
    "date_posted": "2026-09-25T01:27:11.370Z",
    "active": true,
    "url": "https://workopia.io/jobs/23244a2e21173401b3d1fd53080f3228",
-   "category": "healthcare",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": null,
-   "id": "c4765b75b119636199e9c656cec8483e",
-   "source": "Workopia",
-   "company_name": "Advocate Illinois Masonic Medical Center",
-   "company_hi_slug": "advocate-illinois-masonic-medical-center",
-   "title": "Registered Nurse (rn) - Cath Lab",
-   "location": "Chicago",
-   "skills": "Assist cardiovascular , Provide comprehensive ",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-25T01:27:11.370Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/c4765b75b119636199e9c656cec8483e",
    "category": "healthcare",
    "tier": "Entry-level"
   },
@@ -14797,6 +14814,23 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "$21.5/hr",
+   "id": "4aac3522b661f9c34891d881ab18a87a",
+   "source": "Workopia",
+   "company_name": "jobs.abbott",
+   "company_hi_slug": "jobs-abbott",
+   "title": "Mitraclip Specialist I",
+   "location": "Hartford",
+   "skills": "Clean-room environment, Work with small tools ",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-09-26T00:05:09.418Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/4aac3522b661f9c34891d881ab18a87a",
+   "category": "admin",
+   "tier": "Entry-level"
+  },
+  {
    "salary_display": "$20–33/hr",
    "id": "ac0d72894fb6984ee5bea225047a1455",
    "source": "Workopia",
@@ -16136,23 +16170,6 @@
    "date_posted": "2026-09-24T05:51:43.421Z",
    "active": true,
    "url": "https://workopia.io/jobs/b37ca08334676b5503eb3508c7fceae4",
-   "category": "admin",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": null,
-   "id": "db73246382e5bd77569a012d7a8a7252",
-   "source": "Workopia",
-   "company_name": "Elevance Health",
-   "company_hi_slug": "elevance-health",
-   "title": "Referral Specialist I",
-   "location": "Chicago",
-   "skills": "Manage clinical referr, Validate appeal reques",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-24T05:51:00.656Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/db73246382e5bd77569a012d7a8a7252",
    "category": "admin",
    "tier": "Entry-level"
   }

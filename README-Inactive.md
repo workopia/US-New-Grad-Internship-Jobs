@@ -33550,4 +33550,8 @@
 <tr><td>Medical University of South Carolina</td><td>Univ-administrative Assistant- Musc Wellness Center</td><td>Charleston</td><td>2026-09-25</td></tr>
 <tr><td>Mohegan</td><td>Financial Analyst - Financial Planning & Analysis</td><td>Uncasville</td><td>2026-09-25</td></tr>
 <tr><td>RSM UK</td><td>Experienced Assurance Associate</td><td>Chicago</td><td>2026-09-25</td></tr>
+<tr><td>Sierra</td><td>Software Engineer, Agent - Public Sector</td><td>Concord</td><td>2026-09-26</td></tr>
+<tr><td>Health Care Service Corporation</td><td>Business Analyst</td><td>Chicago</td><td>2026-09-26</td></tr>
+<tr><td>Advocate Illinois Masonic Medical Center</td><td>Registered Nurse (rn) - Cath Lab</td><td>Chicago</td><td>2026-09-26</td></tr>
+<tr><td>Elevance Health</td><td>Referral Specialist I</td><td>Chicago</td><td>2026-09-26</td></tr>
 </table>
