@@ -34000,4 +34000,45 @@
 <tr><td>Fifth Third Bancorp</td><td>Administrative Assistant Ii - South Florida Retail</td><td>Naples</td><td>2026-09-26</td></tr>
 <tr><td>Texas A&M University</td><td>Research Specialist Ii</td><td>College Station</td><td>2026-09-26</td></tr>
 <tr><td>Texas A&M University</td><td>Facilities Coordinator I</td><td>College Station</td><td>2026-09-26</td></tr>
+<tr><td>Macy's</td><td>Macy's 2027 Executive Development Program, Store Management -santa Ana, Ca</td><td>Los Angeles</td><td>2026-09-26</td></tr>
+<tr><td>Towerloan</td><td>Manager Trainee</td><td>Minden La</td><td>2026-09-26</td></tr>
+<tr><td>Firstsource</td><td>Apprentice</td><td>Bangalore</td><td>2026-09-26</td></tr>
+<tr><td>Hertz Global Holdings</td><td>Manager Trainee</td><td>Detroit</td><td>2026-09-26</td></tr>
+<tr><td>CVS Health</td><td>Store Manager In Training - 08871</td><td>Ca</td><td>2026-09-26</td></tr>
+<tr><td>CVS Health</td><td>Store Manager In Training - Cvs 06394</td><td>06394</td><td>2026-09-26</td></tr>
+<tr><td>CVS Health</td><td>Store Manager In Training - Store 04992</td><td>04992</td><td>2026-09-26</td></tr>
+<tr><td>CVS Health</td><td>Store Manager In Training - 6394</td><td>06394</td><td>2026-09-26</td></tr>
+<tr><td>Capital One</td><td>Full-stack Engineer 4 (python, Aws)</td><td>Washington D C</td><td>2026-09-26</td></tr>
+<tr><td>Capital One</td><td>Mobile Engineer 4</td><td>Dallas</td><td>2026-09-26</td></tr>
+<tr><td>Capital One</td><td>Full-stack Engineer 4 (javascript, React)</td><td>Chicago</td><td>2026-09-26</td></tr>
+<tr><td>Capital One</td><td>Full-stack Engineer 4 (golang)</td><td>Chicago</td><td>2026-09-26</td></tr>
+<tr><td>Capital One</td><td>Full-stack Engineer 5 (go/java, Angular, Aws)</td><td>Chicago</td><td>2026-09-26</td></tr>
+<tr><td>Capital One</td><td>Full-stack Engineer 4 - Intelligent Foundations And Experiences (ifx)</td><td>New York</td><td>2026-09-26</td></tr>
+<tr><td>Capital One</td><td>Full-stack Engineer 4</td><td>Washington D C</td><td>2026-09-26</td></tr>
+<tr><td>Capital One</td><td>Full Stack Engineer 4 (go, Aws)</td><td>Washington D C</td><td>2026-09-26</td></tr>
+<tr><td>Nucor</td><td>Automation Engineer - Nucor Towers & Structures</td><td>Indianapolis</td><td>2026-09-26</td></tr>
+<tr><td>Sabre Corporation</td><td>Data Scientist Iii</td><td>Dallas</td><td>2026-09-26</td></tr>
+<tr><td>City of Dallas</td><td>Data Science Analyst Ii (data Analytics And Business Intelligence [dbi] Dept., Non-civil Service)</td><td>Dallas</td><td>2026-09-26</td></tr>
+<tr><td>Arch Capital Group</td><td>Statistical Reporting Analyst</td><td>New York</td><td>2026-09-26</td></tr>
+<tr><td>Enact</td><td>Internal Audit Intern</td><td>Raleigh</td><td>2026-09-26</td></tr>
+<tr><td>Jobgether</td><td>Actuarial Analyst, P&c Pricing</td><td>United States</td><td>2026-09-26</td></tr>
+<tr><td>Jobgether</td><td>Trading Operations Associate - Evenings & Weekends</td><td>United States</td><td>2026-09-26</td></tr>
+<tr><td>PNC Bank</td><td>Business Analyst - Atm Cash Management</td><td>Pittsburgh</td><td>2026-09-26</td></tr>
+<tr><td>M&T Bank</td><td>Commercial Credit Analyst, Cre</td><td>New York</td><td>2026-09-26</td></tr>
+<tr><td>John Hancock Life Insurance Company (U.S.A.)</td><td>Investment Compliance Analyst</td><td>Boston</td><td>2026-09-26</td></tr>
+<tr><td>Sysco</td><td>Business Development Specialist</td><td>Miami</td><td>2026-09-26</td></tr>
+<tr><td>Sedgwick Australia Pty Ltd</td><td>Administrative Assistant</td><td>Chicago</td><td>2026-09-26</td></tr>
+<tr><td>Westinghouse Electric Company LLC</td><td>Administrative Assistant</td><td>Pensacola</td><td>2026-09-26</td></tr>
+<tr><td>Marshalls At TJX Companies</td><td>Customer Service Coordinator</td><td>York</td><td>2026-09-26</td></tr>
+<tr><td>Nemacolin Resort</td><td>Project Coordinator, Venues - Nemacolin Resort</td><td>Nemacolin</td><td>2026-09-26</td></tr>
+<tr><td>Encore Global</td><td>National College Leadership Program - Miami & Ft Lauderdale, Fl</td><td>Miami</td><td>2026-09-26</td></tr>
+<tr><td>Thinkacademyus</td><td>Front Desk & Administrative Assistant</td><td>Seattle</td><td>2026-09-26</td></tr>
+<tr><td>Cacijobapplication</td><td>Business Development Specialist</td><td>Dallas</td><td>2026-09-26</td></tr>
+<tr><td>24 Hour Home Care</td><td>Bilingual Customer Service Coordinator</td><td>Los Angeles</td><td>2026-09-26</td></tr>
+<tr><td>ALO / Australia</td><td>Operations Associate (full-time) - Soho</td><td>Soho</td><td>2026-09-26</td></tr>
+<tr><td>Abbott Diabetes Care</td><td>Mitraclip Specialist I</td><td>Hartford</td><td>2026-09-26</td></tr>
+<tr><td>PCL Constructors Inc</td><td>Administrative Assistant</td><td>Lafayette</td><td>2026-09-26</td></tr>
+<tr><td>PCL Constructors Inc</td><td>Marketing/proposal Student</td><td>Los Angeles</td><td>2026-09-26</td></tr>
+<tr><td>American Airlines Group</td><td>Executive Assistant, Md</td><td>Philadelphia</td><td>2026-09-26</td></tr>
+<tr><td>Nutrien Ltd</td><td>Administrative Coordinator - Auburn, Mi</td><td>Seattle</td><td>2026-09-26</td></tr>
 </table>
