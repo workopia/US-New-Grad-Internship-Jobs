@@ -1,6 +1,6 @@
 {
  "asOf": "2026-09-27",
- "count": 963,
+ "count": 962,
  "jobs": {
   "103898": {
    "id": "103898",
@@ -698,6 +698,42 @@
    "role": "Electrician Apprentice-1",
    "location": "Mcpherson"
   },
+  "154a6aacb8c26353e3dfef54b9e70013": {
+   "id": "154a6aacb8c26353e3dfef54b9e70013",
+   "company": "Starbucks Corporation",
+   "role": "Apprentice",
+   "location": "In"
+  },
+  "7faaa53104fc13460607cd910760123b": {
+   "id": "7faaa53104fc13460607cd910760123b",
+   "company": "Perdue Foods",
+   "role": "Engineering Management Trainee",
+   "location": "New York"
+  },
+  "fc7568183c0f4065b505074cd7fe622d": {
+   "id": "fc7568183c0f4065b505074cd7fe622d",
+   "company": "perduecareers",
+   "role": "Operations Management Trainee",
+   "location": "New York"
+  },
+  "376f318318479cab87b67adccd8c53d4": {
+   "id": "376f318318479cab87b67adccd8c53d4",
+   "company": "perduecareers",
+   "role": "Engineering Management Trainee",
+   "location": "New York"
+  },
+  "f3af8695198c8b6cd009d0e3c9f85292": {
+   "id": "f3af8695198c8b6cd009d0e3c9f85292",
+   "company": "Jllcareers",
+   "role": "Mechatronics And Robotics Apprentice",
+   "location": "Miami"
+  },
+  "4bc7bcc356ff5d0240c72b319d54e689": {
+   "id": "4bc7bcc356ff5d0240c72b319d54e689",
+   "company": "Syscon",
+   "role": "Production Technician I Apprentice",
+   "location": "Buckhead Atlanta"
+  },
   "930be0082af4284b5877027f5d62f52b": {
    "id": "930be0082af4284b5877027f5d62f52b",
    "company": "Dachser SE",
@@ -931,42 +967,6 @@
    "company": "Penske Truck Leasing",
    "role": "Sales And Operations Management Trainee",
    "location": "Los Angeles"
-  },
-  "dcb68173f72213cf45c4645a9c8f79a3": {
-   "id": "dcb68173f72213cf45c4645a9c8f79a3",
-   "company": "Oracle Corporation",
-   "role": "Catalyst Velocity: Data Center Technician Training Program",
-   "location": "Nm"
-  },
-  "c9bfd924bd69b1c35ab94e5f7da80dee": {
-   "id": "c9bfd924bd69b1c35ab94e5f7da80dee",
-   "company": "BD",
-   "role": "Mechanical Technician Apprentice",
-   "location": "Canaan"
-  },
-  "0dbf86a018fc88fe57a8180e5ca0c7f5": {
-   "id": "0dbf86a018fc88fe57a8180e5ca0c7f5",
-   "company": "New York Life Insurance Company",
-   "role": "Real Estate Asset Management Associate",
-   "location": "Atlanta"
-  },
-  "a999bf9928ba359f024550646130cf9c": {
-   "id": "a999bf9928ba359f024550646130cf9c",
-   "company": "New York Life Insurance Company",
-   "role": "Loan Management Associate",
-   "location": "New York"
-  },
-  "a0e46561e63d23c9eba6fed80d458264": {
-   "id": "a0e46561e63d23c9eba6fed80d458264",
-   "company": "Bird Electric Enterprises",
-   "role": "4673 - Lineman Apprentice 2",
-   "location": "United States"
-  },
-  "fad0505e92005992ce7b123a81a297b0": {
-   "id": "fad0505e92005992ce7b123a81a297b0",
-   "company": "Black & Veatch Corporation",
-   "role": "4675 - Lineman Apprentice 4",
-   "location": "United States"
   },
   "5ec9471c1f3d23b67ef368739c7d5a3c": {
    "id": "5ec9471c1f3d23b67ef368739c7d5a3c",
@@ -1357,12 +1357,6 @@
    "company": "Santa Clara University",
    "role": "On-call Graduate Business Application Support Administrator",
    "location": "San Jose"
-  },
-  "a9fe2eed3fc6ce2d94555280ae994423": {
-   "id": "a9fe2eed3fc6ce2d94555280ae994423",
-   "company": "Txie",
-   "role": "Desktop Support Trainee",
-   "location": "Ut Main Campus"
   },
   "8e893e166a0f61d7c0b8c00995f82681": {
    "id": "8e893e166a0f61d7c0b8c00995f82681",
@@ -1838,11 +1832,11 @@
    "role": "Software Engineer",
    "location": "Salt Lake City"
   },
-  "1340074445311": {
-   "id": "1340074445311",
-   "company": "Northrop Grumman",
-   "role": "Engineering Tech Support - Level 1",
-   "location": "Dulles"
+  "859edc9a568c58b3e74204dc43547704": {
+   "id": "859edc9a568c58b3e74204dc43547704",
+   "company": "Discover",
+   "role": "Associate, Tech Operations",
+   "location": "New York"
   },
   "42e04e9cdfa3a602c46831f55826c884": {
    "id": "42e04e9cdfa3a602c46831f55826c884",
@@ -2402,6 +2396,36 @@
    "role": "Statistical & Regulatory Reporting Analyst",
    "location": "United States"
   },
+  "74bf50f4255bc08891459258a1bbfe57": {
+   "id": "74bf50f4255bc08891459258a1bbfe57",
+   "company": "Lsu Noel Laboratory",
+   "role": "Wae- Data Analyst 1- Biommed",
+   "location": "Veterinary Medicine"
+  },
+  "712d20925123a9b8ef203d32143c5fb7": {
+   "id": "712d20925123a9b8ef203d32143c5fb7",
+   "company": "Capital One",
+   "role": "Ai Engineer 4 (vision Model (vlm) Customization Experience)",
+   "location": "New York"
+  },
+  "e651e627d4bba1cf3ac84093cae84f2e": {
+   "id": "e651e627d4bba1cf3ac84093cae84f2e",
+   "company": "Txie",
+   "role": "Data Analyst Ii",
+   "location": "Ut Main Campus"
+  },
+  "f61014f9655f9d4495ff906235a19623": {
+   "id": "f61014f9655f9d4495ff906235a19623",
+   "company": "Sanrafaelvet",
+   "role": "2027 Spring Co-op Bioinformatic Digital Data Scientist - Global Immunology, Waltham, Ma",
+   "location": "Boston"
+  },
+  "312b71af3cbe6eba4e154e440479f10c": {
+   "id": "312b71af3cbe6eba4e154e440479f10c",
+   "company": "Lightcast",
+   "role": "Economic Research Analyst / Junior Data Scientist - 1089",
+   "location": "Moscow"
+  },
   "998cd6a5503cec69aafa60786121f0cb": {
    "id": "998cd6a5503cec69aafa60786121f0cb",
    "company": "Southwest Airlines",
@@ -2419,6 +2443,18 @@
    "company": "jll.co.in",
    "role": "Automation Engineer",
    "location": "Jacksonville"
+  },
+  "7ffb569fff7c3aaecc759373e63b73da": {
+   "id": "7ffb569fff7c3aaecc759373e63b73da",
+   "company": "Welltower",
+   "role": "Ai Engineer, Product",
+   "location": "New York"
+  },
+  "c986e2ec55c61b43474011581b060712": {
+   "id": "c986e2ec55c61b43474011581b060712",
+   "company": "Lightcast",
+   "role": "Data Scientist - 1088",
+   "location": "Moscow"
   },
   "a1383d193ed6ecc6fa2d8c0c048ae8c5": {
    "id": "a1383d193ed6ecc6fa2d8c0c048ae8c5",
@@ -2587,48 +2623,6 @@
    "company": "Florafoodgroup",
    "role": "Automation Engineer",
    "location": "Hugoton"
-  },
-  "26628731e18658f2848efcf1f633864c": {
-   "id": "26628731e18658f2848efcf1f633864c",
-   "company": "Freese and Nichols",
-   "role": "Data & Visualization Analyst",
-   "location": "Atlanta"
-  },
-  "1e11f7611bc60a099cbe9b0989050f52": {
-   "id": "1e11f7611bc60a099cbe9b0989050f52",
-   "company": "Google",
-   "role": "Business Data Scientist, Google Analytics",
-   "location": "San Jose"
-  },
-  "67096a4a51a20020d62668d36a841339": {
-   "id": "67096a4a51a20020d62668d36a841339",
-   "company": "Google",
-   "role": "Data Scientist Iii, Research",
-   "location": "San Jose"
-  },
-  "568ebd5dfff0af59d8bd3ca0ed7a2250": {
-   "id": "568ebd5dfff0af59d8bd3ca0ed7a2250",
-   "company": "Google",
-   "role": "Scaled Insights Analyst, Intelligence And Scaled Insights, Youtube",
-   "location": "New York"
-  },
-  "8ae2061e33c38835fdce3328efaf46ee": {
-   "id": "8ae2061e33c38835fdce3328efaf46ee",
-   "company": "Google",
-   "role": "Research Scientist, Earth Ai",
-   "location": "San Jose"
-  },
-  "7636f8185aa6394fabe483e464e9c4c9": {
-   "id": "7636f8185aa6394fabe483e464e9c4c9",
-   "company": "Google",
-   "role": "Business Data Scientist, Global Affairs",
-   "location": "Chicago"
-  },
-  "93809eb66d356357d52c6c36f4e8a0b5": {
-   "id": "93809eb66d356357d52c6c36f4e8a0b5",
-   "company": "Google",
-   "role": "Software Engineer Iii, Ai/ml Genai, Search",
-   "location": "New York"
   },
   "a1d8be2c4e3da8a3070ad912b3a27ee3": {
    "id": "a1d8be2c4e3da8a3070ad912b3a27ee3",
@@ -3638,6 +3632,78 @@
    "role": "Payroll Compliance Analyst - Advanced",
    "location": "Default_location"
   },
+  "882de465380ac6ac79d1a07341b7b7c8": {
+   "id": "882de465380ac6ac79d1a07341b7b7c8",
+   "company": "vantage.bank",
+   "role": "Fiu Junior Analyst",
+   "location": "Location"
+  },
+  "02adc36d27625600b3c30982fa047e53": {
+   "id": "02adc36d27625600b3c30982fa047e53",
+   "company": "Workatintermountain",
+   "role": "Dts Tapestry Analyst",
+   "location": "Las Vegas"
+  },
+  "1cfb92aed2db59c64a75fbb74a73e5e3": {
+   "id": "1cfb92aed2db59c64a75fbb74a73e5e3",
+   "company": "Toyota Financial Services",
+   "role": "It Accounting Analyst",
+   "location": "Dallas"
+  },
+  "62c0535076d1eaded613b5a4d52312be": {
+   "id": "62c0535076d1eaded613b5a4d52312be",
+   "company": "dpi.nc.gov",
+   "role": "Actuarial Analyst - P&c Focus",
+   "location": "Wake County"
+  },
+  "cd0dba1f68f102297c4a63a83c03457a": {
+   "id": "cd0dba1f68f102297c4a63a83c03457a",
+   "company": "Aecon Group",
+   "role": "Analyst, Learning",
+   "location": "Toronto"
+  },
+  "64f492eda2d0cc7a978a13287b37c237": {
+   "id": "64f492eda2d0cc7a978a13287b37c237",
+   "company": "perduecareers",
+   "role": "Food Safety And Quality Assurance Program Compliance Supervisor",
+   "location": "Rockingham"
+  },
+  "cd1102d11048b5c392435c150c3b0abf": {
+   "id": "cd1102d11048b5c392435c150c3b0abf",
+   "company": "Houlihan Lokey",
+   "role": "Ai Business Development Analyst",
+   "location": "Atlanta"
+  },
+  "dc462d9c79774805c3c287c5156fe849": {
+   "id": "dc462d9c79774805c3c287c5156fe849",
+   "company": "Ernst & Young Global Ltd",
+   "role": "Ey Us - Studio+ Business Consulting - Staff",
+   "location": "New York"
+  },
+  "2e3595a427dc1a691fe53bba79b6f703": {
+   "id": "2e3595a427dc1a691fe53bba79b6f703",
+   "company": "Bank of America Merrill Lynch",
+   "role": "Account Management Ops Analyst – Private Bank Onboarding And Maintenance",
+   "location": "Pennington"
+  },
+  "2dd9a1c41eaef83874cfa044a3fbde2a": {
+   "id": "2dd9a1c41eaef83874cfa044a3fbde2a",
+   "company": "Txie",
+   "role": "Software Developer / Analyst",
+   "location": "Ut Main Campus"
+  },
+  "d8b9ab0d8919681edba523d4545065d6": {
+   "id": "d8b9ab0d8919681edba523d4545065d6",
+   "company": "Brown & Brown",
+   "role": "Employee Benefits Consulting Analyst",
+   "location": "Framingham"
+  },
+  "55f72edd25c092e28d4d419dca677ccf": {
+   "id": "55f72edd25c092e28d4d419dca677ccf",
+   "company": "university of Miami",
+   "role": "Financial Analyst 1",
+   "location": "Miami"
+  },
   "563568453755480": {
    "id": "563568453755480",
    "company": "Ford Motor",
@@ -3678,6 +3744,12 @@
    "id": "0da5e971b1a7ad984a824dc55771bbf8",
    "company": "CRANE ChemPharma & Energy",
    "role": "Financial Analyst",
+   "location": "United States"
+  },
+  "ff9ad9b6c0bd8a4be6025c0cdf4304e8": {
+   "id": "ff9ad9b6c0bd8a4be6025c0cdf4304e8",
+   "company": "Apple",
+   "role": "Ai-powered Growth Strategist - Build Team",
    "location": "United States"
   },
   "47f1d1b7ed926fefde6ce67bac686859": {
@@ -3746,6 +3818,18 @@
    "role": "Analyst, Data Exchange Claims Ops (tpa)",
    "location": "Charlotte"
   },
+  "203fee8c5b28b4c98a7386ade204593f": {
+   "id": "203fee8c5b28b4c98a7386ade204593f",
+   "company": "AnaVation",
+   "role": "Agile Business Analyst",
+   "location": "Huntsville"
+  },
+  "7ef7955ac3d9c7d5c7cd06d889ce364f": {
+   "id": "7ef7955ac3d9c7d5c7cd06d889ce364f",
+   "company": "Jobgether",
+   "role": "Internal Auditor",
+   "location": "United States"
+  },
   "afff5dce5cca42a3969e91a083fe15c6": {
    "id": "afff5dce5cca42a3969e91a083fe15c6",
    "company": "OFFICE OF MANAGEMENT AND ENTERPRISE SERV",
@@ -3769,96 +3853,6 @@
    "company": "Prolific",
    "role": "Business Analyst ( Product Operations Specialist) ( 3 Month Contract)",
    "location": "New York"
-  },
-  "8a159719fcbc9ddaf78f1ca576110084": {
-   "id": "8a159719fcbc9ddaf78f1ca576110084",
-   "company": "TE Connectivity",
-   "role": "Materials Planning Analyst Ii",
-   "location": "Arden"
-  },
-  "ac13976c0a73acf0e18eed30d29192f5": {
-   "id": "ac13976c0a73acf0e18eed30d29192f5",
-   "company": "The Lubrizol Corporation",
-   "role": "Financial Analyst - Finance Development Program",
-   "location": "Cleveland"
-  },
-  "4f4133a6d51965300abbd30f02d23a48": {
-   "id": "4f4133a6d51965300abbd30f02d23a48",
-   "company": "PURE Insurance",
-   "role": "Analyst, Broker Channel Optimization",
-   "location": "New York"
-  },
-  "e2fa1bbe843d6b7cba32b0eec6175b5c": {
-   "id": "e2fa1bbe843d6b7cba32b0eec6175b5c",
-   "company": "J.Crew Factory",
-   "role": "Financial Analyst - Fp&a",
-   "location": "New York"
-  },
-  "00908d3fb20435f8486e36967c646ca7": {
-   "id": "00908d3fb20435f8486e36967c646ca7",
-   "company": "Prime Therapeutics",
-   "role": "Accountant Associate - Remote",
-   "location": "Home"
-  },
-  "69464fe2bb28c4d7ef1bef417ee9486b": {
-   "id": "69464fe2bb28c4d7ef1bef417ee9486b",
-   "company": "UMB Bank",
-   "role": "Securities Svcs Ops Analyst",
-   "location": "Kansas City Mo"
-  },
-  "ef4c6d66a4cff43e545bca0599f6167c": {
-   "id": "ef4c6d66a4cff43e545bca0599f6167c",
-   "company": "ICF International",
-   "role": "Junor Business Systems Analyst (entry Level, Remote, Summer 2027)",
-   "location": "Washington D C"
-  },
-  "596f8c3fc552cdb3d0c357df9b89d57f": {
-   "id": "596f8c3fc552cdb3d0c357df9b89d57f",
-   "company": "National Australia Bank",
-   "role": "Debt Capital Markets, Private Placements - Analyst/associate",
-   "location": "New York"
-  },
-  "1779443f90490a1552058139953413e3": {
-   "id": "1779443f90490a1552058139953413e3",
-   "company": "Regions Financial Corporation",
-   "role": "Real Estate Capital Markets Sizing Analyst- Agency Multifamily",
-   "location": "Atlanta"
-  },
-  "b668e1a9e8e6b489e57e05a412dd27b4": {
-   "id": "b668e1a9e8e6b489e57e05a412dd27b4",
-   "company": "Galvestoncountytx",
-   "role": "Accountant (grants)",
-   "location": "Galveston County"
-  },
-  "9812b5e447361dd5b258ad88929c5a6d": {
-   "id": "9812b5e447361dd5b258ad88929c5a6d",
-   "company": "AdventHealth West Florida",
-   "role": "Training Analyst I",
-   "location": "Dallas"
-  },
-  "57e8cc64ac015be4ea9ac3e53282feb9": {
-   "id": "57e8cc64ac015be4ea9ac3e53282feb9",
-   "company": "dpi.nc.gov",
-   "role": "Internal Auditor Iii",
-   "location": "Wake County"
-  },
-  "33cde4e80453f2fc8a3906601ec9c7a4": {
-   "id": "33cde4e80453f2fc8a3906601ec9c7a4",
-   "company": "UGI Utilities, Inc",
-   "role": "Fixed Asset Accountant I",
-   "location": "Denver"
-  },
-  "87bb3c081a59d3ecfb948de6ca9a79ff": {
-   "id": "87bb3c081a59d3ecfb948de6ca9a79ff",
-   "company": "UGI Corporation",
-   "role": "Risk & Corporate Insurance Analyst",
-   "location": "United States"
-  },
-  "52a58fecceb9af7d80a89bb06d22a920": {
-   "id": "52a58fecceb9af7d80a89bb06d22a920",
-   "company": "Floor & Decor",
-   "role": "Analyst Accounting",
-   "location": "Atlanta"
   },
   "65933c8572fdf96e2bfc2854415a8caa": {
    "id": "65933c8572fdf96e2bfc2854415a8caa",
@@ -5762,23 +5756,23 @@
    "role": "Administrative Assistant",
    "location": "St Louis"
   },
-  "4aac3522b661f9c34891d881ab18a87a": {
-   "id": "4aac3522b661f9c34891d881ab18a87a",
-   "company": "jobs.abbott",
-   "role": "Mitraclip Specialist I",
-   "location": "Hartford"
-  },
-  "ebdca804d1e70346c8b2865319d38597": {
-   "id": "ebdca804d1e70346c8b2865319d38597",
-   "company": "Clark Construction Group",
-   "role": "Safety Coordinator (winter 2026/spring 2027 Graduates)",
-   "location": "San Diego"
-  },
-  "3e49c254b0aceed6cef16161453b3b8a": {
-   "id": "3e49c254b0aceed6cef16161453b3b8a",
-   "company": "SCR Medical Transportation LLC",
-   "role": "Fleet Administration Assistant",
+  "224026e621bb6bae029ee832b4cd83d4": {
+   "id": "224026e621bb6bae029ee832b4cd83d4",
+   "company": "Southeastern Louisiana University",
+   "role": "Coordinator, Curriculum And Degree Progression",
    "location": "Chicago"
+  },
+  "5cb55fc92d6fdb295dd466fdf86d8b9d": {
+   "id": "5cb55fc92d6fdb295dd466fdf86d8b9d",
+   "company": "Texas A&M University Health Science Center",
+   "role": "Program Coordinator I",
+   "location": "College Station"
+  },
+  "631c634f37e167c32016b7c3afbe3a4b": {
+   "id": "631c634f37e167c32016b7c3afbe3a4b",
+   "company": "Altra Industrial Motion Corp",
+   "role": "Production Control Coordinator I",
+   "location": "Seattle"
   }
  }
 }
