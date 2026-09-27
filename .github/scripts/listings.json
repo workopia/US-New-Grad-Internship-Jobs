@@ -12,8 +12,8 @@
   "as_of": "2026-09-27",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 357225,
-  "generated_at": "2026-09-27T10:27:08.165Z"
+  "country_live_total": 356795,
+  "generated_at": "2026-09-27T16:25:48.542Z"
  },
  "categories": [
   {
@@ -5919,6 +5919,23 @@
    "date_posted": "2026-09-07T22:18:51.849Z",
    "active": true,
    "url": "https://workopia.io/jobs/5dc113c2ae87a70afab9b356c28aaee2",
+   "category": "data",
+   "tier": "Intern"
+  },
+  {
+   "salary_display": "$27–47/hr",
+   "id": "dbb85f104ccc9bdf19ab29fc6e2be050",
+   "source": "Workopia",
+   "company_name": "Sanofi",
+   "company_hi_slug": "sanofi",
+   "title": "2027 Spring Co-op Scientific Data Support Analyst - Mrna Center Of Excellence - Vaccines, Waltham, Ma",
+   "location": "Boston",
+   "skills": "data pipelines, digital tools",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-09-04T17:37:55.737Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/dbb85f104ccc9bdf19ab29fc6e2be050",
    "category": "data",
    "tier": "Intern"
   },

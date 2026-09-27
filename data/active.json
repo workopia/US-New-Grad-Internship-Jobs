@@ -1,6 +1,6 @@
 {
  "asOf": "2026-09-27",
- "count": 962,
+ "count": 963,
  "jobs": {
   "103898": {
    "id": "103898",
@@ -2065,6 +2065,12 @@
    "company": "Finastra",
    "role": "Ai Engineer Intern (summer 2027)",
    "location": "Atlanta"
+  },
+  "dbb85f104ccc9bdf19ab29fc6e2be050": {
+   "id": "dbb85f104ccc9bdf19ab29fc6e2be050",
+   "company": "Sanofi",
+   "role": "2027 Spring Co-op Scientific Data Support Analyst - Mrna Center Of Excellence - Vaccines, Waltham, Ma",
+   "location": "Boston"
   },
   "26c806b7c88c27cc87bf24792c1b0af2": {
    "id": "26c806b7c88c27cc87bf24792c1b0af2",
