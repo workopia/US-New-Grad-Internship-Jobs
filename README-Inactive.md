@@ -34972,4 +34972,5 @@
 <tr><td>Southeastern Louisiana University</td><td>Coordinator, Curriculum And Degree Progression</td><td>Chicago</td><td>2026-09-28</td></tr>
 <tr><td>Texas A&M University Health Science Center</td><td>Program Coordinator I</td><td>College Station</td><td>2026-09-28</td></tr>
 <tr><td>Altra Industrial Motion Corp</td><td>Production Control Coordinator I</td><td>Seattle</td><td>2026-09-28</td></tr>
+<tr><td>42</td><td>Mechatronics And Robotics Apprentice</td><td>Bondurant</td><td>2026-09-28</td></tr>
 </table>

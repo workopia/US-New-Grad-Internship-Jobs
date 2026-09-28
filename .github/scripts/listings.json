@@ -12,8 +12,8 @@
   "as_of": "2026-09-28",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 357405,
-  "generated_at": "2026-09-28T01:11:04.931Z"
+  "country_live_total": 357284,
+  "generated_at": "2026-09-28T06:58:28.952Z"
  },
  "categories": [
   {
@@ -1470,23 +1470,6 @@
   },
   {
    "salary_display": null,
-   "id": "3907703c40a81a9f612fc688443732b5",
-   "source": "Workopia",
-   "company_name": "42",
-   "company_hi_slug": null,
-   "title": "Mechatronics And Robotics Apprentice",
-   "location": "Bondurant",
-   "skills": "learn to perform mecha, work with material tra",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-26T22:51:30.221Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/3907703c40a81a9f612fc688443732b5",
-   "category": "grad",
-   "tier": "Graduate"
-  },
-  {
-   "salary_display": null,
    "id": "fd8299dabc8019a8d800b31b399e5086",
    "source": "Workopia",
    "company_name": "Cintas Corporation",
@@ -2791,6 +2774,23 @@
    "date_posted": "2026-09-24T04:56:22.236Z",
    "active": true,
    "url": "https://workopia.io/jobs/90bd4e36fc7cfafc7197ecbd580005b3",
+   "category": "grad",
+   "tier": "Graduate"
+  },
+  {
+   "salary_display": "$120,000–130,000/yr",
+   "id": "e450a3c5dd79cd396328e53b4934a8ee",
+   "source": "Workopia",
+   "company_name": "Nomura International PLC",
+   "company_hi_slug": "nomura-international-plc",
+   "title": "Operations Client Relationship Management Associate",
+   "location": "New York",
+   "skills": "Client relationship ma, Post-trade operations",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-09-24T04:31:21.831Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/e450a3c5dd79cd396328e53b4934a8ee",
    "category": "grad",
    "tier": "Graduate"
   },

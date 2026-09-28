@@ -524,12 +524,6 @@
    "role": "District Manager In Training",
    "location": "Dennisport"
   },
-  "3907703c40a81a9f612fc688443732b5": {
-   "id": "3907703c40a81a9f612fc688443732b5",
-   "company": "42",
-   "role": "Mechatronics And Robotics Apprentice",
-   "location": "Bondurant"
-  },
   "fd8299dabc8019a8d800b31b399e5086": {
    "id": "fd8299dabc8019a8d800b31b399e5086",
    "company": "Cintas Corporation",
@@ -985,6 +979,12 @@
    "company": "JLG Industries Inc",
    "role": "Sales Trainee - Access Equipment - West Coast",
    "location": "West Coast"
+  },
+  "e450a3c5dd79cd396328e53b4934a8ee": {
+   "id": "e450a3c5dd79cd396328e53b4934a8ee",
+   "company": "Nomura International PLC",
+   "role": "Operations Client Relationship Management Associate",
+   "location": "New York"
   },
   "5ec9471c1f3d23b67ef368739c7d5a3c": {
    "id": "5ec9471c1f3d23b67ef368739c7d5a3c",
