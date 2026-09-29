@@ -12,8 +12,8 @@
   "as_of": "2026-09-29",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 360154,
-  "generated_at": "2026-09-29T06:58:01.193Z"
+  "country_live_total": 359225,
+  "generated_at": "2026-09-29T10:25:38.833Z"
  },
  "categories": [
   {
@@ -857,6 +857,23 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
+   "id": "8e59f3ef4d8e02438954c536d05ea262",
+   "source": "Workopia",
+   "company_name": "Encompass Health",
+   "company_hi_slug": "encompass-health",
+   "title": "Pharmacy Intern",
+   "location": "Birmingham",
+   "skills": "Inventory control and , Medication dispensing ",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-09-28T00:00:00.000Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/8e59f3ef4d8e02438954c536d05ea262",
+   "category": "grad",
+   "tier": "Intern"
+  },
+  {
    "salary_display": "$18.58–26.58/hr",
    "id": "c01a5a691fef7012e5f244098a7d6db2",
    "source": "Workopia",
@@ -1414,23 +1431,6 @@
    "date_posted": "2026-09-27T03:36:49.108Z",
    "active": true,
    "url": "https://workopia.io/jobs/687239254833",
-   "category": "grad",
-   "tier": "Intern"
-  },
-  {
-   "salary_display": "$40,000–145,000/yr",
-   "id": "2bd9e984399dce76c553ad886a7d938e",
-   "source": "Workopia",
-   "company_name": "Exxon Mobil",
-   "company_hi_slug": "exxonmobil",
-   "title": "Business & Commercial Students Seeking Internship Opportunities",
-   "location": "Houston",
-   "skills": "business-related disci, strong analytical skil",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-27T03:22:33.614Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/2bd9e984399dce76c553ad886a7d938e",
    "category": "grad",
    "tier": "Intern"
   },
