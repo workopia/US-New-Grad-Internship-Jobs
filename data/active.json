@@ -542,6 +542,12 @@
    "role": "Manager In Training",
    "location": "Williston"
   },
+  "110b49d34eb7dc4c5e2c03c58a7955b9": {
+   "id": "110b49d34eb7dc4c5e2c03c58a7955b9",
+   "company": "PSEG",
+   "role": "Senior Business Management Associate",
+   "location": "New York"
+  },
   "e1264480d1b9d9fd1750afb416ad38d7": {
    "id": "e1264480d1b9d9fd1750afb416ad38d7",
    "company": "Nomura International PLC",
@@ -979,12 +985,6 @@
    "company": "SIXT",
    "role": "Management Trainee (kahului International Airport)",
    "location": "Kahului"
-  },
-  "af12c5836ab1e1edd27b6eb1771c45e0": {
-   "id": "af12c5836ab1e1edd27b6eb1771c45e0",
-   "company": "CVS Health",
-   "role": "Care Management Associate",
-   "location": "Arizona"
   },
   "5ec9471c1f3d23b67ef368739c7d5a3c": {
    "id": "5ec9471c1f3d23b67ef368739c7d5a3c",

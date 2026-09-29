@@ -35326,4 +35326,5 @@
 <tr><td>Charles Schwab & Company Inc.</td><td>Administrative Support - Renton Downtown #376</td><td>Seattle</td><td>2026-09-29</td></tr>
 <tr><td>Charles Schwab & Company Inc.</td><td>Administrative Support - Mukilteo #422</td><td>Seattle</td><td>2026-09-29</td></tr>
 <tr><td>Charles Schwab & Company Inc.</td><td>Administrative Support - Yakima West Valley #440</td><td>Yakima</td><td>2026-09-29</td></tr>
+<tr><td>CVS Health</td><td>Care Management Associate</td><td>Arizona</td><td>2026-09-29</td></tr>
 </table>

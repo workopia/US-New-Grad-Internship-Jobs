@@ -12,8 +12,8 @@
   "as_of": "2026-09-29",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 361488,
-  "generated_at": "2026-09-29T01:05:31.972Z"
+  "country_live_total": 360154,
+  "generated_at": "2026-09-29T06:58:01.193Z"
  },
  "categories": [
   {
@@ -1520,6 +1520,23 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "$67,200–106,400",
+   "id": "110b49d34eb7dc4c5e2c03c58a7955b9",
+   "source": "Workopia",
+   "company_name": "PSEG",
+   "company_hi_slug": "pseg",
+   "title": "Senior Business Management Associate",
+   "location": "New York",
+   "skills": "advanced review and va, ensure program eligibi",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-09-28T00:00:00.000Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/110b49d34eb7dc4c5e2c03c58a7955b9",
+   "category": "grad",
+   "tier": "Graduate"
+  },
+  {
    "salary_display": "$120,000–130,000/yr",
    "id": "e1264480d1b9d9fd1750afb416ad38d7",
    "source": "Workopia",
@@ -2774,23 +2791,6 @@
    "date_posted": "2026-09-24T14:24:52.314Z",
    "active": true,
    "url": "https://workopia.io/jobs/f97253f7634a849352b47b5ea7bc909a",
-   "category": "grad",
-   "tier": "Graduate"
-  },
-  {
-   "salary_display": "$18.5–35.29/hr",
-   "id": "af12c5836ab1e1edd27b6eb1771c45e0",
-   "source": "Workopia",
-   "company_name": "CVS Health",
-   "company_hi_slug": "cvs-health",
-   "title": "Care Management Associate",
-   "location": "Arizona",
-   "skills": "telephone support for , review eligibility and",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-24T09:44:19.990Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/af12c5836ab1e1edd27b6eb1771c45e0",
    "category": "grad",
    "tier": "Graduate"
   },
