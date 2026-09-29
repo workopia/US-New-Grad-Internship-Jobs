@@ -4028,12 +4028,6 @@
    "role": "Medical Assistant - Ahn Outpatient Cardiology Clinic - Grove City - Full Time",
    "location": "Columbus"
   },
-  "47f54ebb35f7dae239542e617bf960ec": {
-   "id": "47f54ebb35f7dae239542e617bf960ec",
-   "company": "Advocate Health",
-   "role": "Registered Nurse (rn) - Oncology Infusion",
-   "location": "Waukegan"
-  },
   "a2c1d6b33b7d8e4880d501bfee9c25aa": {
    "id": "a2c1d6b33b7d8e4880d501bfee9c25aa",
    "company": "NewYork-Presbyterian Hospital",
@@ -4130,48 +4124,6 @@
    "role": "Research Assistant I",
    "location": "Boston"
   },
-  "db9382fd901db16c8951a872afab0f1b": {
-   "id": "db9382fd901db16c8951a872afab0f1b",
-   "company": "Asheweb",
-   "role": "Registered Nurse (rn)-emergency Department",
-   "location": "Chicago"
-  },
-  "46f71bef295edba2b797067ae96fe872": {
-   "id": "46f71bef295edba2b797067ae96fe872",
-   "company": "Asheweb",
-   "role": "Registered Nurse (rn) - Gi",
-   "location": "Greensboro"
-  },
-  "eea48d31bec374eb0a5e7356c35646bb": {
-   "id": "eea48d31bec374eb0a5e7356c35646bb",
-   "company": "Asheweb",
-   "role": "Same Day Surgery/pacu Rn",
-   "location": "Greensboro"
-  },
-  "9bf66739f9f66d96c45eef7def44bf65": {
-   "id": "9bf66739f9f66d96c45eef7def44bf65",
-   "company": "Asheweb",
-   "role": "Registered Nurse (rn) Cardiac Diagnostic",
-   "location": "Racine"
-  },
-  "28cceabfcaf1575b754598e137b77d09": {
-   "id": "28cceabfcaf1575b754598e137b77d09",
-   "company": "Asheweb",
-   "role": "Medical Assistant I - Cardiology",
-   "location": "Winston Salem"
-  },
-  "1dcb7b235a21dc20dac59426fe9307ff": {
-   "id": "1dcb7b235a21dc20dac59426fe9307ff",
-   "company": "Asheweb",
-   "role": "Cru Nursing Assistant 0.6 Pm Shift",
-   "location": "United States"
-  },
-  "ffb42216fa3fa391ec7aec6315b18b91": {
-   "id": "ffb42216fa3fa391ec7aec6315b18b91",
-   "company": "Asheweb",
-   "role": "Cardiac Tele Nursing Assistant",
-   "location": "United States"
-  },
   "e08613f60e5e5f27bb79ef13ba5e1eac": {
    "id": "e08613f60e5e5f27bb79ef13ba5e1eac",
    "company": "Asheweb",
@@ -4182,12 +4134,6 @@
    "id": "724d90d65be9b0b5ea75de657d4a8bb6",
    "company": "Asheweb",
    "role": "Register Nurse (rn)- Gastroenterology",
-   "location": "Chicago"
-  },
-  "f991d89ac834afc32f378c87257939f6": {
-   "id": "f991d89ac834afc32f378c87257939f6",
-   "company": "Asheweb",
-   "role": "Registered Nurse-peds-7p",
    "location": "Chicago"
   },
   "3c7830479f1e5789bd7b091be0cca1c3": {
@@ -4387,6 +4333,60 @@
    "company": "Ochsner Lsu Health System of North Louisiana",
    "role": "Rn - Emergency Medicine - Kings Hwy",
    "location": "Shreveport"
+  },
+  "167df97c1c6e657ce6b6acd28d330404": {
+   "id": "167df97c1c6e657ce6b6acd28d330404",
+   "company": "FMOL Health Career Portal",
+   "role": "Registered Nurse - P&s Or (part-time)",
+   "location": "Charlotte"
+  },
+  "e2d45574237b0703576c5acfcdb0cc3c": {
+   "id": "e2d45574237b0703576c5acfcdb0cc3c",
+   "company": "FMOL Health Career Portal",
+   "role": "Registered Nurse - Cardiac Rehabilitation",
+   "location": "Charlotte"
+  },
+  "8e7481043afc96005e908330b561340d": {
+   "id": "8e7481043afc96005e908330b561340d",
+   "company": "FMOLHS 2",
+   "role": "Rn Float - Med/surg/tele/rehab (days)",
+   "location": "Charlotte"
+  },
+  "070cd1a8858e6a3769599cb6bdd6a2a7": {
+   "id": "070cd1a8858e6a3769599cb6bdd6a2a7",
+   "company": "Bureau Veritas",
+   "role": "Sample Preparation Technician",
+   "location": "Juneau"
+  },
+  "16cfe46b9eb2dd9b4ad16de6ea981bc6": {
+   "id": "16cfe46b9eb2dd9b4ad16de6ea981bc6",
+   "company": "Bureau Veritas",
+   "role": "Laboratory Technician - Freeport, Tx",
+   "location": "New York"
+  },
+  "f027cc60ac050ae3333e93af0a4017a8": {
+   "id": "f027cc60ac050ae3333e93af0a4017a8",
+   "company": "Endo Gen Wellness",
+   "role": "Podiatry Medical Assistant",
+   "location": "Detroit"
+  },
+  "98b6f033461df63d1fea572f124b1c0d": {
+   "id": "98b6f033461df63d1fea572f124b1c0d",
+   "company": "Mohawk Valley Health System",
+   "role": "Registered Nurse - Operating Room Hours 0900-1900",
+   "location": "Utica"
+  },
+  "ede5557d17256ae6230469280891c4b5": {
+   "id": "ede5557d17256ae6230469280891c4b5",
+   "company": "Mohawk Valley Health System",
+   "role": "Registered Nurse - Vna Home Care Nurse",
+   "location": "Utica"
+  },
+  "c8655241c4528566bfc0228265b2b5ca": {
+   "id": "c8655241c4528566bfc0228265b2b5ca",
+   "company": "Mohawk Valley Health System",
+   "role": "Registered Nurse - Wynn Hospital Icu - Nights - Up To $10,000 Sign On Bonus!",
+   "location": "Utica"
   },
   "9698e6672367fbb7a756848fb67383f0": {
    "id": "9698e6672367fbb7a756848fb67383f0",
