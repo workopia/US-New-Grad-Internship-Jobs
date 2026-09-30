@@ -1580,12 +1580,6 @@
    "role": "Software Engineer, C++, Level 3",
    "location": "Los Angeles"
   },
-  "36449509376842bdcff06727dd703755": {
-   "id": "36449509376842bdcff06727dd703755",
-   "company": "Shift4",
-   "role": "Software Engineer",
-   "location": "Atlanta"
-  },
   "03f13d56ade7e201d7b2f56e4b1c437f": {
    "id": "03f13d56ade7e201d7b2f56e4b1c437f",
    "company": "Central Lakes College",
@@ -1867,6 +1861,12 @@
    "company": "Google",
    "role": "Software Engineer Iii, Storage Infrastructure",
    "location": "New York"
+  },
+  "2485d0f207f79b931918231630c49416": {
+   "id": "2485d0f207f79b931918231630c49416",
+   "company": "Google",
+   "role": "Software Engineer, Bigquery Query Optimization",
+   "location": "Seattle"
   },
   "1ee6186d298ee7d8e755900bd74cd3a0": {
    "id": "1ee6186d298ee7d8e755900bd74cd3a0",
@@ -3722,12 +3722,6 @@
    "role": "Navy Pacific Erp - Financial Management Sme",
    "location": "Oahu"
   },
-  "a31191e358b3e8975531f0a7ed46336d": {
-   "id": "a31191e358b3e8975531f0a7ed46336d",
-   "company": "Chicago Public Media",
-   "role": "Product Analyst",
-   "location": "Chicago"
-  },
   "2969b12cabf312b42b4461a9f7d7d2c9": {
    "id": "2969b12cabf312b42b4461a9f7d7d2c9",
    "company": "Northern Trust",
@@ -3967,6 +3961,12 @@
    "company": "Citi",
    "role": "Business And Data Analyst, Capital Markets - Assistant Vice President",
    "location": "Tampa"
+  },
+  "859037058356": {
+   "id": "859037058356",
+   "company": "Citi",
+   "role": "Client Onboarding Associate Analyst",
+   "location": "Getzville"
   },
   "f1fa6af63ca80ac571bc7b6b06565d18": {
    "id": "f1fa6af63ca80ac571bc7b6b06565d18",
@@ -4610,12 +4610,6 @@
    "role": "Mechanical Associate",
    "location": "Philadelphia"
   },
-  "6ef289839b89b664fba441a210c002ab": {
-   "id": "6ef289839b89b664fba441a210c002ab",
-   "company": "Alsco Uniforms",
-   "role": "Maintenance Technician",
-   "location": "Miami"
-  },
   "73b759f90ce94cdeda76c90ad799c30c": {
    "id": "73b759f90ce94cdeda76c90ad799c30c",
    "company": "TE Connectivity",
@@ -4850,12 +4844,6 @@
    "role": "Microelectronics Operator C - 2nd Shift",
    "location": "Bloomington"
   },
-  "c00395099be12f6abe0d3ea2d570c112": {
-   "id": "c00395099be12f6abe0d3ea2d570c112",
-   "company": "Tyson Foods",
-   "role": "Maintenance Generalist B Shift Berryville,",
-   "location": "Charlotte"
-  },
   "c58384a2310cfe54fefe7b94c15cb659": {
    "id": "c58384a2310cfe54fefe7b94c15cb659",
    "company": "Coates",
@@ -4921,6 +4909,18 @@
    "company": "United Rentals",
    "role": "Service Tech - Ros",
    "location": "Washington D C"
+  },
+  "6f3dcdea32f849e9329a9a9abba990aa": {
+   "id": "6f3dcdea32f849e9329a9a9abba990aa",
+   "company": "Pitney Bowes",
+   "role": "Industrial Maintenance Technician Trainee - 2nd Shift",
+   "location": "Indianapolis"
+  },
+  "3f46277267a95124072e68f3ef62b010": {
+   "id": "3f46277267a95124072e68f3ef62b010",
+   "company": "Heidelberg Materials Australia Pty Ltd",
+   "role": "Night Shift Mechanic Trainee",
+   "location": "San Antonio"
   },
   "aceedaf916ad84e4109eb7cd351fc238": {
    "id": "aceedaf916ad84e4109eb7cd351fc238",
@@ -5606,12 +5606,6 @@
    "role": "Coordinator Of Northern Nevada Programs",
    "location": "Main Campus"
   },
-  "291d7c5bdeabaa428c23b1c978d604e7": {
-   "id": "291d7c5bdeabaa428c23b1c978d604e7",
-   "company": "St. Luke's University Health Network",
-   "role": "Practice Coordinator, Pediatric Neurology",
-   "location": "Center Valley"
-  },
   "52b1efe62fe57fed332ce013dd2271e0": {
    "id": "52b1efe62fe57fed332ce013dd2271e0",
    "company": "Builders FirstSource",
@@ -5875,6 +5869,12 @@
    "company": "TJX Companies",
    "role": "Administrative Coordinator",
    "location": "Lubbock"
+  },
+  "948b689a6d7b48436587bd0c15e83b2a": {
+   "id": "948b689a6d7b48436587bd0c15e83b2a",
+   "company": "Jobgether",
+   "role": "Executive Assistant",
+   "location": "Us"
   }
  }
 }

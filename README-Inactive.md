@@ -35886,4 +35886,9 @@
 <tr><td>RangeWater Real Estate</td><td>Lifestyle Coordinator - Boynton Tropical</td><td>Boynton Beach</td><td>2026-09-30</td></tr>
 <tr><td>BW Papersystems</td><td>Material Control Coordinator</td><td>Phillips</td><td>2026-09-30</td></tr>
 <tr><td>Afinitas</td><td>Executive Assistant</td><td>St Louis</td><td>2026-09-30</td></tr>
+<tr><td>Shift4</td><td>Software Engineer</td><td>Atlanta</td><td>2026-09-30</td></tr>
+<tr><td>Chicago Public Media</td><td>Product Analyst</td><td>Chicago</td><td>2026-09-30</td></tr>
+<tr><td>Alsco Uniforms</td><td>Maintenance Technician</td><td>Miami</td><td>2026-09-30</td></tr>
+<tr><td>Tyson Foods</td><td>Maintenance Generalist B Shift Berryville,</td><td>Charlotte</td><td>2026-09-30</td></tr>
+<tr><td>St. Luke's University Health Network</td><td>Practice Coordinator, Pediatric Neurology</td><td>Center Valley</td><td>2026-09-30</td></tr>
 </table>
