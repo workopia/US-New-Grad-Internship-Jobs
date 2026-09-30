@@ -35902,4 +35902,9 @@
 <tr><td>Nordstrom</td><td>Retail Sales Floor Support - Mountain Grove Rack</td><td>Hemet</td><td>2026-09-30</td></tr>
 <tr><td>Nordstrom</td><td>Seasonal & Regular Customer Service & Sales Floor Support - State Street Rack</td><td>Chicago</td><td>2026-09-30</td></tr>
 <tr><td>Slhn</td><td>Practice Coordinator, Pediatric Neurology</td><td>Center Valley</td><td>2026-09-30</td></tr>
+<tr><td>SS&C Technologies</td><td>Software Engineer Pa2026q3jb011</td><td>Kansas City</td><td>2026-09-30</td></tr>
+<tr><td>Bronson Methodist Hospital</td><td>Registered Nurse ( Rn ) - Pediatrics Unit - Bronson Methodist Hospital - Full-time 12d</td><td>Kalamazoo</td><td>2026-09-30</td></tr>
+<tr><td>Cincinnati Children's Hospital</td><td>Patient Care Assistant, Burnet Urgent Care - 16 Hours/week, Am/evening Shift</td><td>Burnet Campus</td><td>2026-09-30</td></tr>
+<tr><td>Mhs Physicians of Texas</td><td>Patient Care Technician/transporter</td><td>Texas Medical Center</td><td>2026-09-30</td></tr>
+<tr><td>Bridgestone Retail Operations</td><td>Sales And Service Technician</td><td>Philadelphia</td><td>2026-09-30</td></tr>
 </table>

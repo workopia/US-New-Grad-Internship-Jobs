@@ -1406,12 +1406,6 @@
    "role": "Driver Support Specialist - Pt",
    "location": "Unknown"
   },
-  "d6c070e593c0dac0009037fca337e634": {
-   "id": "d6c070e593c0dac0009037fca337e634",
-   "company": "SS&C Technologies",
-   "role": "Software Engineer Pa2026q3jb011",
-   "location": "Kansas City"
-  },
   "7e54bd5a7d15116eef27cc51ef81bd92": {
    "id": "7e54bd5a7d15116eef27cc51ef81bd92",
    "company": "Capgemini",
@@ -1867,6 +1861,12 @@
    "company": "Google",
    "role": "Software Engineer, Bigquery Query Optimization",
    "location": "Seattle"
+  },
+  "b5a9c20e63d1db6dd479bd8ad4e793bc": {
+   "id": "b5a9c20e63d1db6dd479bd8ad4e793bc",
+   "company": "Google",
+   "role": "Software Engineer Iii, Google Distributed Cloud Ai Storage",
+   "location": "San Jose"
   },
   "1ee6186d298ee7d8e755900bd74cd3a0": {
    "id": "1ee6186d298ee7d8e755900bd74cd3a0",
@@ -4214,12 +4214,6 @@
    "role": "Emergency Registered Veterinary Technician",
    "location": "Denver"
   },
-  "ea8c94fe3e6b412152e76e05ba0a1a45": {
-   "id": "ea8c94fe3e6b412152e76e05ba0a1a45",
-   "company": "Bronson Methodist Hospital",
-   "role": "Registered Nurse ( Rn ) - Pediatrics Unit - Bronson Methodist Hospital - Full-time 12d",
-   "location": "Kalamazoo"
-  },
   "ff095063f0dc57f60bb39932e993a302": {
    "id": "ff095063f0dc57f60bb39932e993a302",
    "company": "Bronsonhealth",
@@ -4376,12 +4370,6 @@
    "role": "Assistant Ii, Medical",
    "location": "Los Angeles"
   },
-  "3bf62f636ef016f3f0600f14d2d8fedc": {
-   "id": "3bf62f636ef016f3f0600f14d2d8fedc",
-   "company": "Cincinnati Children's Hospital",
-   "role": "Patient Care Assistant, Burnet Urgent Care - 16 Hours/week, Am/evening Shift",
-   "location": "Burnet Campus"
-  },
   "aa88fe32212db3735a6b2a2c9a106d6e": {
    "id": "aa88fe32212db3735a6b2a2c9a106d6e",
    "company": "Memorial Hospital Pembroke",
@@ -4436,17 +4424,29 @@
    "role": "Trauma/surgical Acute Care Pct Ii- Days",
    "location": "Houston"
   },
-  "37d85189e917bb22bbddce6132b16012": {
-   "id": "37d85189e917bb22bbddce6132b16012",
-   "company": "Mhs Physicians of Texas",
-   "role": "Patient Care Technician/transporter",
-   "location": "Texas Medical Center"
-  },
   "633916d6efff15f7777f9f0c1c7a7f2c": {
    "id": "633916d6efff15f7777f9f0c1c7a7f2c",
    "company": "Mhs Physicians of Texas",
    "role": "Supplemental Laboratory Technician, Pt Mostly Evenings, Varies Mon-fri, Weekends",
    "location": "TMC/Children'S Hospital"
+  },
+  "d0ebf801c25ab208b8ca38d5d9379a9c": {
+   "id": "d0ebf801c25ab208b8ca38d5d9379a9c",
+   "company": "Hutchinson Regional Healthcare System",
+   "role": "Registered Nurse (rn) - Ortho/med-surg - Ft Days",
+   "location": "Wichita"
+  },
+  "2405d37402a22ca63ab304b965a53acd": {
+   "id": "2405d37402a22ca63ab304b965a53acd",
+   "company": "Hutchinson Regional Healthcare System",
+   "role": "Rn Sane - Prn",
+   "location": "Wichita"
+  },
+  "26755f5778f60d0d3456e7470965a2ef": {
+   "id": "26755f5778f60d0d3456e7470965a2ef",
+   "company": "Service Corp",
+   "role": "Preparation Technician",
+   "location": "San Diego"
   },
   "0b23a40ad2c073de89d7242c6f948248": {
    "id": "0b23a40ad2c073de89d7242c6f948248",
@@ -4657,12 +4657,6 @@
    "company": "Bridgestone Americas",
    "role": "Sales And Service Technician",
    "location": "Canton"
-  },
-  "2b3c1e984cb8120df01efb3c133023c6": {
-   "id": "2b3c1e984cb8120df01efb3c133023c6",
-   "company": "Bridgestone Retail Operations",
-   "role": "Sales And Service Technician",
-   "location": "Philadelphia"
   },
   "8cb58cf7d374d253332894ebde5ceb5b": {
    "id": "8cb58cf7d374d253332894ebde5ceb5b",
@@ -4921,6 +4915,12 @@
    "company": "Baker Hughes",
    "role": "Field Specialist Iii",
    "location": "Alaska"
+  },
+  "f874ea8f389ac2148b0aa7389766bcf8": {
+   "id": "f874ea8f389ac2148b0aa7389766bcf8",
+   "company": "Duke Energy",
+   "role": "Nuclear Instrument And Electrical Technician Iii - Oconee Nuclear Station",
+   "location": "Seneca"
   },
   "aceedaf916ad84e4109eb7cd351fc238": {
    "id": "aceedaf916ad84e4109eb7cd351fc238",
