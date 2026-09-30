@@ -374,12 +374,6 @@
    "role": "Architecture Intern - Summer 2027",
    "location": "New York"
   },
-  "494c3173f3a591ea2b9ea05fad41e979": {
-   "id": "494c3173f3a591ea2b9ea05fad41e979",
-   "company": "HNTB Corporation",
-   "role": "Aviation Planning Intern (summer 2027)",
-   "location": "Boston"
-  },
   "aa894802ec506ae663ec72f5e307505a": {
    "id": "aa894802ec506ae663ec72f5e307505a",
    "company": "CVS Health",
@@ -510,6 +504,12 @@
    "id": "4320560bfaf18a4ffd15f046b8e36125",
    "company": "HPE",
    "role": "Gmc Global Communications Intern",
+   "location": "San Jose"
+  },
+  "08ff854aac0e36925a765ecd6d90bf06": {
+   "id": "08ff854aac0e36925a765ecd6d90bf06",
+   "company": "HPE",
+   "role": "Gmc Customer Advocacy & Engagement Intern",
    "location": "San Jose"
   },
   "9e0e260099eb63b5c85a898ed3bc4be1": {
@@ -3632,18 +3632,6 @@
    "role": "Abl Structuring Analyst I",
    "location": "Charlotte"
   },
-  "7691e5c52c3a161dde9c85840f8b3ef1": {
-   "id": "7691e5c52c3a161dde9c85840f8b3ef1",
-   "company": "Bank of America Merrill Lynch",
-   "role": "Account Management Ops Analyst - Private Bank Offboarding",
-   "location": "Pennington"
-  },
-  "45d727c69c68702aecb10b156571b7f6": {
-   "id": "45d727c69c68702aecb10b156571b7f6",
-   "company": "Bank of America Merrill Lynch",
-   "role": "Account Management Operations Analyst – Private Bank Onboarding And Maintenance",
-   "location": "Pennington"
-  },
   "d6febc3045780bfe652b7fd218835e59": {
    "id": "d6febc3045780bfe652b7fd218835e59",
    "company": "Bank of America Merrill Lynch",
@@ -3967,6 +3955,18 @@
    "company": "Citi",
    "role": "Client Onboarding Associate Analyst",
    "location": "Getzville"
+  },
+  "792cddba46c51a861d123b3c89ddaae1": {
+   "id": "792cddba46c51a861d123b3c89ddaae1",
+   "company": "Inchcape",
+   "role": "Financial Reporting Analyst",
+   "location": "Tamuning"
+  },
+  "735c1e8a377dfef2231c013825d475c9": {
+   "id": "735c1e8a377dfef2231c013825d475c9",
+   "company": "Inchcape",
+   "role": "Application Operations Analyst",
+   "location": "Co"
   },
   "f1fa6af63ca80ac571bc7b6b06565d18": {
    "id": "f1fa6af63ca80ac571bc7b6b06565d18",
@@ -4748,12 +4748,6 @@
    "role": "Field Service Technician (production) - Inland Empire, Ca",
    "location": "Los Angeles"
   },
-  "1404d11449bb990710342f379b49fed5": {
-   "id": "1404d11449bb990710342f379b49fed5",
-   "company": "Center For Disability Services",
-   "role": "Maintenance Technician",
-   "location": "Albany"
-  },
   "fd6373b8471c6b69da276d8dd39320d8": {
    "id": "fd6373b8471c6b69da276d8dd39320d8",
    "company": "Hriproperties",
@@ -4921,6 +4915,12 @@
    "company": "Heidelberg Materials Australia Pty Ltd",
    "role": "Night Shift Mechanic Trainee",
    "location": "San Antonio"
+  },
+  "cb2ca307693d547c9e3a083fc8eb2e50": {
+   "id": "cb2ca307693d547c9e3a083fc8eb2e50",
+   "company": "Baker Hughes",
+   "role": "Field Specialist Iii",
+   "location": "Alaska"
   },
   "aceedaf916ad84e4109eb7cd351fc238": {
    "id": "aceedaf916ad84e4109eb7cd351fc238",
@@ -5198,11 +5198,11 @@
    "role": "Warehouse / Yard Jockey Operator - D Shift",
    "location": "Kansas City"
   },
-  "97f2dfbbbe95b5dd856194e862f7ae00": {
-   "id": "97f2dfbbbe95b5dd856194e862f7ae00",
+  "dfbaff31f2a5819a9c28f04269268c62": {
+   "id": "dfbaff31f2a5819a9c28f04269268c62",
    "company": "Gibson Engineering",
    "role": "Warehouse Associate",
-   "location": "Atlanta"
+   "location": "Dallas"
   },
   "a652a12ace988a90b927df410d219693": {
    "id": "a652a12ace988a90b927df410d219693",
@@ -5234,12 +5234,6 @@
    "role": "Full-time Warehouse Associate 1st Shift – Cartersville, Ga",
    "location": "Atlanta"
   },
-  "e434f616928560729e8e30e1880e22eb": {
-   "id": "e434f616928560729e8e30e1880e22eb",
-   "company": "Five Below",
-   "role": "Seasonal Sales Associate Part Time - 1102",
-   "location": "Dallas"
-  },
   "6dac809e0f1036deafcef02b882aa7c2": {
    "id": "6dac809e0f1036deafcef02b882aa7c2",
    "company": "POP MART Global",
@@ -5258,23 +5252,11 @@
    "role": "Retail Sales Associate",
    "location": "Dallas"
   },
-  "040b70f92726d8fe3b90058377d2cb71": {
-   "id": "040b70f92726d8fe3b90058377d2cb71",
-   "company": "Nordstrom",
-   "role": "Retail Sales Floor Support - Bergen Town Center Rack",
-   "location": "New York"
-  },
   "c39952c44686388e9fc06a22663cc445": {
    "id": "c39952c44686388e9fc06a22663cc445",
    "company": "Nordstrom",
    "role": "Part-time Beauty Sales - Creed - Bellevue Square",
    "location": "Seattle"
-  },
-  "46dbe289ab56e657d30c51a0953a22f6": {
-   "id": "46dbe289ab56e657d30c51a0953a22f6",
-   "company": "Nordstrom",
-   "role": "Seasonal Salesperson- Shoes And Accessories- Brentwood Place Rack",
-   "location": "Bridgeport"
   },
   "055afb3850069aa08b601af019dc177a": {
    "id": "055afb3850069aa08b601af019dc177a",
@@ -5324,12 +5306,6 @@
    "role": "Retail Sales - Kids' Apparel & Shoes - King Of Prussia",
    "location": "West Chester"
   },
-  "1b995f454d649f924679197b8a8a5a94": {
-   "id": "1b995f454d649f924679197b8a8a5a94",
-   "company": "Nordstrom",
-   "role": "Retail Sales Floor Support - Mountain Grove Rack",
-   "location": "Hemet"
-  },
   "b94fbf27bbed1b51183b8885cd275441": {
    "id": "b94fbf27bbed1b51183b8885cd275441",
    "company": "Nordstrom",
@@ -5353,12 +5329,6 @@
    "company": "Nordstrom",
    "role": "Beauty Sales - Fresh & Beauty Rituals - Palo Alto",
    "location": "San Jose"
-  },
-  "c0f774567f93f0257d18f8db3decac86": {
-   "id": "c0f774567f93f0257d18f8db3decac86",
-   "company": "Nordstrom",
-   "role": "Seasonal & Regular Customer Service & Sales Floor Support - State Street Rack",
-   "location": "Chicago"
   },
   "2a8502768127fe477e76a4a6abeb0284": {
    "id": "2a8502768127fe477e76a4a6abeb0284",
@@ -5401,6 +5371,36 @@
    "company": "Weis Markets",
    "role": "Customer Experience Associate",
    "location": "New York"
+  },
+  "948e0f276ed32031505607aa4d33b28f": {
+   "id": "948e0f276ed32031505607aa4d33b28f",
+   "company": "Weis Markets",
+   "role": "Customer Experience Attendant",
+   "location": "005"
+  },
+  "d17ade3009ba332a84fd1b72a061d325": {
+   "id": "d17ade3009ba332a84fd1b72a061d325",
+   "company": "The TJX Companies, Inc",
+   "role": "Sales Associate",
+   "location": "Bloomington"
+  },
+  "563705891448624": {
+   "id": "563705891448624",
+   "company": "Alexander McQ Trading",
+   "role": "Mcqueen Client Advisor, Saks Beverly Hills",
+   "location": "Los Angeles"
+  },
+  "563705891270409": {
+   "id": "563705891270409",
+   "company": "Alexander McQueen",
+   "role": "Mcqueen Client Advisor, Woodbury Commons Outlet",
+   "location": "Santa Maria"
+  },
+  "05d49a0e61ef61fdb600e3ae8be18bef": {
+   "id": "05d49a0e61ef61fdb600e3ae8be18bef",
+   "company": "Gordon Food Service",
+   "role": "Warehouse Order Selector",
+   "location": "Dallas"
   },
   "edaaf4283df071df5743fab9300304c2": {
    "id": "edaaf4283df071df5743fab9300304c2",
@@ -5545,12 +5545,6 @@
    "company": "Slhn",
    "role": "Coordinator- School Of Medicine, Student Support",
    "location": "Indianapolis"
-  },
-  "200bf92ddc3377a616a6a2e6e0cc67df": {
-   "id": "200bf92ddc3377a616a6a2e6e0cc67df",
-   "company": "Slhn",
-   "role": "Practice Coordinator, Pediatric Neurology",
-   "location": "Center Valley"
   },
   "4c77bf5f1cc5de38f31870b3dc259c62": {
    "id": "4c77bf5f1cc5de38f31870b3dc259c62",
@@ -5875,6 +5869,12 @@
    "company": "Jobgether",
    "role": "Executive Assistant",
    "location": "Us"
+  },
+  "d46e84ff2c3562ee5c36caaafa0cc69f": {
+   "id": "d46e84ff2c3562ee5c36caaafa0cc69f",
+   "company": "Gateway Charitable Foundation Inc",
+   "role": "Administrative Assistant Ii",
+   "location": "Houston"
   }
  }
 }
