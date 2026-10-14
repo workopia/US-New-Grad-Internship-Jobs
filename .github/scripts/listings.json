@@ -12,8 +12,8 @@
   "as_of": "2026-10-14",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 370426,
-  "generated_at": "2026-10-14T00:04:31.582Z"
+  "country_live_total": 344779,
+  "generated_at": "2026-10-14T11:58:22.327Z"
  },
  "categories": [
   {
@@ -4835,6 +4835,23 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "$78,281–97,852/yr",
+   "id": "d83d6251ec6fb0549c0de44a32673795",
+   "source": "Workopia",
+   "company_name": "McDonald's",
+   "company_hi_slug": "mcdonald-s",
+   "title": "Supervisor, Technology Support",
+   "location": "Chicago",
+   "skills": "Technology Operations, Software Delivery Life",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-10-13T00:00:00.000Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/d83d6251ec6fb0549c0de44a32673795",
+   "category": "tech",
+   "tier": "Entry-level"
+  },
+  {
    "salary_display": "$155,000–180,000",
    "id": "a4681393883abf9d853ca993df5aed1b",
    "source": "Workopia",
@@ -5987,23 +6004,6 @@
    "date_posted": "2026-10-09T02:04:51.713Z",
    "active": true,
    "url": "https://workopia.io/jobs/cc37cf17ab6cdd108b07e5874163287d",
-   "category": "tech",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": "$85,000–115,000",
-   "id": "b4f1613c4efd54b8ecb512467f7203b7",
-   "source": "Workopia",
-   "company_name": "OneImaging",
-   "company_hi_slug": "oneimaging",
-   "title": "Full Stack Associate Software Engineer (umiami Only)",
-   "location": "Miami",
-   "skills": "React frontend and Typ, Full stack feature dev",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-10-09T02:03:41.000Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/b4f1613c4efd54b8ecb512467f7203b7",
    "category": "tech",
    "tier": "Entry-level"
   },

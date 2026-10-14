@@ -1682,6 +1682,12 @@
    "role": "Software Engineer I (onsite)",
    "location": "Cedar Rapids"
   },
+  "d83d6251ec6fb0549c0de44a32673795": {
+   "id": "d83d6251ec6fb0549c0de44a32673795",
+   "company": "McDonald's",
+   "role": "Supervisor, Technology Support",
+   "location": "Chicago"
+  },
   "a4681393883abf9d853ca993df5aed1b": {
    "id": "a4681393883abf9d853ca993df5aed1b",
    "company": "Xealth",
@@ -2089,12 +2095,6 @@
    "company": "TTM Technologies, Inc.",
    "role": "Front End - Test Programmer - 2nd Shift",
    "location": "San Jose"
-  },
-  "b4f1613c4efd54b8ecb512467f7203b7": {
-   "id": "b4f1613c4efd54b8ecb512467f7203b7",
-   "company": "OneImaging",
-   "role": "Full Stack Associate Software Engineer (umiami Only)",
-   "location": "Miami"
   },
   "5dda58d1d1e36b2ecd80d87f0b9a38fe": {
    "id": "5dda58d1d1e36b2ecd80d87f0b9a38fe",
